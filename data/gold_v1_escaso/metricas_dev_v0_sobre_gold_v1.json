@@ -1,0 +1,110 @@
+{
+  "version_modelo": "reglas-v0.2-lexico",
+  "conjunto": "dev",
+  "fecha": "2026-10-25T09:14:47",
+  "n_comentarios": 99,
+  "n_gold_aspectos": 113,
+  "n_pred_aspectos": 187,
+  "f1_micro_pol": 0.3,
+  "f1_micro_pol_ic95": [
+    0.231016755521706,
+    0.3792567423578717
+  ],
+  "f1_micro_det": 0.5266666666666667,
+  "f1_micro_det_ic95": [
+    0.46205570291777187,
+    0.5882554391619662
+  ],
+  "f1_macro_pol": 0.23615047408150858,
+  "f1_macro_det": 0.4139347760037415,
+  "exactitud_polaridad": 0.569620253164557,
+  "recall_negativos": 0.2653061224489796,
+  "precision_negativos": 0.4642857142857143,
+  "por_aspecto": {
+    "Retroalimentación": {
+      "f1_pol": 0.0,
+      "f1_det": 0.0,
+      "precision_pol": 0.0,
+      "recall_pol": 0.0,
+      "exactitud_polaridad": 0.0,
+      "n_gold": 3,
+      "n_pred": 2
+    },
+    "Claridad de evaluación": {
+      "f1_pol": 0.0,
+      "f1_det": 0.28571428571428575,
+      "precision_pol": 0.0,
+      "recall_pol": 0.0,
+      "exactitud_polaridad": 0.0,
+      "n_gold": 5,
+      "n_pred": 2
+    },
+    "Calidad de clase": {
+      "f1_pol": 0.27027027027027023,
+      "f1_det": 0.4054054054054054,
+      "precision_pol": 0.18867924528301888,
+      "recall_pol": 0.47619047619047616,
+      "exactitud_polaridad": 0.6666666666666666,
+      "n_gold": 21,
+      "n_pred": 53
+    },
+    "Accesibilidad y trato": {
+      "f1_pol": 0.3448275862068966,
+      "f1_det": 0.6551724137931034,
+      "precision_pol": 0.29411764705882354,
+      "recall_pol": 0.4166666666666667,
+      "exactitud_polaridad": 0.5263157894736842,
+      "n_gold": 24,
+      "n_pred": 34
+    },
+    "Carga de trabajo": {
+      "f1_pol": 0.3,
+      "f1_det": 0.5,
+      "precision_pol": 0.2727272727272727,
+      "recall_pol": 0.3333333333333333,
+      "exactitud_polaridad": 0.6,
+      "n_gold": 9,
+      "n_pred": 11
+    },
+    "Rigor de calificación": {
+      "f1_pol": 0.4,
+      "f1_det": 0.7714285714285716,
+      "precision_pol": 0.358974358974359,
+      "recall_pol": 0.45161290322580644,
+      "exactitud_polaridad": 0.5185185185185185,
+      "n_gold": 31,
+      "n_pred": 39
+    },
+    "Organización / proyectos": {
+      "f1_pol": 0.4,
+      "f1_det": 0.4,
+      "precision_pol": 0.2857142857142857,
+      "recall_pol": 0.6666666666666666,
+      "exactitud_polaridad": 1.0,
+      "n_gold": 3,
+      "n_pred": 7
+    },
+    "Clima de aula": {
+      "f1_pol": 0.3333333333333333,
+      "f1_det": 0.4,
+      "precision_pol": 0.25,
+      "recall_pol": 0.5,
+      "exactitud_polaridad": 0.8333333333333334,
+      "n_gold": 10,
+      "n_pred": 20
+    },
+    "Asistencia / formato": {
+      "f1_pol": 0.07692307692307693,
+      "f1_det": 0.3076923076923077,
+      "precision_pol": 0.05263157894736842,
+      "recall_pol": 0.14285714285714285,
+      "exactitud_polaridad": 0.25,
+      "n_gold": 7,
+      "n_pred": 19
+    }
+  },
+  "gold_sha256": "f7cc8f9a547f",
+  "pred_sha256": "33e74911ac21",
+  "bootstrap": 1000,
+  "semilla_bootstrap": 42
+}

@@ -1,0 +1,11 @@
+# Entorno conda del proyecto. Python lo pone conda; los paquetes los instala pip desde requirements.txt,
+# igual que en el entorno "ecid" original (ahí todo salió de PyPI salvo Python y pip).
+# Ejecutar desde la raíz del repo: conda env create -f environment.yml
+name: docentia
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - -r requirements.txt

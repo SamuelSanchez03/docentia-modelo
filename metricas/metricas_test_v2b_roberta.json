@@ -1,0 +1,110 @@
+{
+  "version_modelo": "v2b-roberta-base",
+  "conjunto": "test",
+  "fecha": "2026-10-30T23:14:27",
+  "n_comentarios": 300,
+  "n_gold_aspectos": 667,
+  "n_pred_aspectos": 582,
+  "f1_micro_pol": 0.6469175340272217,
+  "f1_micro_pol_ic95": [
+    0.6139865265906932,
+    0.679707264691235
+  ],
+  "f1_micro_det": 0.7461969575660528,
+  "f1_micro_det_ic95": [
+    0.7195342487019707,
+    0.7721858233445424
+  ],
+  "f1_macro_pol": 0.5356804378863202,
+  "f1_macro_det": 0.6298541487266979,
+  "exactitud_polaridad": 0.8669527896995708,
+  "recall_negativos": 0.5833333333333334,
+  "precision_negativos": 0.7430167597765364,
+  "por_aspecto": {
+    "Retroalimentación": {
+      "f1_pol": 0.23529411764705882,
+      "f1_det": 0.23529411764705882,
+      "precision_pol": 0.6666666666666666,
+      "recall_pol": 0.14285714285714285,
+      "exactitud_polaridad": 1.0,
+      "n_gold": 14,
+      "n_pred": 3
+    },
+    "Claridad de evaluación": {
+      "f1_pol": 0.5625,
+      "f1_det": 0.6458333333333334,
+      "precision_pol": 0.5294117647058824,
+      "recall_pol": 0.6,
+      "exactitud_polaridad": 0.8709677419354839,
+      "n_gold": 45,
+      "n_pred": 51
+    },
+    "Calidad de clase": {
+      "f1_pol": 0.7692307692307693,
+      "f1_det": 0.8461538461538461,
+      "precision_pol": 0.8247422680412371,
+      "recall_pol": 0.7207207207207207,
+      "exactitud_polaridad": 0.9090909090909091,
+      "n_gold": 222,
+      "n_pred": 194
+    },
+    "Accesibilidad y trato": {
+      "f1_pol": 0.7387387387387387,
+      "f1_det": 0.8018018018018019,
+      "precision_pol": 0.7735849056603774,
+      "recall_pol": 0.7068965517241379,
+      "exactitud_polaridad": 0.9213483146067416,
+      "n_gold": 116,
+      "n_pred": 106
+    },
+    "Carga de trabajo": {
+      "f1_pol": 0.4,
+      "f1_det": 0.5111111111111111,
+      "precision_pol": 0.6206896551724138,
+      "recall_pol": 0.29508196721311475,
+      "exactitud_polaridad": 0.782608695652174,
+      "n_gold": 61,
+      "n_pred": 29
+    },
+    "Rigor de calificación": {
+      "f1_pol": 0.6378378378378379,
+      "f1_det": 0.8108108108108109,
+      "precision_pol": 0.6483516483516484,
+      "recall_pol": 0.6276595744680851,
+      "exactitud_polaridad": 0.7866666666666666,
+      "n_gold": 94,
+      "n_pred": 91
+    },
+    "Organización / proyectos": {
+      "f1_pol": 0.4545454545454545,
+      "f1_det": 0.5,
+      "precision_pol": 0.47619047619047616,
+      "recall_pol": 0.43478260869565216,
+      "exactitud_polaridad": 0.9090909090909091,
+      "n_gold": 23,
+      "n_pred": 21
+    },
+    "Clima de aula": {
+      "f1_pol": 0.6593406593406594,
+      "f1_det": 0.6813186813186813,
+      "precision_pol": 0.8108108108108109,
+      "recall_pol": 0.5555555555555556,
+      "exactitud_polaridad": 0.967741935483871,
+      "n_gold": 54,
+      "n_pred": 37
+    },
+    "Asistencia / formato": {
+      "f1_pol": 0.3636363636363636,
+      "f1_det": 0.6363636363636364,
+      "precision_pol": 0.32,
+      "recall_pol": 0.42105263157894735,
+      "exactitud_polaridad": 0.5714285714285714,
+      "n_gold": 38,
+      "n_pred": 50
+    }
+  },
+  "gold_sha256": "e6aed15e1dcb",
+  "pred_sha256": "73035999a0e3",
+  "bootstrap": 1000,
+  "semilla_bootstrap": 42
+}

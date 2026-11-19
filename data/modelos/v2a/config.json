@@ -1,0 +1,15 @@
+{
+  "version": "v2a-minilm-lr",
+  "embedding": "sentence-transformers/all-MiniLM-L6-v2",
+  "C": 0.25,
+  "t": 0.85,
+  "semilla": 42,
+  "n_oraciones": 15259,
+  "n_comentarios": 3998,
+  "val_f1_pol": 0.5895,
+  "val_f1_det": 0.7783,
+  "silver_prompt": [
+    "prompt_v1-373bda23"
+  ],
+  "fecha": "2026-10-30T20:50:22"
+}

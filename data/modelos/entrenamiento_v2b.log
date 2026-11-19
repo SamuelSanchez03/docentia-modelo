@@ -1,0 +1,87 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 13444.54it/s]
+[transformers] [1mRobertaModel LOAD REPORT[0m from: distilroberta-base
+Key                       | Status     |  | 
+--------------------------+------------+--+-
+lm_head.layer_norm.weight | UNEXPECTED |  | 
+lm_head.bias              | UNEXPECTED |  | 
+lm_head.layer_norm.bias   | UNEXPECTED |  | 
+lm_head.dense.weight      | UNEXPECTED |  | 
+lm_head.dense.bias        | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+Entrenamiento: 13,642 oraciones · validación interna: 1,617 · 427 pasos por época · 3 épocas · 8 hilos
+  época 1/3 · paso 20/427 · pérdida 13.090 · 0.4 min · faltan ~8 min de esta época
+  época 1/3 · paso 40/427 · pérdida 12.883 · 0.7 min · faltan ~7 min de esta época
+  época 1/3 · paso 60/427 · pérdida 12.179 · 1.1 min · faltan ~7 min de esta época
+  época 1/3 · paso 80/427 · pérdida 11.214 · 1.4 min · faltan ~6 min de esta época
+  época 1/3 · paso 100/427 · pérdida 10.559 · 1.8 min · faltan ~6 min de esta época
+  época 1/3 · paso 120/427 · pérdida 10.083 · 2.1 min · faltan ~5 min de esta época
+  época 1/3 · paso 140/427 · pérdida 9.725 · 2.5 min · faltan ~5 min de esta época
+  época 1/3 · paso 160/427 · pérdida 9.373 · 2.8 min · faltan ~5 min de esta época
+  época 1/3 · paso 180/427 · pérdida 9.055 · 3.2 min · faltan ~4 min de esta época
+  época 1/3 · paso 200/427 · pérdida 8.791 · 3.5 min · faltan ~4 min de esta época
+  época 1/3 · paso 220/427 · pérdida 8.508 · 3.9 min · faltan ~4 min de esta época
+  época 1/3 · paso 240/427 · pérdida 8.235 · 4.2 min · faltan ~3 min de esta época
+  época 1/3 · paso 260/427 · pérdida 8.009 · 4.6 min · faltan ~3 min de esta época
+  época 1/3 · paso 280/427 · pérdida 7.807 · 4.9 min · faltan ~3 min de esta época
+  época 1/3 · paso 300/427 · pérdida 7.630 · 5.3 min · faltan ~2 min de esta época
+  época 1/3 · paso 320/427 · pérdida 7.486 · 5.6 min · faltan ~2 min de esta época
+  época 1/3 · paso 340/427 · pérdida 7.334 · 6.0 min · faltan ~2 min de esta época
+  época 1/3 · paso 360/427 · pérdida 7.194 · 6.3 min · faltan ~1 min de esta época
+  época 1/3 · paso 380/427 · pérdida 7.058 · 6.8 min · faltan ~1 min de esta época
+  época 1/3 · paso 400/427 · pérdida 6.937 · 7.1 min · faltan ~0 min de esta época
+  época 1/3 · paso 420/427 · pérdida 6.831 · 7.5 min · faltan ~0 min de esta época
+  época 1/3 · paso 427/427 · pérdida 6.792 · 7.6 min · faltan ~0 min de esta época
+Época 1: evaluando en la validación interna...
+Época 1: validación interna (contra el silver) · F1 aspecto+pol 0.648 · detección 0.791 · t=0.75
+  época 2/3 · paso 20/427 · pérdida 4.328 · 0.3 min · faltan ~7 min de esta época
+  época 2/3 · paso 40/427 · pérdida 4.392 · 0.7 min · faltan ~7 min de esta época
+  época 2/3 · paso 60/427 · pérdida 4.284 · 1.0 min · faltan ~6 min de esta época
+  época 2/3 · paso 80/427 · pérdida 4.232 · 1.4 min · faltan ~6 min de esta época
+  época 2/3 · paso 100/427 · pérdida 4.172 · 1.7 min · faltan ~6 min de esta época
+  época 2/3 · paso 120/427 · pérdida 4.153 · 2.1 min · faltan ~5 min de esta época
+  época 2/3 · paso 140/427 · pérdida 4.121 · 2.4 min · faltan ~5 min de esta época
+  época 2/3 · paso 160/427 · pérdida 4.093 · 2.8 min · faltan ~5 min de esta época
+  época 2/3 · paso 180/427 · pérdida 4.086 · 3.2 min · faltan ~4 min de esta época
+  época 2/3 · paso 200/427 · pérdida 4.068 · 3.5 min · faltan ~4 min de esta época
+  época 2/3 · paso 220/427 · pérdida 4.038 · 3.9 min · faltan ~4 min de esta época
+  época 2/3 · paso 240/427 · pérdida 4.036 · 4.2 min · faltan ~3 min de esta época
+  época 2/3 · paso 260/427 · pérdida 4.025 · 4.6 min · faltan ~3 min de esta época
+  época 2/3 · paso 280/427 · pérdida 3.987 · 5.0 min · faltan ~3 min de esta época
+  época 2/3 · paso 300/427 · pérdida 3.957 · 5.3 min · faltan ~2 min de esta época
+  época 2/3 · paso 320/427 · pérdida 3.947 · 5.7 min · faltan ~2 min de esta época
+  época 2/3 · paso 340/427 · pérdida 3.937 · 6.0 min · faltan ~2 min de esta época
+  época 2/3 · paso 360/427 · pérdida 3.940 · 6.4 min · faltan ~1 min de esta época
+  época 2/3 · paso 380/427 · pérdida 3.921 · 6.7 min · faltan ~1 min de esta época
+  época 2/3 · paso 400/427 · pérdida 3.895 · 7.1 min · faltan ~0 min de esta época
+  época 2/3 · paso 420/427 · pérdida 3.878 · 7.4 min · faltan ~0 min de esta época
+  época 2/3 · paso 427/427 · pérdida 3.879 · 7.5 min · faltan ~0 min de esta época
+Época 2: evaluando en la validación interna...
+Época 2: validación interna (contra el silver) · F1 aspecto+pol 0.699 · detección 0.838 · t=0.8
+  época 3/3 · paso 20/427 · pérdida 3.299 · 0.3 min · faltan ~7 min de esta época
+  época 3/3 · paso 40/427 · pérdida 3.261 · 0.7 min · faltan ~6 min de esta época
+  época 3/3 · paso 60/427 · pérdida 3.378 · 1.0 min · faltan ~6 min de esta época
+  época 3/3 · paso 80/427 · pérdida 3.397 · 1.4 min · faltan ~6 min de esta época
+  época 3/3 · paso 100/427 · pérdida 3.349 · 1.8 min · faltan ~6 min de esta época
+  época 3/3 · paso 120/427 · pérdida 3.352 · 2.2 min · faltan ~6 min de esta época
+  época 3/3 · paso 140/427 · pérdida 3.350 · 2.5 min · faltan ~5 min de esta época
+  época 3/3 · paso 160/427 · pérdida 3.341 · 2.9 min · faltan ~5 min de esta época
+  época 3/3 · paso 180/427 · pérdida 3.321 · 3.2 min · faltan ~4 min de esta época
+  época 3/3 · paso 200/427 · pérdida 3.294 · 3.6 min · faltan ~4 min de esta época
+  época 3/3 · paso 220/427 · pérdida 3.274 · 3.9 min · faltan ~4 min de esta época
+  época 3/3 · paso 240/427 · pérdida 3.259 · 4.3 min · faltan ~3 min de esta época
+  época 3/3 · paso 260/427 · pérdida 3.249 · 4.6 min · faltan ~3 min de esta época
+  época 3/3 · paso 280/427 · pérdida 3.247 · 5.0 min · faltan ~3 min de esta época
+  época 3/3 · paso 300/427 · pérdida 3.230 · 5.3 min · faltan ~2 min de esta época
+  época 3/3 · paso 320/427 · pérdida 3.227 · 5.7 min · faltan ~2 min de esta época
+  época 3/3 · paso 340/427 · pérdida 3.228 · 6.1 min · faltan ~2 min de esta época
+  época 3/3 · paso 360/427 · pérdida 3.222 · 6.5 min · faltan ~1 min de esta época
+  época 3/3 · paso 380/427 · pérdida 3.222 · 6.8 min · faltan ~1 min de esta época
+  época 3/3 · paso 400/427 · pérdida 3.211 · 7.1 min · faltan ~0 min de esta época
+  época 3/3 · paso 420/427 · pérdida 3.208 · 7.5 min · faltan ~0 min de esta época
+  época 3/3 · paso 427/427 · pérdida 3.198 · 7.6 min · faltan ~0 min de esta época
+Época 3: evaluando en la validación interna...
+Época 3: validación interna (contra el silver) · F1 aspecto+pol 0.705 · detección 0.851 · t=0.75
+Listo. Mejor época 3 (umbral 0.75) guardada en data/modelos/v2b/modelo.pt. Puedes borrar data/modelos/v2b/checkpoint.pt (~1 GB) si no vas a reanudar.

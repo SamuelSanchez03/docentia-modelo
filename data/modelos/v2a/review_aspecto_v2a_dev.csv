@@ -1,0 +1,292 @@
+review_aspecto_id,review_id,aspecto,polaridad,evidencia,version_modelo
+1,818,Calidad de clase,mixto_neutro,The textbook is fantastic (ha'yesod) even though he jumps around in it.,v2a-minilm-lr
+2,818,Clima de aula,negativo,He's old-fashioned but (usually) in a charming way and will not teach you 'current' hebrew.,v2a-minilm-lr
+3,1447,Retroalimentación,negativo,But lets hope it doesnt happen to you because she will give you an F for missed assignments !,v2a-minilm-lr
+4,1447,Claridad de evaluación,negativo,Her grading is bias.,v2a-minilm-lr
+5,1447,Accesibilidad y trato,negativo,Rude.,v2a-minilm-lr
+6,1447,Rigor de calificación,negativo,Her grading is bias.,v2a-minilm-lr
+7,1447,Clima de aula,negativo,Rude.,v2a-minilm-lr
+8,1447,Asistencia / formato,negativo,"She missed class at least three times for personal reasons, which is fine , life happens !!!",v2a-minilm-lr
+9,1460,Retroalimentación,positivo,"She does grade her papers tough, but her comments and feedback would help you do better.",v2a-minilm-lr
+10,1460,Calidad de clase,positivo,Ms. Lashun Griffin is a really great teacher .,v2a-minilm-lr
+11,1460,Accesibilidad y trato,positivo,She's there to help you.,v2a-minilm-lr
+12,1460,Rigor de calificación,negativo,"She does grade her papers tough, but her comments and feedback would help you do better.",v2a-minilm-lr
+13,1782,Claridad de evaluación,mixto_neutro,Lets you use one page of notes for test.,v2a-minilm-lr
+14,1782,Accesibilidad y trato,positivo,Willing to help you outside of class if you don't understand.,v2a-minilm-lr
+15,1782,Rigor de calificación,positivo,"Fair, multiple choice tests, grades on a curve.",v2a-minilm-lr
+16,1782,Clima de aula,negativo,He is hard to hear so sit in front.,v2a-minilm-lr
+17,1782,Asistencia / formato,positivo,Lets you use one page of notes for test.,v2a-minilm-lr
+18,1784,Calidad de clase,negativo,THIS TEACHER IS SO HARD JUST BECAUSE YOU CAN'T UNDERSTAND WHAT HE'S SAYING AND HE MAKES UP DUMB ACCOUNTING JOKES,v2a-minilm-lr
+19,1784,Clima de aula,mixto_neutro,THIS TEACHER IS SO HARD JUST BECAUSE YOU CAN'T UNDERSTAND WHAT HE'S SAYING AND HE MAKES UP DUMB ACCOUNTING JOKES,v2a-minilm-lr
+20,2056,Calidad de clase,positivo,she is a very good teacher,v2a-minilm-lr
+21,2612,Calidad de clase,positivo,Great teacher.,v2a-minilm-lr
+22,2612,Accesibilidad y trato,positivo,Very easy and helpful.,v2a-minilm-lr
+23,2612,Rigor de calificación,mixto_neutro,Very easy and helpful.,v2a-minilm-lr
+24,2612,Clima de aula,positivo,Makes stuff interesting.,v2a-minilm-lr
+25,3445,Calidad de clase,negativo,"You must work hard in this class because you don't get too much from the lectures, it's just too boring.",v2a-minilm-lr
+26,3445,Accesibilidad y trato,negativo,Don't take him if you're not interested.,v2a-minilm-lr
+27,3445,Carga de trabajo,negativo,"You must work hard in this class because you don't get too much from the lectures, it's just too boring.",v2a-minilm-lr
+28,3445,Rigor de calificación,mixto_neutro,"You must work hard in this class because you don't get too much from the lectures, it's just too boring.",v2a-minilm-lr
+29,3453,Calidad de clase,negativo,If you are looking for a class where you learn nothing and everybody fails then this class is for you.,v2a-minilm-lr
+30,3456,Calidad de clase,negativo,he didnt even know what he was doing.,v2a-minilm-lr
+31,3456,Asistencia / formato,mixto_neutro,"He didnt even take attendance, and i didnt even go to lab.",v2a-minilm-lr
+32,3459,Calidad de clase,negativo,Unfortunately she is just not qualified to teach about the Middle East.,v2a-minilm-lr
+33,3459,Clima de aula,negativo,"Rather than providing students with knowledge they need to engage and combat the paradigms in question, she attempts to train them as activists.",v2a-minilm-lr
+34,3481,Claridad de evaluación,negativo,His tests are not very hard and he is very liberal with his grading.,v2a-minilm-lr
+35,3481,Calidad de clase,mixto_neutro,"Thick accent, hard to understand but straight forward, follows the book.",v2a-minilm-lr
+36,3481,Rigor de calificación,negativo,His tests are not very hard and he is very liberal with his grading.,v2a-minilm-lr
+37,3547,Retroalimentación,negativo,"You can use your notes on tests (all essay), but she doesn't really tell you what she's looking for so grades can be hit and miss.",v2a-minilm-lr
+38,3547,Claridad de evaluación,negativo,"Her grading scale is tougher than most, an ""A"" is 95 % and above.",v2a-minilm-lr
+39,3547,Carga de trabajo,positivo,"The class isn't really difficult, but she assigns a lot of homework and two group presentations throughout the semester which require a lot of work.",v2a-minilm-lr
+40,3547,Rigor de calificación,positivo,"Her grading scale is tougher than most, an ""A"" is 95 % and above.",v2a-minilm-lr
+41,3547,Organización / proyectos,mixto_neutro,"The class isn't really difficult, but she assigns a lot of homework and two group presentations throughout the semester which require a lot of work.",v2a-minilm-lr
+42,3547,Asistencia / formato,positivo,"You can use your notes on tests (all essay), but she doesn't really tell you what she's looking for so grades can be hit and miss.",v2a-minilm-lr
+43,3848,Claridad de evaluación,negativo,The guy doesn't know anything unless the text is right in front of him.,v2a-minilm-lr
+44,3848,Calidad de clase,negativo,The guy doesn't know anything unless the text is right in front of him.,v2a-minilm-lr
+45,3848,Rigor de calificación,mixto_neutro,Hardest class I've ever taken.,v2a-minilm-lr
+46,3856,Rigor de calificación,mixto_neutro,Hard!!,v2a-minilm-lr
+47,3997,Calidad de clase,positivo,She is a wonderful professor.,v2a-minilm-lr
+48,3998,Accesibilidad y trato,positivo,She is very helpful and willing to help if you are behind and very interesting class,v2a-minilm-lr
+49,4267,Accesibilidad y trato,mixto_neutro,"Great ideas and very helpful, those of you that think he is hot need help",v2a-minilm-lr
+50,5027,Accesibilidad y trato,negativo,Can't say anything negative about this guy.,v2a-minilm-lr
+51,5137,Claridad de evaluación,negativo,Some of this stuff can be confusing or not interesting for most people.,v2a-minilm-lr
+52,5137,Calidad de clase,mixto_neutro,Some of this stuff can be confusing or not interesting for most people.,v2a-minilm-lr
+53,5137,Carga de trabajo,negativo,There are a lot of readings so be prepared.,v2a-minilm-lr
+54,5137,Rigor de calificación,positivo,"Not bad, but kind of a demanding prof.",v2a-minilm-lr
+55,5137,Asistencia / formato,negativo,The number one mistake is not showing up to class.,v2a-minilm-lr
+56,5451,Claridad de evaluación,positivo,The class is very straight-forward and what is expected of you is laid out clearly.,v2a-minilm-lr
+57,5451,Calidad de clase,positivo,The material he provides is very interesting and I really enjoyed the class.,v2a-minilm-lr
+58,5451,Accesibilidad y trato,negativo,He is extremely responsive if you ask him anything which is great.,v2a-minilm-lr
+59,5451,Carga de trabajo,positivo,"The work load is fair, & if you do the work you will do well.",v2a-minilm-lr
+60,5451,Rigor de calificación,positivo,"The work load is fair, & if you do the work you will do well.",v2a-minilm-lr
+61,5462,Claridad de evaluación,negativo,"He relies completely on unclear, vague PowerPoints, and his lectures are totally centered around describing studies.",v2a-minilm-lr
+62,5462,Calidad de clase,negativo,It's very boring and misleadingly difficult.,v2a-minilm-lr
+63,5462,Rigor de calificación,mixto_neutro,It's very boring and misleadingly difficult.,v2a-minilm-lr
+64,5804,Calidad de clase,negativo,Regurgitates the readings during class without interpreting them or trying to engage the students in discussions.,v2a-minilm-lr
+65,5804,Accesibilidad y trato,negativo,"When she does ask us questions, she barely understands our responses most of the time.",v2a-minilm-lr
+66,5804,Carga de trabajo,negativo,Regurgitates the readings during class without interpreting them or trying to engage the students in discussions.,v2a-minilm-lr
+67,5804,Asistencia / formato,mixto_neutro,Regurgitates the readings during class without interpreting them or trying to engage the students in discussions.,v2a-minilm-lr
+68,5807,Calidad de clase,positivo,Great prof.,v2a-minilm-lr
+69,5807,Clima de aula,positivo,This class turned out to be a lot more interesting and fun than I originally anticipated.,v2a-minilm-lr
+70,5811,Calidad de clase,positivo,This class was great.,v2a-minilm-lr
+71,5811,Accesibilidad y trato,negativo,"She did not seem closed to activism, and encouraged people to speak their minds on a variety of issues from many perspectives.",v2a-minilm-lr
+72,5811,Clima de aula,mixto_neutro,"She did not seem closed to activism, and encouraged people to speak their minds on a variety of issues from many perspectives.",v2a-minilm-lr
+73,5815,Calidad de clase,negativo,"If you did the readings, the lectures are extremely boring and useless.",v2a-minilm-lr
+74,5815,Accesibilidad y trato,mixto_neutro,Chantal does not encourage class discussions or participation.,v2a-minilm-lr
+75,5815,Carga de trabajo,negativo,"If you did the readings, the lectures are extremely boring and useless.",v2a-minilm-lr
+76,5815,Organización / proyectos,negativo,All she did in the lectures was summarize the week's readings.,v2a-minilm-lr
+77,5815,Clima de aula,negativo,Chantal does not encourage class discussions or participation.,v2a-minilm-lr
+78,5815,Asistencia / formato,negativo,Chantal does not encourage class discussions or participation.,v2a-minilm-lr
+79,5889,Retroalimentación,negativo,She is way too harsh when grading her essays.,v2a-minilm-lr
+80,5889,Calidad de clase,negativo,She thinks she's an English teacher apparently.,v2a-minilm-lr
+81,5889,Rigor de calificación,negativo,She is way too harsh when grading her essays.,v2a-minilm-lr
+82,6067,Retroalimentación,negativo,She got upset when we asked questions and when I asked for help she made me feel stupid.,v2a-minilm-lr
+83,6067,Calidad de clase,negativo,I did not enjoy her class and wouldn't recommend her.,v2a-minilm-lr
+84,6067,Accesibilidad y trato,mixto_neutro,She got upset when we asked questions and when I asked for help she made me feel stupid.,v2a-minilm-lr
+85,6067,Rigor de calificación,mixto_neutro,I took Prof. Fenton for Math 1410 and I struggle with math.,v2a-minilm-lr
+86,6364,Claridad de evaluación,negativo,"What you are supposed to do for projects may seem difficult, but as long as you just cover exactly what it says in the directions, you'll get 100% on them.",v2a-minilm-lr
+87,6364,Calidad de clase,mixto_neutro,Super approachable and very understanding!,v2a-minilm-lr
+88,6364,Carga de trabajo,mixto_neutro,"Tests are online, recommend reading the chapter only before test, do not need to otherwise.",v2a-minilm-lr
+89,6364,Rigor de calificación,negativo,"What you are supposed to do for projects may seem difficult, but as long as you just cover exactly what it says in the directions, you'll get 100% on them.",v2a-minilm-lr
+90,6364,Organización / proyectos,mixto_neutro,"What you are supposed to do for projects may seem difficult, but as long as you just cover exactly what it says in the directions, you'll get 100% on them.",v2a-minilm-lr
+91,6364,Asistencia / formato,mixto_neutro,"Tests are online, recommend reading the chapter only before test, do not need to otherwise.",v2a-minilm-lr
+92,6420,Carga de trabajo,positivo,Little to no warning about work.,v2a-minilm-lr
+93,6420,Organización / proyectos,negativo,Also is very unorganized with homework.,v2a-minilm-lr
+94,6730,Calidad de clase,positivo,Dr. Frank loves to teach and it shows!,v2a-minilm-lr
+95,6730,Accesibilidad y trato,mixto_neutro,If anyone has a problem he will take the time to help.,v2a-minilm-lr
+96,6730,Organización / proyectos,positivo,He goes at a pace where everyone can keep up.,v2a-minilm-lr
+97,6730,Clima de aula,positivo,Dr. Frank loves to teach and it shows!,v2a-minilm-lr
+98,6817,Claridad de evaluación,positivo,Exams online are difficult with fill in the blank answers that must be exact.,v2a-minilm-lr
+99,6817,Carga de trabajo,mixto_neutro,Assignments are heavy and instructions are walls of text.,v2a-minilm-lr
+100,6817,Rigor de calificación,mixto_neutro,Exams online are difficult with fill in the blank answers that must be exact.,v2a-minilm-lr
+101,6817,Organización / proyectos,positivo,Assignments are heavy and instructions are walls of text.,v2a-minilm-lr
+102,6817,Asistencia / formato,mixto_neutro,Exams online are difficult with fill in the blank answers that must be exact.,v2a-minilm-lr
+103,6846,Clima de aula,positivo,"He is enthusiastic, but he's a ****.",v2a-minilm-lr
+104,7003,Calidad de clase,negativo,Horrible teacher,v2a-minilm-lr
+105,7006,Calidad de clase,positivo,"Very knowledgeable, very professional, but killed us with the amount of homework",v2a-minilm-lr
+106,7181,Calidad de clase,positivo,Nancy is a nice person and really wants you to understand the material.,v2a-minilm-lr
+107,7181,Accesibilidad y trato,mixto_neutro,"Just do the work be nice, and ask questions and remember she is a person just like us!",v2a-minilm-lr
+108,7181,Clima de aula,negativo,In regards to the comments on her being mean and rude I did witness that but I think it is one of those things where if you nag her and get on her bad side you stay on her bad side.,v2a-minilm-lr
+109,7257,Retroalimentación,negativo,"I was a TA for her class and she not only sloughed everything off on us (including the grading), but she posted the grades we gave her late - wreaking havoc on my financial aid.",v2a-minilm-lr
+110,7889,Calidad de clase,mixto_neutro,"interesting class, but uses a powerpoint.",v2a-minilm-lr
+111,7889,Accesibilidad y trato,positivo,"very nice teacher, easy grader, very easy tests.",v2a-minilm-lr
+112,7889,Carga de trabajo,mixto_neutro,and two also easy papers to write.,v2a-minilm-lr
+113,7889,Rigor de calificación,mixto_neutro,and two also easy papers to write.,v2a-minilm-lr
+114,7891,Claridad de evaluación,positivo,"great study directions, easy tests",v2a-minilm-lr
+115,7891,Calidad de clase,negativo,lectures were fairly boring with a few corny jokes thrown in.,v2a-minilm-lr
+116,7891,Accesibilidad y trato,negativo,"he was actually rude to me when i would say hello to him outside of class, he didn't have a clue who i was so he would just ignore me!",v2a-minilm-lr
+117,7891,Clima de aula,negativo,"he was actually rude to me when i would say hello to him outside of class, he didn't have a clue who i was so he would just ignore me!",v2a-minilm-lr
+118,7891,Asistencia / formato,positivo,takes attendence every day which is the only reason i went to class.,v2a-minilm-lr
+119,8509,Calidad de clase,negativo,He really shouldn't be teaching anymore.,v2a-minilm-lr
+120,8509,Rigor de calificación,mixto_neutro,"Taking him, I thought that maybe college physics was just more difficult.",v2a-minilm-lr
+121,8517,Claridad de evaluación,negativo,Which means the exams suck.,v2a-minilm-lr
+122,8517,Calidad de clase,mixto_neutro,"However, since Phelps does everything different than the book and doesn't explain things you will not learn anything.",v2a-minilm-lr
+123,8517,Carga de trabajo,mixto_neutro,"The class seems like it will be easy on the first day because you get take home exams, open note quizzes and most of the homework problems done for you in class.",v2a-minilm-lr
+124,8517,Rigor de calificación,negativo,Which means the exams suck.,v2a-minilm-lr
+125,8517,Asistencia / formato,mixto_neutro,"The class seems like it will be easy on the first day because you get take home exams, open note quizzes and most of the homework problems done for you in class.",v2a-minilm-lr
+126,8522,Retroalimentación,positivo,He will mark correct answers wrong if he doesnt think in his opinion you knew how to do it.,v2a-minilm-lr
+127,8522,Claridad de evaluación,negativo,He will mark correct answers wrong if he doesnt think in his opinion you knew how to do it.,v2a-minilm-lr
+128,8522,Calidad de clase,negativo,Awful teacher.,v2a-minilm-lr
+129,8522,Accesibilidad y trato,mixto_neutro,When you go to his office hours for help he'll make you sit and wait while he takes personal calls then he talks down to you.,v2a-minilm-lr
+130,8522,Rigor de calificación,negativo,He will mark correct answers wrong if he doesnt think in his opinion you knew how to do it.,v2a-minilm-lr
+131,8522,Clima de aula,negativo,He will mark correct answers wrong if he doesnt think in his opinion you knew how to do it.,v2a-minilm-lr
+132,8566,Calidad de clase,mixto_neutro,"Talks alot, but has interesting things to say.",v2a-minilm-lr
+133,8566,Rigor de calificación,mixto_neutro,Easy A.,v2a-minilm-lr
+134,8614,Accesibilidad y trato,negativo,She is not to be trusted.,v2a-minilm-lr
+135,8682,Calidad de clase,positivo,"in all, fantastic professor, super passionate about what he teaches.",v2a-minilm-lr
+136,8682,Accesibilidad y trato,mixto_neutro,This man will reply to your e-mail in less than 5 mins.,v2a-minilm-lr
+137,8682,Rigor de calificación,mixto_neutro,Very hard for intro to media industries much easier for internship seminar.,v2a-minilm-lr
+138,8682,Organización / proyectos,positivo,"by far, the most useful class i have taken at fordham",v2a-minilm-lr
+139,8682,Clima de aula,positivo,"in all, fantastic professor, super passionate about what he teaches.",v2a-minilm-lr
+140,8875,Accesibilidad y trato,positivo,Cumpton is the like the cool neighborhood grandma that gives advice and always has cookies.,v2a-minilm-lr
+141,8875,Clima de aula,positivo,"If you take a night class with her, you can always expect cookies and she tries to fill the class time with fun and interesting things to do.",v2a-minilm-lr
+142,8875,Asistencia / formato,mixto_neutro,"If you take a night class with her, you can always expect cookies and she tries to fill the class time with fun and interesting things to do.",v2a-minilm-lr
+143,9056,Calidad de clase,negativo,Worst teacher I have every had.,v2a-minilm-lr
+144,9060,Retroalimentación,mixto_neutro,when i wrote a good paper she asked me if it was my own?,v2a-minilm-lr
+145,9060,Claridad de evaluación,mixto_neutro,when i wrote a good paper she asked me if it was my own?,v2a-minilm-lr
+146,9060,Accesibilidad y trato,negativo,ed and she's rude.,v2a-minilm-lr
+147,9060,Carga de trabajo,negativo,way too much work for a gen.,v2a-minilm-lr
+148,9219,Calidad de clase,positivo,It was SO COOL--she's into the stuff I'm into!,v2a-minilm-lr
+149,9219,Clima de aula,positivo,It was SO COOL--she's into the stuff I'm into!,v2a-minilm-lr
+150,9401,Claridad de evaluación,negativo,The tests are ridiculous.,v2a-minilm-lr
+151,9401,Calidad de clase,negativo,Horrible prof.,v2a-minilm-lr
+152,9401,Carga de trabajo,negativo,They have almost nothing to do with lecture and require you to remember tiny statistics out of the book.,v2a-minilm-lr
+153,9401,Rigor de calificación,negativo,The tests are ridiculous.,v2a-minilm-lr
+154,9401,Asistencia / formato,negativo,I have only missed one class and I am always lost.,v2a-minilm-lr
+155,9985,Accesibilidad y trato,negativo,She is full of herself rude and refuses to answer questions when directly asked instead she says put it on the discussion board so your class mates can answer it I pay to have an instructor if I wanted to teach myself I would by a book do the work and ask friends if they,v2a-minilm-lr
+156,9985,Clima de aula,negativo,She is full of herself rude and refuses to answer questions when directly asked instead she says put it on the discussion board so your class mates can answer it I pay to have an instructor if I wanted to teach myself I would by a book do the work and ask friends if they,v2a-minilm-lr
+157,9985,Asistencia / formato,mixto_neutro,She is full of herself rude and refuses to answer questions when directly asked instead she says put it on the discussion board so your class mates can answer it I pay to have an instructor if I wanted to teach myself I would by a book do the work and ask friends if they,v2a-minilm-lr
+158,9989,Clima de aula,positivo,"Work is hard, but she is enthusiastic about it and doesn't understand that we don't share her passion.",v2a-minilm-lr
+159,9989,Asistencia / formato,mixto_neutro,Most of this class is online.,v2a-minilm-lr
+160,10020,Calidad de clase,positivo,He's my least favorite teacher I've ever had.,v2a-minilm-lr
+161,10020,Accesibilidad y trato,negativo,If you don't have the same mind set or agree with his answers he will argue with you until you force to give in.,v2a-minilm-lr
+162,10020,Rigor de calificación,mixto_neutro,"Meany is a tough, opinionated teacher.",v2a-minilm-lr
+163,10020,Clima de aula,negativo,If you don't have the same mind set or agree with his answers he will argue with you until you force to give in.,v2a-minilm-lr
+164,10457,Calidad de clase,positivo,Prof Colasurdo is an awesome professor.,v2a-minilm-lr
+165,10457,Clima de aula,positivo,"He is a great teacher and he is definitely not boring, has a great sense of humor.",v2a-minilm-lr
+166,10463,Calidad de clase,mixto_neutro,"i still enjoyed the class because it's an interesting topic, and he is a likeable guy, and he kind of grows on you.",v2a-minilm-lr
+167,10463,Rigor de calificación,mixto_neutro,it was a fairly easy A.,v2a-minilm-lr
+168,10463,Clima de aula,mixto_neutro,"i still enjoyed the class because it's an interesting topic, and he is a likeable guy, and he kind of grows on you.",v2a-minilm-lr
+169,10712,Accesibilidad y trato,mixto_neutro,Then he will go off on you for the smallest things.,v2a-minilm-lr
+170,10712,Clima de aula,negativo,His temper gets in the way of his teaching.,v2a-minilm-lr
+171,11345,Calidad de clase,negativo,"frustrating, hard to listen to-explanations are not clear and strait fwd like they should be making it hard to pay attention.",v2a-minilm-lr
+172,11571,Rigor de calificación,mixto_neutro,"I never had trouble with advanced Physics, and have a 3.",v2a-minilm-lr
+173,12661,Claridad de evaluación,positivo,"Gave us his powerpoints and the tests were open book/note, but you had to voice your opinion on those as well.",v2a-minilm-lr
+174,12661,Accesibilidad y trato,negativo,"He kind of trails off when he talks, not that a lot of what he says is important to take down.",v2a-minilm-lr
+175,12661,Rigor de calificación,positivo,"Gave us his powerpoints and the tests were open book/note, but you had to voice your opinion on those as well.",v2a-minilm-lr
+176,12712,Calidad de clase,positivo,He knows the material very well and adds many interesting details.,v2a-minilm-lr
+177,13047,Claridad de evaluación,negativo,"he does not explain the material clearly, in fact he will confuse you instead of making the subject easier.",v2a-minilm-lr
+178,13047,Calidad de clase,negativo,he is the worse professor i have ever had.,v2a-minilm-lr
+179,13047,Clima de aula,mixto_neutro,seriously DONOT take this professor he will make your life misrable.,v2a-minilm-lr
+180,13282,Calidad de clase,negativo,because the interim dean for MIS is the worst teacher in MIS!!!!,v2a-minilm-lr
+181,13760,Claridad de evaluación,positivo,"Energetic, Wonderful, Passionate, good projects, straight forward on test requirements",v2a-minilm-lr
+182,13760,Rigor de calificación,mixto_neutro,"Energetic, Wonderful, Passionate, good projects, straight forward on test requirements",v2a-minilm-lr
+183,13966,Claridad de evaluación,positivo,Just review the slides before the exam and you will get an A.,v2a-minilm-lr
+184,13966,Rigor de calificación,mixto_neutro,Easy A,v2a-minilm-lr
+185,13966,Asistencia / formato,positivo,He gives numerous amounts of extra credit.,v2a-minilm-lr
+186,14511,Calidad de clase,positivo,cool guy good teacher,v2a-minilm-lr
+187,14511,Accesibilidad y trato,positivo,cool guy good teacher,v2a-minilm-lr
+188,14841,Calidad de clase,negativo,HE IS TERRIBLE AT DOING THE JOB HE IS PAID TO DO.,v2a-minilm-lr
+189,14841,Accesibilidad y trato,negativo,AND ON TOP OF THAT HE IS A MEAN SPIRITED PERSON WHO DOESNT CARE FOR STUDENTS,v2a-minilm-lr
+190,14841,Clima de aula,negativo,AND ON TOP OF THAT HE IS A MEAN SPIRITED PERSON WHO DOESNT CARE FOR STUDENTS,v2a-minilm-lr
+191,15029,Calidad de clase,positivo,Favorite Class and Favorite Prof. Most useful class I've EVER taken.,v2a-minilm-lr
+192,15029,Clima de aula,positivo,FUNNY,v2a-minilm-lr
+193,15041,Accesibilidad y trato,negativo,Belittles his students.,v2a-minilm-lr
+194,15041,Clima de aula,negativo,Belittles his students.,v2a-minilm-lr
+195,15805,Claridad de evaluación,positivo,this guy will bend over backwords to make sure you understand the material and that you pass the class.,v2a-minilm-lr
+196,15805,Calidad de clase,positivo,this guy will bend over backwords to make sure you understand the material and that you pass the class.,v2a-minilm-lr
+197,15879,Claridad de evaluación,positivo,But he was fair on marking the SPSS project and Quiz 2.,v2a-minilm-lr
+198,15879,Calidad de clase,mixto_neutro,"Content is slightly tougher, but not bad.",v2a-minilm-lr
+199,15879,Accesibilidad y trato,positivo,He ensures ppl understands and sometimes adds some humor.,v2a-minilm-lr
+200,15879,Carga de trabajo,mixto_neutro,Just practice the HW Qs and ask help (he's helpful btw) when needed.,v2a-minilm-lr
+201,15879,Rigor de calificación,positivo,"Content is slightly tougher, but not bad.",v2a-minilm-lr
+202,15879,Clima de aula,positivo,He ensures ppl understands and sometimes adds some humor.,v2a-minilm-lr
+203,15879,Asistencia / formato,positivo,He ensures ppl understands and sometimes adds some humor.,v2a-minilm-lr
+204,15969,Calidad de clase,positivo,You will learn a lot in this class.,v2a-minilm-lr
+205,15969,Rigor de calificación,mixto_neutro,DONT TAKE THIS CLASS IF YOU WANT AN EASY A BECAUSE YOU WILL NOT GET ONE!!,v2a-minilm-lr
+206,16173,Claridad de evaluación,mixto_neutro,Quiz every class.,v2a-minilm-lr
+207,16173,Calidad de clase,positivo,"It is the most eye opening, provocative and inspirational course at Guelph.",v2a-minilm-lr
+208,16173,Carga de trabajo,negativo,100+ pages of reading/week.,v2a-minilm-lr
+209,16173,Rigor de calificación,mixto_neutro,Tough marker.,v2a-minilm-lr
+210,16173,Organización / proyectos,mixto_neutro,8:30AM 3 hour seminar.,v2a-minilm-lr
+211,16173,Asistencia / formato,mixto_neutro,8:30AM 3 hour seminar.,v2a-minilm-lr
+212,16487,Calidad de clase,positivo,She is very good,v2a-minilm-lr
+213,16490,Calidad de clase,positivo,Mrs. Bruce is a thorough and helpful teacher.,v2a-minilm-lr
+214,16490,Accesibilidad y trato,positivo,She is quick witted and can be difficult but will go out of her way to help any student pass or make an A.,v2a-minilm-lr
+215,16490,Rigor de calificación,mixto_neutro,She is quick witted and can be difficult but will go out of her way to help any student pass or make an A.,v2a-minilm-lr
+216,16716,Organización / proyectos,mixto_neutro,You will discuss them each day in class and he will give you a grade on participation.,v2a-minilm-lr
+217,16716,Asistencia / formato,mixto_neutro,You will discuss them each day in class and he will give you a grade on participation.,v2a-minilm-lr
+218,17027,Claridad de evaluación,mixto_neutro,You do most of the learning from the textbook & go over assigned work in class to clarify.,v2a-minilm-lr
+219,17027,Calidad de clase,mixto_neutro,You do most of the learning from the textbook & go over assigned work in class to clarify.,v2a-minilm-lr
+220,17027,Carga de trabajo,negativo,"Requires a lot of studying, effort, homework every night, class participation.",v2a-minilm-lr
+221,17027,Rigor de calificación,positivo,Intermediate Russian (0030 & 0040) is definitely challenging.,v2a-minilm-lr
+222,17027,Organización / proyectos,positivo,He expects a LOT from his students and the pace is pretty quick.,v2a-minilm-lr
+223,17027,Asistencia / formato,mixto_neutro,"Requires a lot of studying, effort, homework every night, class participation.",v2a-minilm-lr
+224,17282,Claridad de evaluación,negativo,very hard teacher doesnt explain well and tests you get slammed you study so much but never know whats on the test.,v2a-minilm-lr
+225,17282,Carga de trabajo,negativo,very hard teacher doesnt explain well and tests you get slammed you study so much but never know whats on the test.,v2a-minilm-lr
+226,17282,Rigor de calificación,mixto_neutro,very hard class dont know if ill survive this semester,v2a-minilm-lr
+227,17287,Claridad de evaluación,mixto_neutro,Even if you study you can have 4 chapters from the book and 3 chapters from the lab you have to know/ alot of the,v2a-minilm-lr
+228,17287,Carga de trabajo,mixto_neutro,Even if you study you can have 4 chapters from the book and 3 chapters from the lab you have to know/ alot of the,v2a-minilm-lr
+229,17287,Rigor de calificación,positivo,her labs are relatively easy she does help you with them but you better get extra credit because when time comes for a test you get slammed.,v2a-minilm-lr
+230,17938,Calidad de clase,negativo,He understands the inadequacy of some student's background and accomodates.,v2a-minilm-lr
+231,17938,Accesibilidad y trato,negativo,He understands the inadequacy of some student's background and accomodates.,v2a-minilm-lr
+232,17938,Carga de trabajo,negativo,"This course is time consuming and difficult, but that's the nature of the course content.",v2a-minilm-lr
+233,17938,Rigor de calificación,positivo,Best professor period; rewarding course.,v2a-minilm-lr
+234,17938,Organización / proyectos,mixto_neutro,After you're done all the projects you feel a sense of real accomplishment.,v2a-minilm-lr
+235,18196,Calidad de clase,positivo,"Best lecturer I have ever had, very interesting and you don't have to show up everyday if you don't want to.",v2a-minilm-lr
+236,18196,Asistencia / formato,mixto_neutro,Would recommend showing up .,v2a-minilm-lr
+237,18248,Claridad de evaluación,positivo,He goes through his lectures at a good pace to make sure you get what you need.,v2a-minilm-lr
+238,18248,Calidad de clase,positivo,Professor Potter is a really good and caring professor.,v2a-minilm-lr
+239,18248,Accesibilidad y trato,positivo,Professor Potter is a really good and caring professor.,v2a-minilm-lr
+240,18248,Carga de trabajo,negativo,"The only downside is that your graded on few things, but as long as you study hard its a great class to take.",v2a-minilm-lr
+241,18248,Rigor de calificación,positivo,"The only downside is that your graded on few things, but as long as you study hard its a great class to take.",v2a-minilm-lr
+242,18881,Claridad de evaluación,positivo,"You must go to her and ask specifically what will be on the test because if you do ALL the readings she assigns, you will literally have no other time for any other classes.",v2a-minilm-lr
+243,18881,Calidad de clase,negativo,Syllabus is sometimes a mess.,v2a-minilm-lr
+244,18881,Carga de trabajo,negativo,Teacher has a great attitude and is very helpful but many times is disorganized and assigns reading that you simply will not have time to do.,v2a-minilm-lr
+245,18881,Organización / proyectos,negativo,Syllabus is sometimes a mess.,v2a-minilm-lr
+246,18881,Asistencia / formato,mixto_neutro,"You must go to her and ask specifically what will be on the test because if you do ALL the readings she assigns, you will literally have no other time for any other classes.",v2a-minilm-lr
+247,18882,Calidad de clase,negativo,Most unorganized teacher I have ever had.,v2a-minilm-lr
+248,18882,Accesibilidad y trato,positivo,"She is a very sweet woman who will work with you depending on what you have going on in your life, but she assigns more homework than she can even grade.",v2a-minilm-lr
+249,18882,Carga de trabajo,positivo,"She is a very sweet woman who will work with you depending on what you have going on in your life, but she assigns more homework than she can even grade.",v2a-minilm-lr
+250,18882,Asistencia / formato,negativo,Thanksgiving break is next week and I have not gotten one grade back all year.,v2a-minilm-lr
+251,18942,Claridad de evaluación,positivo,"She teaches really good, her exams were based off everything she teaches.",v2a-minilm-lr
+252,18942,Calidad de clase,positivo,"She teaches really good, her exams were based off everything she teaches.",v2a-minilm-lr
+253,18942,Organización / proyectos,mixto_neutro,Also beware of group work.,v2a-minilm-lr
+254,18942,Asistencia / formato,negativo,SKIP CLASS YOU WON'T PASS.,v2a-minilm-lr
+255,19023,Claridad de evaluación,negativo,"She expects a lot, but there are no surprises.",v2a-minilm-lr
+256,19023,Accesibilidad y trato,positivo,"Dr. Kahan is a very nice, caring professor.",v2a-minilm-lr
+257,19023,Carga de trabajo,mixto_neutro,"Go to class, pay attention, participate, read the assigned readings, and you'll do well.",v2a-minilm-lr
+258,19023,Asistencia / formato,mixto_neutro,"Go to class, pay attention, participate, read the assigned readings, and you'll do well.",v2a-minilm-lr
+259,19135,Claridad de evaluación,negativo,Some test questions are confusing.,v2a-minilm-lr
+260,19135,Calidad de clase,positivo,"Overall, a pretty good teacher.",v2a-minilm-lr
+261,19135,Carga de trabajo,negativo,Write down everything!,v2a-minilm-lr
+262,19135,Rigor de calificación,negativo,Gives a maximum of 3 percentage points for extra credit.,v2a-minilm-lr
+263,19135,Asistencia / formato,positivo,Gives a maximum of 3 percentage points for extra credit.,v2a-minilm-lr
+264,19137,Calidad de clase,positivo,Super awesome teacher.,v2a-minilm-lr
+265,19137,Carga de trabajo,mixto_neutro,You need to take notes and come to class.,v2a-minilm-lr
+266,19137,Asistencia / formato,mixto_neutro,You need to take notes and come to class.,v2a-minilm-lr
+267,19146,Retroalimentación,positivo,"She always makes sure you get missed assignments/quizzes done and turned in, and is always there to help.",v2a-minilm-lr
+268,19146,Claridad de evaluación,positivo,"She always makes sure you get missed assignments/quizzes done and turned in, and is always there to help.",v2a-minilm-lr
+269,19146,Calidad de clase,positivo,Dr. Toth is awesome.,v2a-minilm-lr
+270,19146,Accesibilidad y trato,positivo,"She always makes sure you get missed assignments/quizzes done and turned in, and is always there to help.",v2a-minilm-lr
+271,19146,Carga de trabajo,negativo,There is quite a bit of material and you should always go to class...,v2a-minilm-lr
+272,19146,Organización / proyectos,positivo,"She always makes sure you get missed assignments/quizzes done and turned in, and is always there to help.",v2a-minilm-lr
+273,19146,Asistencia / formato,positivo,"She always makes sure you get missed assignments/quizzes done and turned in, and is always there to help.",v2a-minilm-lr
+274,19151,Calidad de clase,positivo,One of the best on campus!,v2a-minilm-lr
+275,19604,Claridad de evaluación,negativo,Some of the questions you have to just figure out for yourself.,v2a-minilm-lr
+276,19604,Calidad de clase,mixto_neutro,"ok, the only negative in his class is the hard quizes on blackboard.",v2a-minilm-lr
+277,19604,Accesibilidad y trato,negativo,"he is really into theatre and wants people to appreciate it, we watch alot of movies and there is no attendance policy, just dont sleep or walk out while he lectures",v2a-minilm-lr
+278,19604,Clima de aula,positivo,"he is really into theatre and wants people to appreciate it, we watch alot of movies and there is no attendance policy, just dont sleep or walk out while he lectures",v2a-minilm-lr
+279,19604,Asistencia / formato,mixto_neutro,"he is really into theatre and wants people to appreciate it, we watch alot of movies and there is no attendance policy, just dont sleep or walk out while he lectures",v2a-minilm-lr
+280,19605,Claridad de evaluación,negativo,Have the stuff that is on the quizes he never talks about.,v2a-minilm-lr
+281,19605,Calidad de clase,negativo,If you dont know what that is just think about it and picture it in your head.,v2a-minilm-lr
+282,19605,Asistencia / formato,mixto_neutro,Have the stuff that is on the quizes he never talks about.,v2a-minilm-lr
+283,19612,Accesibilidad y trato,mixto_neutro,I think he is really nice and very passionate about theatre.,v2a-minilm-lr
+284,19612,Clima de aula,positivo,I think he is really nice and very passionate about theatre.,v2a-minilm-lr
+285,19613,Calidad de clase,negativo,All of his class in on blackboard and he shows an inappropriate amount of movies for a college course.,v2a-minilm-lr
+286,19616,Accesibilidad y trato,mixto_neutro,Josh really loves talkig about weather and gets excited but he isn't great at communicating that info to his students.,v2a-minilm-lr
+287,19616,Rigor de calificación,negativo,Really lenient with accepting late assignments.,v2a-minilm-lr
+288,19616,Organización / proyectos,negativo,Really lenient with accepting late assignments.,v2a-minilm-lr
+289,19616,Asistencia / formato,negativo,Really lenient with accepting late assignments.,v2a-minilm-lr
+290,19620,Calidad de clase,mixto_neutro,not a bad teacher at all.,v2a-minilm-lr
+291,19620,Accesibilidad y trato,positivo,"Nice guy, loves weather...",v2a-minilm-lr

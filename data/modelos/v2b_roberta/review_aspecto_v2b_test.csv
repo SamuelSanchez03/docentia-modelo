@@ -1,0 +1,583 @@
+review_aspecto_id,review_id,aspecto,polaridad,evidencia,version_modelo
+1,42,Accesibilidad y trato,positivo,Nice guy though.,v2b-roberta-base
+2,44,Calidad de clase,negativo,His lectures are one random topic after another.,v2b-roberta-base
+3,44,Organización / proyectos,negativo,He is always late and never knows when the class is over...,v2b-roberta-base
+4,203,Claridad de evaluación,negativo,She is really bad about being clear about directions and waits till the last second to point out an issue with your work.,v2b-roberta-base
+5,203,Rigor de calificación,mixto_neutro,Do not take if looking for an easy A.,v2b-roberta-base
+6,203,Clima de aula,positivo,"She is passionate about human rights and I liked reading her writings about it, but that's the only thing I liked.",v2b-roberta-base
+7,369,Accesibilidad y trato,negativo,Has no respect for anyone.,v2b-roberta-base
+8,369,Rigor de calificación,mixto_neutro,Exams are MC and tricky.,v2b-roberta-base
+9,478,Calidad de clase,negativo,This teacher is not effective.,v2b-roberta-base
+10,730,Claridad de evaluación,positivo,"easy, reviews cover quizes and exams exactly.",v2b-roberta-base
+11,730,Rigor de calificación,mixto_neutro,"easy, reviews cover quizes and exams exactly.",v2b-roberta-base
+12,823,Accesibilidad y trato,positivo,Overall he is a very nice guy.,v2b-roberta-base
+13,823,Rigor de calificación,mixto_neutro,"If you dont know anything its not terribly hard, but youll have to work.",v2b-roberta-base
+14,824,Accesibilidad y trato,positivo,Very nice and helpful.,v2b-roberta-base
+15,824,Rigor de calificación,mixto_neutro,Easy class for someone who knows a little hebrew!,v2b-roberta-base
+16,826,Clima de aula,positivo,very funny :),v2b-roberta-base
+17,834,Calidad de clase,negativo,BORING!!!,v2b-roberta-base
+18,847,Calidad de clase,positivo,This professor is great.,v2b-roberta-base
+19,847,Carga de trabajo,mixto_neutro,this class only involves teaching the class for a day and writing two papers.,v2b-roberta-base
+20,847,Clima de aula,positivo,"Very easy and fun, just watching him teach makes you smile.",v2b-roberta-base
+21,1247,Calidad de clase,negativo,she got many problem wrong in from of the class in a row.,v2b-roberta-base
+22,1247,Accesibilidad y trato,negativo,treats you like a high school student.,v2b-roberta-base
+23,1249,Calidad de clase,negativo,She's the worst professor I've ever had at PCC.,v2b-roberta-base
+24,1249,Accesibilidad y trato,negativo,She wasn't even able to answer any questions.,v2b-roberta-base
+25,1255,Calidad de clase,negativo,Her lectures are tedious.,v2b-roberta-base
+26,1255,Accesibilidad y trato,negativo,She's very difficult to understand and not that helpful.,v2b-roberta-base
+27,1261,Calidad de clase,negativo,she likes to repeat how much she doesnt know about stats and that she only knows math.,v2b-roberta-base
+28,1339,Accesibilidad y trato,positivo,Mr. Strong does tutor after class or before in groups if needed to prepare for exams .,v2b-roberta-base
+29,1339,Rigor de calificación,mixto_neutro,"professor Strong is a really good professor class isn't easy ,and you will have to study ,take good notes ,and maybe even watch a couple of videos in order to really understand the material expected to know on Exams .",v2b-roberta-base
+30,1339,Asistencia / formato,positivo,"No quizzes, No homework Studying is HW",v2b-roberta-base
+31,1342,Calidad de clase,positivo,The teacher is wonderful and takes time to explain the material.,v2b-roberta-base
+32,1342,Rigor de calificación,mixto_neutro,This is not an easy class.,v2b-roberta-base
+33,1346,Calidad de clase,positivo,He is an amazing teacher.,v2b-roberta-base
+34,1346,Rigor de calificación,mixto_neutro,"If you are not a lazy student and you put the time in, you can guarantee an A or a B.",v2b-roberta-base
+35,1350,Claridad de evaluación,negativo,He's a good teacher but there isn't enough time to study for that much information when you have family and kids he's really critical on studying and test aren't what you think you don't really know where the exam is coming from he doesn't give reviews or study guides,v2b-roberta-base
+36,1354,Calidad de clase,positivo,I speak for all when I say this professor is just amazing.,v2b-roberta-base
+37,1354,Accesibilidad y trato,positivo,"On my point of view, he is not only a professor but also an advisor who wishes nothing more than the best in your career",v2b-roberta-base
+38,1355,Claridad de evaluación,mixto_neutro,"For example he starts giving reviews for test, broad reviews, but they do help.",v2b-roberta-base
+39,1355,Accesibilidad y trato,positivo,"Professor Strong is a good man, who genuinely cares about hes students.",v2b-roberta-base
+40,1355,Rigor de calificación,mixto_neutro,The test are hard because he doesnt want students to memorize the material but to understand how it works.,v2b-roberta-base
+41,1355,Asistencia / formato,mixto_neutro,"If you do the work, study hard and come to class theres no need to worry.",v2b-roberta-base
+42,1449,Calidad de clase,negativo,The absolute worst professor I have ever taken.,v2b-roberta-base
+43,1449,Accesibilidad y trato,mixto_neutro,I am a hard working student who cares about my grades.,v2b-roberta-base
+44,1449,Rigor de calificación,mixto_neutro,I am a hard working student who cares about my grades.,v2b-roberta-base
+45,1449,Organización / proyectos,negativo,Also no structure in the classroom; Had to go to her boss just to fix my grade,v2b-roberta-base
+46,1450,Accesibilidad y trato,negativo,I was a first time freshman in college taking Ms. Griffin and she was okay to start off but over time she became very annoying and rude.,v2b-roberta-base
+47,1454,Clima de aula,positivo,"She's very goofy; love her as a person, but that doesn't matter.",v2b-roberta-base
+48,1454,Asistencia / formato,negativo,"She doesn't cancel class, but she will have another professor come in and sub for her.",v2b-roberta-base
+49,1457,Calidad de clase,mixto_neutro,"She's a good professor overall, but if you're looking to do nothing and get an A she's not for you.",v2b-roberta-base
+50,1457,Accesibilidad y trato,positivo,"She's a tough grader, but is there to help if you ask.",v2b-roberta-base
+51,1457,Rigor de calificación,mixto_neutro,Her class isn't easy and only those who really want to learn will stay.,v2b-roberta-base
+52,1457,Asistencia / formato,negativo,She's adamant about class participation so she'll call everyone out at some point.,v2b-roberta-base
+53,1701,Calidad de clase,positivo,David is a good professor.,v2b-roberta-base
+54,1701,Carga de trabajo,negativo,Lots of readings and essays to write.,v2b-roberta-base
+55,1701,Asistencia / formato,positivo,"The best part of his classes are that there is no penalty for turning in late assignments and that attendance is optional, but I would recommend going to his lectures for further information.",v2b-roberta-base
+56,1702,Calidad de clase,negativo,-During his lectures he jumps all over the place and it is hard to follow; boring.,v2b-roberta-base
+57,1702,Accesibilidad y trato,positivo,David is a really nice guy and does want you to do well.,v2b-roberta-base
+58,1702,Carga de trabajo,mixto_neutro,-The whole classes is writing papers; there are small papers every week and both the mid-term and final are big papers.,v2b-roberta-base
+59,1702,Rigor de calificación,mixto_neutro,-Very tough grader,v2b-roberta-base
+60,1702,Organización / proyectos,negativo,"But, -He is late just about everyday.",v2b-roberta-base
+61,1741,Retroalimentación,negativo,"He also does not give good feedback, and is unorganized.",v2b-roberta-base
+62,1741,Calidad de clase,negativo,Max is like a robot and his lectures are boring.,v2b-roberta-base
+63,1741,Organización / proyectos,negativo,"He also does not give good feedback, and is unorganized.",v2b-roberta-base
+64,1743,Claridad de evaluación,negativo,Also the quizzes he gives are stupid and basically re worded from the last quiz.,v2b-roberta-base
+65,1743,Calidad de clase,negativo,"He was a decent teacher, but one thing I noticed was he didnt really care about the writing aspect of your paper.",v2b-roberta-base
+66,1743,Asistencia / formato,mixto_neutro,Also dont miss class.,v2b-roberta-base
+67,1749,Rigor de calificación,mixto_neutro,"English has always been my strongest subject, and I usually ace papers.",v2b-roberta-base
+68,1749,Asistencia / formato,mixto_neutro,Miss a peer editing day?,v2b-roberta-base
+69,1750,Claridad de evaluación,negativo,He is not clear about what the assignments are going to be about.,v2b-roberta-base
+70,1750,Calidad de clase,negativo,HE IS A HORRIBLE TEACHER.,v2b-roberta-base
+71,1750,Accesibilidad y trato,negativo,He doesn't care for his students.,v2b-roberta-base
+72,1750,Organización / proyectos,negativo,He is very unorganized.,v2b-roberta-base
+73,1750,Asistencia / formato,mixto_neutro,Attendance is a must.,v2b-roberta-base
+74,1754,Calidad de clase,negativo,"He is hard to talk to, extremely boring, and only does things that are convientent for him.",v2b-roberta-base
+75,1754,Accesibilidad y trato,negativo,It almost seems as if he can care less about his students.,v2b-roberta-base
+76,1758,Claridad de evaluación,negativo,Has stupid tests every class which are no help.,v2b-roberta-base
+77,1758,Calidad de clase,negativo,"He has no idea how to teach, would talk about random things and is never helpful with the papers.",v2b-roberta-base
+78,1758,Accesibilidad y trato,negativo,So hard to approach doesn't really care what your asking for.,v2b-roberta-base
+79,1787,Calidad de clase,negativo,he is a old man who just mumbles and can't teach!,v2b-roberta-base
+80,2053,Calidad de clase,positivo,I like her she is the best teacher in my perspective.,v2b-roberta-base
+81,2053,Accesibilidad y trato,positivo,"she is a really good teacher, has a nice personality.",v2b-roberta-base
+82,2053,Asistencia / formato,mixto_neutro,"If you attend the class regularly, do your assignment, and be active, then you will get a high mark.",v2b-roberta-base
+83,2070,Calidad de clase,mixto_neutro,Probably the worst CIS class I've taken.,v2b-roberta-base
+84,2076,Claridad de evaluación,negativo,he tells us to read the book for the quizzes then never puts that info on the quizzes.,v2b-roberta-base
+85,2076,Calidad de clase,negativo,These is without a doubt one of the worst classes i have.,v2b-roberta-base
+86,2076,Rigor de calificación,mixto_neutro,"Grades projects and what not easily, but its hard to get good test and quiz grades...",v2b-roberta-base
+87,2132,Calidad de clase,negativo,"hE LIKES TO RAMBLE ABOUT NONSENSE AND HIS tA'S ARE HALF RETARDED, ALTHOUGH HOT.",v2b-roberta-base
+88,2132,Accesibilidad y trato,negativo,HE'S NOT VERY INTERESTING.,v2b-roberta-base
+89,2178,Claridad de evaluación,negativo,"What is emphasized in class is not what is tested on, rather there is a very heavy focus on material specifically NOT emphasized.",v2b-roberta-base
+90,2178,Calidad de clase,positivo,I like his lectures and labs.,v2b-roberta-base
+91,2385,Claridad de evaluación,negativo,only hard thing is your final paper which she does not go over.,v2b-roberta-base
+92,2385,Calidad de clase,negativo,really boring though.,v2b-roberta-base
+93,2385,Rigor de calificación,mixto_neutro,VERY EASY.,v2b-roberta-base
+94,2385,Asistencia / formato,mixto_neutro,its all in attendance.,v2b-roberta-base
+95,2393,Calidad de clase,negativo,"She has no idea what she's talking about, a complete bafoon.",v2b-roberta-base
+96,2626,Calidad de clase,positivo,"You'll learn more from Grout and will enjoy his classes, even the 8 am class.",v2b-roberta-base
+97,2626,Accesibilidad y trato,positivo,"The most helpful, considerate, and informative professor here at Philau.",v2b-roberta-base
+98,2731,Claridad de evaluación,mixto_neutro,His syllabus has most of the words that will be on the quiz and final is optional.,v2b-roberta-base
+99,2731,Accesibilidad y trato,negativo,Don't even try to email him- he won't reply.,v2b-roberta-base
+100,2731,Carga de trabajo,mixto_neutro,He assigns two papers at most throughout the whole semester.,v2b-roberta-base
+101,2731,Rigor de calificación,mixto_neutro,Overall this class is pretty easy.,v2b-roberta-base
+102,2780,Calidad de clase,negativo,The worst part is that the material he teaches leaves you completely unprepared for the courses you need to take after.,v2b-roberta-base
+103,2780,Accesibilidad y trato,negativo,He is easily agitated and has no problem talking down to people and making nasty or passive-aggressive remarks.,v2b-roberta-base
+104,2780,Rigor de calificación,negativo,Extremely picky grader.,v2b-roberta-base
+105,2786,Calidad de clase,negativo,He so boring though.,v2b-roberta-base
+106,2786,Rigor de calificación,mixto_neutro,Tests are pretty easy but he can be stingy with points.,v2b-roberta-base
+107,2792,Calidad de clase,positivo,I didn't learn much but each class was a new adventure.,v2b-roberta-base
+108,2792,Accesibilidad y trato,positivo,Dr. Peters is a nice guy and his classes are pretty easy...,v2b-roberta-base
+109,2792,Rigor de calificación,mixto_neutro,Dr. Peters is a nice guy and his classes are pretty easy...,v2b-roberta-base
+110,2847,Calidad de clase,positivo,great teacher,v2b-roberta-base
+111,2847,Carga de trabajo,negativo,Lots of notes like 10 pages a class period.,v2b-roberta-base
+112,2847,Rigor de calificación,mixto_neutro,Easy grader but make sure if he says 2 full pages that it is 2 FULL pages.,v2b-roberta-base
+113,2852,Calidad de clase,mixto_neutro,He's really easy going and doesn't teach you stuff you don't need to know for the class.,v2b-roberta-base
+114,2852,Accesibilidad y trato,positivo,Very cool guy.,v2b-roberta-base
+115,2979,Calidad de clase,positivo,"Dr. Siegfried is kind and brilliant, but the course load is ridiculous.",v2b-roberta-base
+116,2979,Carga de trabajo,negativo,"The midterm (take-home) takes 6+ hours, the reading is very heavy, and she expects heavy annotation for each reading assignment.",v2b-roberta-base
+117,2987,Calidad de clase,positivo,Such a great class!,v2b-roberta-base
+118,2987,Accesibilidad y trato,positivo,I especially appreciated the time Professor Siegfried took to conference with every student in regards to how to improve their writing.,v2b-roberta-base
+119,3197,Calidad de clase,negativo,Terrible teacher.,v2b-roberta-base
+120,3206,Calidad de clase,mixto_neutro,Great Teacher...,v2b-roberta-base
+121,3206,Accesibilidad y trato,negativo,not so great of a person.,v2b-roberta-base
+122,3206,Asistencia / formato,mixto_neutro,Attendance is mandatory (you get 3 after that it's your head) and participation is KEY.,v2b-roberta-base
+123,3349,Accesibilidad y trato,positivo,She is always quick to respond to questions and willing to help.,v2b-roberta-base
+124,3441,Calidad de clase,negativo,He is very boring and to me he does not know what he is talking about.,v2b-roberta-base
+125,3441,Accesibilidad y trato,positivo,"If you ask for help,he tells you that he went over it already and that the notes were on the board.",v2b-roberta-base
+126,3442,Calidad de clase,negativo,He is NOT prepared whatsoever!,v2b-roberta-base
+127,3442,Accesibilidad y trato,positivo,"I am sure he is a nice guy, BUT he does not know how to teach.",v2b-roberta-base
+128,3443,Claridad de evaluación,negativo,You never know what the test is going to be like.,v2b-roberta-base
+129,3443,Calidad de clase,negativo,Doesnt really seem to know what hes talking about.,v2b-roberta-base
+130,3443,Organización / proyectos,negativo,He is very nice but the class is unorganized.,v2b-roberta-base
+131,3455,Calidad de clase,negativo,Boring!,v2b-roberta-base
+132,3458,Calidad de clase,positivo,Really good for an introduction to ME studies.,v2b-roberta-base
+133,3467,Calidad de clase,positivo,"Oh, and we watched really informative and entertaining videos.",v2b-roberta-base
+134,3468,Clima de aula,positivo,She is very passionate and involved with her subject - she will help direct you towards your own passion within the subject of Middle East Women's Studies.,v2b-roberta-base
+135,3480,Claridad de evaluación,positivo,Also tells you what to study from the test.....,v2b-roberta-base
+136,3480,Carga de trabajo,mixto_neutro,trust me if you do your homework you will be allright....,v2b-roberta-base
+137,3480,Rigor de calificación,mixto_neutro,he test are easy...,v2b-roberta-base
+138,3482,Asistencia / formato,mixto_neutro,"Most classes are lecture for first half, then a computer lab, which usually involves some web browsing and answering some questions.",v2b-roberta-base
+139,3541,Calidad de clase,positivo,"This professor was very hard, but actually did a really good job teaching the content.",v2b-roberta-base
+140,3541,Carga de trabajo,mixto_neutro,just homework and groupwork.,v2b-roberta-base
+141,3541,Rigor de calificación,mixto_neutro,"This professor was very hard, but actually did a really good job teaching the content.",v2b-roberta-base
+142,3544,Calidad de clase,positivo,pretty good,v2b-roberta-base
+143,3597,Claridad de evaluación,negativo,Tests - frustrating at best.,v2b-roberta-base
+144,3597,Calidad de clase,negativo,"Here are the high points: Lazy - often used old, outdated powerpoints.",v2b-roberta-base
+145,3602,Calidad de clase,negativo,There was really no explaining of the material that actually helped.,v2b-roberta-base
+146,3602,Accesibilidad y trato,negativo,He hardly ever interacted with students either.,v2b-roberta-base
+147,3606,Claridad de evaluación,negativo,tests are completely irrelevant to notes.,v2b-roberta-base
+148,3606,Calidad de clase,negativo,just reads the slides if you ask for explanation only makes you more confused and than spends half class talking about mushrooms.,v2b-roberta-base
+149,3606,Accesibilidad y trato,positivo,but he has a nice personality.,v2b-roberta-base
+150,3838,Calidad de clase,positivo,"His 2, 3 and 4th year classes are amazing.",v2b-roberta-base
+151,3838,Asistencia / formato,mixto_neutro,"Took 5 classes from him: -1st year Weather/Climate, people piss around and then get mad when they fail; you have to show up, and you have to pay attention.",v2b-roberta-base
+152,3990,Accesibilidad y trato,positivo,"Overall, she is a very nice professor and wants to give you a good grade.",v2b-roberta-base
+153,3991,Calidad de clase,positivo,Dr hosseini was a great professor.,v2b-roberta-base
+154,3991,Carga de trabajo,negativo,"My only problem was she throws a lot of info at you for her exams, so make sure to study.",v2b-roberta-base
+155,4000,Calidad de clase,negativo,she is so so boring tho.,v2b-roberta-base
+156,4000,Accesibilidad y trato,positivo,but shes nice and if you beg her for a review she will give it to you.,v2b-roberta-base
+157,4000,Rigor de calificación,mixto_neutro,Easy course except for the tests.,v2b-roberta-base
+158,4003,Accesibilidad y trato,positivo,extremely nice and knowlegable and helpful,v2b-roberta-base
+159,4006,Claridad de evaluación,negativo,"While your at it, get ready to be tested on material that isin't covered.",v2b-roberta-base
+160,4006,Calidad de clase,negativo,She is difficult to understand and hard to hear.,v2b-roberta-base
+161,4006,Accesibilidad y trato,negativo,"Pay close attention to her facial expressions, because she'll look at you like your doing something wrong.",v2b-roberta-base
+162,4006,Clima de aula,positivo,She's so paranoid about cheating it's actually funny.,v2b-roberta-base
+163,4206,Calidad de clase,negativo,Very frustrating professor.,v2b-roberta-base
+164,4206,Accesibilidad y trato,mixto_neutro,"Never gave help when asked questions(""thats YOUR job to find that answer"").",v2b-roberta-base
+165,4251,Calidad de clase,negativo,As time went I hated his class.,v2b-roberta-base
+166,4251,Accesibilidad y trato,positivo,Nice guy if you like Hitler.,v2b-roberta-base
+167,4251,Rigor de calificación,negativo,Also don't piss him off because he'll drop you a whole letter grade just because he can.,v2b-roberta-base
+168,4288,Calidad de clase,positivo,Very professional instructor.,v2b-roberta-base
+169,4492,Calidad de clase,negativo,"Notes and text contradict one another, takes her forever to get through one slide, don't even bother trying to understand her, notes online which is helpful",v2b-roberta-base
+170,4494,Calidad de clase,positivo,"Not a terribly hard teacher, or one that will change the way you think, but it's nice to have a class every once in awhile that's simple and straight forward.",v2b-roberta-base
+171,4494,Rigor de calificación,mixto_neutro,"Not a terribly hard teacher, or one that will change the way you think, but it's nice to have a class every once in awhile that's simple and straight forward.",v2b-roberta-base
+172,4616,Calidad de clase,positivo,Hands down one of the best professors I've ever had.,v2b-roberta-base
+173,4616,Clima de aula,positivo,"Very clear and concise, extremely helpful, and passionate about what she teaches.",v2b-roberta-base
+174,4622,Calidad de clase,negativo,"However, her ability to explain things, such as pension plans, is limited, and her slides are not very clear and useful for exam review.",v2b-roberta-base
+175,4626,Calidad de clase,positivo,Very knowledgeable!,v2b-roberta-base
+176,4712,Calidad de clase,positivo,Jim Slowiak is one of the best teachers i've had at the University of Akron.,v2b-roberta-base
+177,4805,Calidad de clase,negativo,"Also, she rambles on for ever on stupid stuff.",v2b-roberta-base
+178,4805,Accesibilidad y trato,positivo,"She seems very helpful and wants to know if you have any questions but when you ask a question, she acts like you are stupid for asking.",v2b-roberta-base
+179,4805,Rigor de calificación,mixto_neutro,She also isn't the easiest grader,v2b-roberta-base
+180,5014,Accesibilidad y trato,positivo,"nice, but tough.",v2b-roberta-base
+181,5014,Rigor de calificación,mixto_neutro,"nice, but tough.",v2b-roberta-base
+182,5016,Accesibilidad y trato,positivo,"helpful, attentive, and works hard at her lessons.",v2b-roberta-base
+183,5136,Rigor de calificación,mixto_neutro,"Good teacher, class isn't too hard.",v2b-roberta-base
+184,5140,Claridad de evaluación,positivo,"there is no excuses for not doing well, his tests were straight off the notes, and their wasnt even that many notes to learn in the first place.",v2b-roberta-base
+185,5140,Rigor de calificación,mixto_neutro,Anyone who said it was hard or that he was bad simply did not try,v2b-roberta-base
+186,5254,Claridad de evaluación,negativo,Okay i regret not knowing that his tests are directly from his slides.,v2b-roberta-base
+187,5254,Organización / proyectos,positivo,Term project did great on.,v2b-roberta-base
+188,5260,Calidad de clase,negativo,lecture is slow and dry but i got good news (no not Geico) u have a computer so surf the web all u want.,v2b-roberta-base
+189,5260,Organización / proyectos,mixto_neutro,2 tests and a group project which my group did the day before ...,v2b-roberta-base
+190,5261,Calidad de clase,negativo,this class is a joke.,v2b-roberta-base
+191,5261,Carga de trabajo,positivo,i put minimal work into the project(92) & class and got a B.,v2b-roberta-base
+192,5261,Organización / proyectos,mixto_neutro,one group project that isnt hard at all.,v2b-roberta-base
+193,5261,Asistencia / formato,positivo,he takes attendance every class but it does not count towards your grade.,v2b-roberta-base
+194,5268,Calidad de clase,positivo,"Great professor, pay attention to power points and study off of them...",v2b-roberta-base
+195,5336,Calidad de clase,negativo,"The teacher is really biased in teaching, she talks a lot about her opinion not anything interesting or useful.",v2b-roberta-base
+196,5336,Carga de trabajo,mixto_neutro,"You need to goto class, take notes everyday, 3 writting 2-3 pages, and 3 test and a final.",v2b-roberta-base
+197,5336,Rigor de calificación,mixto_neutro,Test are 50% easy questions but the other 50% are hard.,v2b-roberta-base
+198,5338,Rigor de calificación,mixto_neutro,HARD CLASS.,v2b-roberta-base
+199,5341,Calidad de clase,mixto_neutro,"She knows what she is talking about, but she is so uninteresting.",v2b-roberta-base
+200,5341,Rigor de calificación,mixto_neutro,"i was told it was so easy, but it definitey is not.",v2b-roberta-base
+201,5341,Asistencia / formato,mixto_neutro,"attendance quizzes are frequent, and they suck!",v2b-roberta-base
+202,5342,Accesibilidad y trato,positivo,She's a very friendly and helpful professor.,v2b-roberta-base
+203,5342,Rigor de calificación,mixto_neutro,"Memorizing names and dates can be a bit boring and difficult, but besides that, the class is fun, interesting, and relatively easy.",v2b-roberta-base
+204,5342,Clima de aula,positivo,"Honors section is enjoyable due to the relaxed discussions we have about assorted, student-picked topics pertaining to Russia.",v2b-roberta-base
+205,5452,Claridad de evaluación,negativo,"My only complaint is the final exam, it is ridiculous and unlike other papers I have had to write before, did not enjoy that at all.",v2b-roberta-base
+206,5452,Asistencia / formato,mixto_neutro,This class was online and it wasn't too bad.,v2b-roberta-base
+207,5459,Retroalimentación,negativo,He didnt even correct our papers he had his grad student do it so in reality we werent even writing for him because the grad student wasnt even correcting by his guidelines!,v2b-roberta-base
+208,5459,Calidad de clase,negativo,He's so boring.,v2b-roberta-base
+209,5492,Calidad de clase,positivo,An amazing experience.,v2b-roberta-base
+210,5492,Clima de aula,positivo,So inspiring and heartfelt.,v2b-roberta-base
+211,5816,Calidad de clase,positivo,"nice teacher, very professional.",v2b-roberta-base
+212,5816,Accesibilidad y trato,positivo,"nice teacher, very professional.",v2b-roberta-base
+213,5816,Carga de trabajo,negativo,Does require lots of reading and class attendance is mandatory.,v2b-roberta-base
+214,5816,Rigor de calificación,positivo,Fair marker.,v2b-roberta-base
+215,5876,Claridad de evaluación,positivo,She is willing to help and is very clear in what she expects from each assignment.,v2b-roberta-base
+216,5876,Calidad de clase,positivo,Ms. Mulcahy is a very good art/design teacher.,v2b-roberta-base
+217,5876,Organización / proyectos,mixto_neutro,"Since this is a design/art course, you will be doing many different projects throughout the semester, so it is in your best interest that you go to class!",v2b-roberta-base
+218,5883,Claridad de evaluación,positivo,She is very clear in her class checklist and made me like ART,v2b-roberta-base
+219,5883,Calidad de clase,positivo,She is very clear in her class checklist and made me like ART,v2b-roberta-base
+220,5930,Calidad de clase,negativo,no words can explain this class.,v2b-roberta-base
+221,6072,Calidad de clase,mixto_neutro,She's a good teacher but boring most of the time.,v2b-roberta-base
+222,6325,Accesibilidad y trato,negativo,When i went to him to talk about my test grade he laughed at me and made me even more angrier.,v2b-roberta-base
+223,6329,Calidad de clase,positivo,Learned a lot in his courses which help me life.,v2b-roberta-base
+224,6329,Accesibilidad y trato,positivo,Great guy.,v2b-roberta-base
+225,6329,Organización / proyectos,negativo,He is not like any other professor because he doesn't stick to a schedule for a course.,v2b-roberta-base
+226,6365,Claridad de evaluación,negativo,"His expectations on assignments were unclear, which made it difficult to get an A.",v2b-roberta-base
+227,6365,Accesibilidad y trato,positivo,"He was a nice guy, but not my favorite professor.",v2b-roberta-base
+228,6365,Asistencia / formato,mixto_neutro,"His tests were online, but I never felt like I had enough time.",v2b-roberta-base
+229,6418,Calidad de clase,positivo,Her classes are fun and interesting if you like acting and theatre.,v2b-roberta-base
+230,6418,Rigor de calificación,mixto_neutro,She is an extremely hard grader.,v2b-roberta-base
+231,6418,Organización / proyectos,negativo,"She doesn't remind you when things are due, just expects you to know.",v2b-roberta-base
+232,6422,Calidad de clase,positivo,"I haven't had her as a teacher yet, but she is my director for the fall play and she is fantastic!!",v2b-roberta-base
+233,6426,Carga de trabajo,negativo,A lot of work for the class.,v2b-roberta-base
+234,6471,Calidad de clase,positivo,GREAT TEACHER!,v2b-roberta-base
+235,6477,Calidad de clase,positivo,most influential professor teaching research!,v2b-roberta-base
+236,6479,Claridad de evaluación,positivo,"Everything, and I mean EVERYTHING on tests/homeworks come straight from lecture notes.",v2b-roberta-base
+237,6479,Rigor de calificación,mixto_neutro,Dr. Jacksons 201 class is so simple.,v2b-roberta-base
+238,6479,Asistencia / formato,positivo,"Attendance not mandatory, but points a",v2b-roberta-base
+239,6506,Rigor de calificación,mixto_neutro,Really hard class.,v2b-roberta-base
+240,6510,Calidad de clase,positivo,"I still don't like econ a lot, but I'm glad he was my professor.",v2b-roberta-base
+241,6510,Clima de aula,positivo,"He sort of reminds me of a turtle, but I don't want to diss him because he's really enthusiastic about economics.",v2b-roberta-base
+242,6510,Asistencia / formato,positivo,He also gives extra credit assignments!,v2b-roberta-base
+243,6521,Calidad de clase,positivo,Talks very fast and teaches right off of the powerpoints from the book's website.,v2b-roberta-base
+244,6521,Asistencia / formato,mixto_neutro,"So if you don't like going to class but like getting good/okay grades, this is the class to take",v2b-roberta-base
+245,6523,Asistencia / formato,positivo,"After the first test I stopped attending class, I recieved an A overall.",v2b-roberta-base
+246,6527,Calidad de clase,positivo,"Straightforward, clear, provides good lectures alongside films relating to the subject matter.",v2b-roberta-base
+247,6527,Carga de trabajo,positivo,"NO tests, NO homework.",v2b-roberta-base
+248,6527,Asistencia / formato,mixto_neutro,"Show up to class, sign in, listen and learn.",v2b-roberta-base
+249,6542,Rigor de calificación,mixto_neutro,The class is VERY easy...,v2b-roberta-base
+250,6542,Clima de aula,positivo,"Teaching-wise, he's very passionate and kind.",v2b-roberta-base
+251,6841,Claridad de evaluación,mixto_neutro,600 out of the 900 points are tests.,v2b-roberta-base
+252,6845,Calidad de clase,positivo,Mr. Espey is a wonderful teacher.,v2b-roberta-base
+253,6845,Accesibilidad y trato,positivo,"He is friendly, helpful, and always interested in what one has to say.",v2b-roberta-base
+254,7182,Calidad de clase,positivo,Seriously the best teacher I have ever had.,v2b-roberta-base
+255,7182,Accesibilidad y trato,positivo,"Very helpful, always willing to go the extra mile to make sure you understand everything.",v2b-roberta-base
+256,7247,Accesibilidad y trato,positivo,She's helpful if you have questions.,v2b-roberta-base
+257,7247,Rigor de calificación,mixto_neutro,"The essays are easy if you just sit down and do them, otherwise they pile up quick.",v2b-roberta-base
+258,7252,Claridad de evaluación,negativo,"Constant spelling errors and grammatical mishaps in her essay prompts, mispronunciation of words, and a disappointing level of difficulty has made her class unbearable.",v2b-roberta-base
+259,7254,Calidad de clase,negativo,Sometimes tedious.,v2b-roberta-base
+260,7254,Accesibilidad y trato,positivo,She's nice and flexible.,v2b-roberta-base
+261,7254,Rigor de calificación,mixto_neutro,"If you want an easy class that meets GE requirements then this is for you, especially if your other classes are hard.",v2b-roberta-base
+262,7254,Organización / proyectos,negativo,"Often late, often cancels.",v2b-roberta-base
+263,7435,Accesibilidad y trato,positivo,She will do her best in class to help you with your essays.,v2b-roberta-base
+264,7435,Carga de trabajo,negativo,Requires a lot of reading.,v2b-roberta-base
+265,7445,Calidad de clase,positivo,It was an enjoyable class.,v2b-roberta-base
+266,7445,Rigor de calificación,mixto_neutro,"Overall, she's a great teacher and your assignments aren't hard.",v2b-roberta-base
+267,7523,Claridad de evaluación,negativo,Tests are difficult even with a study guide.,v2b-roberta-base
+268,7523,Accesibilidad y trato,positivo,She is sweet but SO HARD to pay attention to.,v2b-roberta-base
+269,7523,Rigor de calificación,mixto_neutro,I studied hard for every one but never made an A.,v2b-roberta-base
+270,7523,Asistencia / formato,positivo,LOTS of opportunities for bonus points.,v2b-roberta-base
+271,7529,Calidad de clase,mixto_neutro,one of asu's best professors.,v2b-roberta-base
+272,7529,Accesibilidad y trato,positivo,is very nice and super helpful with any questions.,v2b-roberta-base
+273,7529,Rigor de calificación,mixto_neutro,"Easy professor, will be boring though.",v2b-roberta-base
+274,7532,Claridad de evaluación,positivo,Grades exams quickly and posts blackboard promptly.,v2b-roberta-base
+275,7532,Calidad de clase,negativo,"Did not make the course very interesting, at all.",v2b-roberta-base
+276,7532,Rigor de calificación,mixto_neutro,Tests are extremely easy!,v2b-roberta-base
+277,7532,Organización / proyectos,positivo,"no surprises, essays, pop quizzes, or 'projects'.",v2b-roberta-base
+278,7532,Asistencia / formato,mixto_neutro,Tests do contain a few 'attendance' required questions.,v2b-roberta-base
+279,7547,Calidad de clase,positivo,Tyler Spalding is the best aerospace teacher you can get.,v2b-roberta-base
+280,7547,Rigor de calificación,positivo,"He is a purist, so while you may have more work to do, you understand the material to a greater extent and he grades quite liberally.",v2b-roberta-base
+281,7682,Calidad de clase,positivo,Great instructor and great class!,v2b-roberta-base
+282,7682,Accesibilidad y trato,positivo,"It was more work for her, but she was very kind.",v2b-roberta-base
+283,8183,Claridad de evaluación,negativo,"I had been taking notes in lecture and out of the book, studied prior to the midterm and the questions were nothing like I had expected.",v2b-roberta-base
+284,8183,Organización / proyectos,mixto_neutro,"Luckily, the group project and final bumped my grade.",v2b-roberta-base
+285,8184,Claridad de evaluación,mixto_neutro,"You have to write two 10 page papers and there are three testsquizzes that are only 10 questions long, and very detail oriented and difficult.",v2b-roberta-base
+286,8184,Calidad de clase,positivo,It's an interesting class for sure.,v2b-roberta-base
+287,8184,Rigor de calificación,mixto_neutro,But it's very difficult.,v2b-roberta-base
+288,8184,Asistencia / formato,positivo,"Also, come to class, because you get a grade for showing up and that helps.",v2b-roberta-base
+289,8189,Calidad de clase,mixto_neutro,"some days were more interesting, but overall it got pretty mind numbing.",v2b-roberta-base
+290,8189,Carga de trabajo,negativo,"at least 50 slides of notes most days, tons of writing...",v2b-roberta-base
+291,8189,Rigor de calificación,mixto_neutro,the 10 page paper was hard.,v2b-roberta-base
+292,8193,Claridad de evaluación,negativo,"Awful - lectures are dull, slides are a mess, tests do not match what she says to study for, uses obscure things from the book never addressed during class.",v2b-roberta-base
+293,8193,Calidad de clase,negativo,"Awful - lectures are dull, slides are a mess, tests do not match what she says to study for, uses obscure things from the book never addressed during class.",v2b-roberta-base
+294,8506,Claridad de evaluación,negativo,The exams are a load of crap.,v2b-roberta-base
+295,8506,Calidad de clase,negativo,He's horrible.,v2b-roberta-base
+296,8511,Calidad de clase,negativo,This is the most terrible professor I ever had.,v2b-roberta-base
+297,8511,Accesibilidad y trato,negativo,Refuses to answer questions.,v2b-roberta-base
+298,8538,Claridad de evaluación,mixto_neutro,Main grades are from an essay midterm and final.,v2b-roberta-base
+299,8538,Calidad de clase,positivo,you may actually enjoy his lectures.,v2b-roberta-base
+300,8538,Rigor de calificación,mixto_neutro,Not hard if you do some preparation.,v2b-roberta-base
+301,8538,Clima de aula,positivo,Really good teacher overall and very passionate about his subject.,v2b-roberta-base
+302,8601,Rigor de calificación,mixto_neutro,"she is very strict and hard on students, but when the class i took with her was over i realized that i learned a lot more than i learn with easy teachers...",v2b-roberta-base
+303,8601,Clima de aula,positivo,shes also very passionate about what she teaches,v2b-roberta-base
+304,8792,Claridad de evaluación,negativo,"The review guides given are decent but very vague, overall avoid this prof if possible.",v2b-roberta-base
+305,8792,Calidad de clase,negativo,"She will write on the board notes that are verbatim to the book and won't explain it well at all (if she can, she sometimes refers to students for answers).",v2b-roberta-base
+306,8792,Rigor de calificación,mixto_neutro,It was VERY difficult to earn a good grade.,v2b-roberta-base
+307,8806,Calidad de clase,positivo,"All in all, a great professor.",v2b-roberta-base
+308,8806,Accesibilidad y trato,positivo,She is willing to help you.,v2b-roberta-base
+309,8806,Rigor de calificación,mixto_neutro,"If you work hard and put in the effort, you will easily get an A.",v2b-roberta-base
+310,8806,Asistencia / formato,positivo,"While her tests can get rather hard, she gives bonus points to make up for it, and even once gave us 25 bonus points on a 100 point test.",v2b-roberta-base
+311,8810,Claridad de evaluación,negativo,Her programs are long and the homework had no clarity at all from the textbook and her graders had to grade them without the answer key and grade a week after they are turned in along with getting the answer key.,v2b-roberta-base
+312,8810,Calidad de clase,negativo,This was the worst.,v2b-roberta-base
+313,8810,Carga de trabajo,negativo,"She expects you to read alot from the book, but goes out of order.",v2b-roberta-base
+314,8811,Claridad de evaluación,negativo,"HW assignments were dumb because she has specific answers to them, and her tutors grade them without the answer key.",v2b-roberta-base
+315,8811,Accesibilidad y trato,negativo,"Even if you go to her office hours and go over the test, she goes fast and doesn't help a lot.",v2b-roberta-base
+316,9061,Calidad de clase,negativo,Without a doubt the absolute worst teacher in Neumann college.,v2b-roberta-base
+317,9289,Accesibilidad y trato,positivo,VERY NICE AND AN EASY TEACHER,v2b-roberta-base
+318,9292,Rigor de calificación,mixto_neutro,"she is a easy teacher, but don't ask her to help you outside of class because she won't go out of her way!",v2b-roberta-base
+319,9386,Accesibilidad y trato,positivo,He's a very nice professor!,v2b-roberta-base
+320,9386,Carga de trabajo,mixto_neutro,"3 exams, one being the final, and 2 research papers.",v2b-roberta-base
+321,9386,Asistencia / formato,mixto_neutro,Quizzes are online but it helps to attend class.,v2b-roberta-base
+322,9387,Calidad de clase,positivo,"An eye opener in my opinion, gives an in depth understanding of the Chinese religious culuture and traditions.",v2b-roberta-base
+323,9387,Accesibilidad y trato,positivo,"Engaging, friendly, intelligent and overall a nice guy.",v2b-roberta-base
+324,9387,Rigor de calificación,mixto_neutro,"Tests are easy, papers are long but I enjoyed doing the research and writing my paper.",v2b-roberta-base
+325,9387,Clima de aula,positivo,Interesting topics and lively discussion.,v2b-roberta-base
+326,9389,Calidad de clase,positivo,"Great class, but the Daoism book is very ambiguous to comprehend, but the project and class discussion is exciting.",v2b-roberta-base
+327,9389,Accesibilidad y trato,positivo,"Awesome teacher, very humble person.",v2b-roberta-base
+328,9389,Rigor de calificación,mixto_neutro,The first exam is super easy.,v2b-roberta-base
+329,9398,Accesibilidad y trato,negativo,He is not very helpful and does not care to work with students.,v2b-roberta-base
+330,9398,Asistencia / formato,mixto_neutro,If you take his online class know that his test are only open from 7am to noon.,v2b-roberta-base
+331,9426,Calidad de clase,mixto_neutro,My only complaint with Dr. Scripps' web applications course was that his material was somewhat dated.,v2b-roberta-base
+332,9428,Calidad de clase,negativo,This was the most boring lecture and I eventually stopped attending.,v2b-roberta-base
+333,9428,Carga de trabajo,negativo,This was a very easy class but required a lot of time doing online work.,v2b-roberta-base
+334,9428,Rigor de calificación,mixto_neutro,"If you show up for the lab portion and do the online homework on your own, you should get an easy A.",v2b-roberta-base
+335,9428,Asistencia / formato,mixto_neutro,"If you show up for the lab portion and do the online homework on your own, you should get an easy A.",v2b-roberta-base
+336,9433,Calidad de clase,positivo,Scripps is a great teacher.,v2b-roberta-base
+337,9433,Accesibilidad y trato,positivo,"Some people new to coding might have trouble, but he's very available to help if you're having issues, as is the lab assistant and your classmates.",v2b-roberta-base
+338,9443,Calidad de clase,negativo,"With limited notes, he was not well prepared for class.",v2b-roberta-base
+339,9443,Organización / proyectos,negativo,Scripps didn't have a clear class structure - bounced from one idea to another in random order and sometimes came back to previous ideas.,v2b-roberta-base
+340,9444,Calidad de clase,negativo,This professor is ill educated in the line of his teaching.,v2b-roberta-base
+341,9505,Calidad de clase,negativo,"he taught my senior seminar class, and since he'd never taught it before, just kind of tossed things up in the air to see where they'd land.",v2b-roberta-base
+342,9505,Organización / proyectos,positivo,"thought it'd be tough, being required to graduate, but he kept all his same policies of attendance and due dates, meaning none at all.",v2b-roberta-base
+343,9788,Calidad de clase,positivo,Great teacher.,v2b-roberta-base
+344,9788,Clima de aula,positivo,"Enthusiastic, very funny, knowledgeable, encouraging.",v2b-roberta-base
+345,9979,Claridad de evaluación,negativo,Her quiz questions feel like she's just trying to trick you and make you second guess yourself.,v2b-roberta-base
+346,9979,Calidad de clase,negativo,The WORST professor I have ever had.,v2b-roberta-base
+347,9979,Accesibilidad y trato,negativo,"Arrogant, and disrespectful to students.",v2b-roberta-base
+348,9979,Organización / proyectos,negativo,Organization of assignments in blackboard; yeah forget that.,v2b-roberta-base
+349,9986,Calidad de clase,negativo,This class is the biggest waste of my time possible.,v2b-roberta-base
+350,9986,Asistencia / formato,positivo,This is the only place that you can get a hundred on a quiz and score a C on a discussion post!,v2b-roberta-base
+351,10011,Calidad de clase,mixto_neutro,"He's clearly very intelligent, but the bar is set far too high for an intro-level class.",v2b-roberta-base
+352,10011,Carga de trabajo,negativo,The use of the online practice modules feels like tacked-on busy work to fill time.,v2b-roberta-base
+353,10011,Asistencia / formato,mixto_neutro,The use of the online practice modules feels like tacked-on busy work to fill time.,v2b-roberta-base
+354,10054,Rigor de calificación,positivo,Overall he is a fair grader,v2b-roberta-base
+355,10054,Asistencia / formato,mixto_neutro,Dr. Gutliph was the first to put this class online and I struggled until the end.,v2b-roberta-base
+356,10059,Claridad de evaluación,positivo,Does his study guides prepare for exams.,v2b-roberta-base
+357,10059,Accesibilidad y trato,positivo,Is he really helpful?,v2b-roberta-base
+358,10059,Carga de trabajo,mixto_neutro,Is there book homework or only web-assign work.,v2b-roberta-base
+359,10059,Asistencia / formato,mixto_neutro,"Does he allow use of electronic help, mathway, and other calculators??",v2b-roberta-base
+360,10060,Calidad de clase,positivo,He's awesome.,v2b-roberta-base
+361,10060,Accesibilidad y trato,positivo,Lot's of homework but he is willing to help all the time.,v2b-roberta-base
+362,10060,Carga de trabajo,negativo,Lot's of homework but he is willing to help all the time.,v2b-roberta-base
+363,10232,Calidad de clase,positivo,Dr. Rahimzadeh is such a great professor!,v2b-roberta-base
+364,10232,Accesibilidad y trato,positivo,"Two 1 PG papers and one 4-5 PG paper, and he's a little picky (but helpful!",v2b-roberta-base
+365,10233,Claridad de evaluación,positivo,He was very clear in lectures and what he expected for exams.,v2b-roberta-base
+366,10233,Calidad de clase,positivo,Amazing professor!,v2b-roberta-base
+367,10233,Accesibilidad y trato,positivo,He doesn't try to trip you up and has a genuine desire for you to succeed.,v2b-roberta-base
+368,10233,Clima de aula,positivo,"Also a funny and engaging speaker, you will hear lots of great stories.",v2b-roberta-base
+369,10472,Accesibilidad y trato,negativo,He came from left field at times and condescending.,v2b-roberta-base
+370,10472,Rigor de calificación,mixto_neutro,"easy essays, follows book...",v2b-roberta-base
+371,10474,Calidad de clase,positivo,Teaches pretty much to the book.,v2b-roberta-base
+372,10474,Rigor de calificación,positivo,\r Very generous grading policy.,v2b-roberta-base
+373,10474,Clima de aula,positivo,"Very enthusiastic about what he's teaching, but sadly closeminded, although tolerant of dissent.",v2b-roberta-base
+374,10511,Calidad de clase,positivo,"Sloan is not only the best professor in the world, he is the best person.",v2b-roberta-base
+375,10809,Clima de aula,positivo,"She is so lucid, gentle and playful.",v2b-roberta-base
+376,10817,Calidad de clase,negativo,The lectures were mostly boring and her constant hitting the mic though annoying startled you awake.,v2b-roberta-base
+377,11114,Calidad de clase,negativo,Very dull course.,v2b-roberta-base
+378,11114,Rigor de calificación,mixto_neutro,"Tests are difficult, and the class is a bore to sit through.",v2b-roberta-base
+379,11142,Rigor de calificación,mixto_neutro,You have to work extremely hard to even receive a B.,v2b-roberta-base
+380,11142,Clima de aula,positivo,Pretty funny which makes even 3 hour lectures feel short.,v2b-roberta-base
+381,11194,Clima de aula,positivo,"I have never laughed so much in a class in my life, he's so funny.",v2b-roberta-base
+382,11196,Calidad de clase,positivo,He really knows his stuff and can answer pretty much any question.,v2b-roberta-base
+383,11196,Accesibilidad y trato,positivo,"He can be difficult to approach with questions at times, but he tries to be available to his students.",v2b-roberta-base
+384,11198,Accesibilidad y trato,negativo,"Don't ask questions, he will ridicule you.",v2b-roberta-base
+385,11334,Retroalimentación,negativo,She is not receptive to any feedback on her teaching methods and will make you feel like an idiot if you are struggling in her classes!,v2b-roberta-base
+386,11334,Accesibilidad y trato,negativo,Overall she is not pleasant.,v2b-roberta-base
+387,11335,Calidad de clase,positivo,"if you want to feel like a stupid idiot, this professor does a great job at it.",v2b-roberta-base
+388,11337,Calidad de clase,negativo,This is the worst professor at BU.,v2b-roberta-base
+389,11340,Claridad de evaluación,mixto_neutro,Basically study everything especially test notes i only used textbook for clarification & if she couldn't cover something in class.,v2b-roberta-base
+390,11340,Calidad de clase,positivo,Honestly taking her classes taught me how to study better.,v2b-roberta-base
+391,11340,Accesibilidad y trato,positivo,She is a very nice person and genuinely cares abut her students.,v2b-roberta-base
+392,11341,Claridad de evaluación,negativo,She expects endless amounts of detail in your short answer questions on tests.,v2b-roberta-base
+393,11341,Calidad de clase,positivo,Reading the textbook helped me a lot in the class.,v2b-roberta-base
+394,11341,Accesibilidad y trato,positivo,Nice lady though who is very knowledgeable in psychology.,v2b-roberta-base
+395,11341,Rigor de calificación,mixto_neutro,Tough class.,v2b-roberta-base
+396,11341,Asistencia / formato,mixto_neutro,She has in-class assignments worth marks so make sure to attend all classes to get some easy marks!,v2b-roberta-base
+397,11350,Calidad de clase,positivo,"Dude rocks, his web site and down loads helped.",v2b-roberta-base
+398,11362,Calidad de clase,positivo,Good professor.,v2b-roberta-base
+399,11362,Rigor de calificación,mixto_neutro,"Fair grader, simple quizzes.",v2b-roberta-base
+400,11362,Asistencia / formato,positivo,"Fair grader, simple quizzes.",v2b-roberta-base
+401,11365,Rigor de calificación,mixto_neutro,He grades fairly easy.,v2b-roberta-base
+402,12068,Claridad de evaluación,positivo,"The midterm is the hardest part, and she or her assistant give you all the answers the class before.",v2b-roberta-base
+403,12068,Accesibilidad y trato,positivo,She's amusing and a great person.,v2b-roberta-base
+404,12068,Rigor de calificación,mixto_neutro,Easy Pass or A.,v2b-roberta-base
+405,12068,Clima de aula,positivo,She's amusing and a great person.,v2b-roberta-base
+406,12577,Calidad de clase,mixto_neutro,Mitra is very smart.,v2b-roberta-base
+407,12581,Calidad de clase,positivo,Great professor.,v2b-roberta-base
+408,12581,Rigor de calificación,negativo,"Received an ""A"" w 90 and above on all 3 exam (drops the lowest grade), not sure wht my departmental grade was but very linear.",v2b-roberta-base
+409,12581,Asistencia / formato,mixto_neutro,"Show that you care & attend all classes (makes a key difference on if you're getting a ""B"" or ""A"") Exams (even the departmental) comes from his reviews-don't miss them.",v2b-roberta-base
+410,12694,Calidad de clase,positivo,Excellent professor.,v2b-roberta-base
+411,12694,Accesibilidad y trato,positivo,Always willing to help.,v2b-roberta-base
+412,12694,Rigor de calificación,mixto_neutro,"His tests are a little tough, but he is very easy with grading everything else and gives a lot of credit for in class participation.",v2b-roberta-base
+413,12694,Asistencia / formato,positivo,"His tests are a little tough, but he is very easy with grading everything else and gives a lot of credit for in class participation.",v2b-roberta-base
+414,12700,Rigor de calificación,mixto_neutro,"great, just get notice and your on your way to an easy A",v2b-roberta-base
+415,12707,Calidad de clase,negativo,He lectures (which is BORING) & doesnt have a good method of teaching.,v2b-roberta-base
+416,12707,Accesibilidad y trato,positivo,Hes a nice guy but boring as all Hell!,v2b-roberta-base
+417,12791,Rigor de calificación,positivo,"She's kind of ditzy though, and can be boring at times, but she is a fair grader.",v2b-roberta-base
+418,13014,Calidad de clase,negativo,"once a week class, really boring but halrious because the teacher is a joke.",v2b-roberta-base
+419,13014,Rigor de calificación,mixto_neutro,everyone has to fulfill their fine arts requirement so take this class for an easy A.,v2b-roberta-base
+420,13014,Organización / proyectos,negativo,"you ca hand every assignment except for one , a week late without points off.",v2b-roberta-base
+421,13017,Calidad de clase,negativo,rarely use the book.,v2b-roberta-base
+422,13017,Rigor de calificación,mixto_neutro,very easy teacher.,v2b-roberta-base
+423,13017,Asistencia / formato,mixto_neutro,quizzes are matching.,v2b-roberta-base
+424,13049,Calidad de clase,negativo,"Do NOT take him-- he is a complete waste of time, assumes you already know the material and is just giving you a refresher.",v2b-roberta-base
+425,13161,Accesibilidad y trato,negativo,He is rude to students.,v2b-roberta-base
+426,13171,Claridad de evaluación,positivo,"He gives a study guide for all his test, and allows notecards for test eventually, which help greatly!",v2b-roberta-base
+427,13171,Asistencia / formato,mixto_neutro,"He will have pop quizzes when students start leaving during half time, so I encourage you to stay.",v2b-roberta-base
+428,13178,Calidad de clase,mixto_neutro,"he's an ok teacher, sometimes he scares the students.",v2b-roberta-base
+429,13266,Calidad de clase,positivo,Best yoga instructor I've had!,v2b-roberta-base
+430,13266,Clima de aula,positivo,She is very enthusiastic and inspirational!,v2b-roberta-base
+431,13275,Calidad de clase,positivo,Amazing instructor.,v2b-roberta-base
+432,13275,Asistencia / formato,mixto_neutro,Register early.,v2b-roberta-base
+433,13291,Calidad de clase,positivo,I think he's a great teacher.,v2b-roberta-base
+434,13291,Accesibilidad y trato,positivo,"Not unlike other teachers, he is willing to make sure you understand the material and spends the time doing so.",v2b-roberta-base
+435,13291,Carga de trabajo,mixto_neutro,"Yes, you have to work hard and read, but in the end it is worth it.",v2b-roberta-base
+436,13291,Rigor de calificación,mixto_neutro,"With that said, his class is not easy.",v2b-roberta-base
+437,13323,Calidad de clase,negativo,"1)terrible book, it made a fun subject boring 2)we sat in front of a computer and never used it, he lectured all 2 hours straight.",v2b-roberta-base
+438,13324,Accesibilidad y trato,negativo,If you ask for help he just confuses you more.,v2b-roberta-base
+439,13325,Accesibilidad y trato,negativo,This makes it intimidating asking for help.,v2b-roberta-base
+440,13328,Rigor de calificación,mixto_neutro,Very mind challenging but very interesting and fun.,v2b-roberta-base
+441,13328,Clima de aula,positivo,Very goofy.,v2b-roberta-base
+442,13521,Calidad de clase,positivo,good teach,v2b-roberta-base
+443,13636,Claridad de evaluación,positivo,Be prepared to work on the review sheets though because they are the outline for the test.,v2b-roberta-base
+444,13636,Calidad de clase,positivo,Good Professor overall.,v2b-roberta-base
+445,13636,Asistencia / formato,mixto_neutro,If you pay attention in class you will do good on the tests.,v2b-roberta-base
+446,13639,Calidad de clase,negativo,Just reads directly out of the book and gets very mundane.,v2b-roberta-base
+447,13640,Clima de aula,positivo,He is very nice and funny.,v2b-roberta-base
+448,13843,Calidad de clase,negativo,He does not cover the material in the text.,v2b-roberta-base
+449,13843,Accesibilidad y trato,positivo,"Nice,smart professor.",v2b-roberta-base
+450,13844,Accesibilidad y trato,positivo,a really nice guy.,v2b-roberta-base
+451,13844,Rigor de calificación,mixto_neutro,The test are easy and the final paper is only two pages and he is very generous with giving out A's.,v2b-roberta-base
+452,13967,Claridad de evaluación,positivo,He was a great professor very specific in what is and is not going to be on the exam.,v2b-roberta-base
+453,13974,Calidad de clase,positivo,"Barden is amazing, he explains micro without torturing you like some other teachers.",v2b-roberta-base
+454,13974,Accesibilidad y trato,positivo,"I loved his lectures, his hilarious so that helps, and always open for you to pop up during office hours for extra clarification.",v2b-roberta-base
+455,13974,Clima de aula,positivo,"I loved his lectures, his hilarious so that helps, and always open for you to pop up during office hours for extra clarification.",v2b-roberta-base
+456,13979,Claridad de evaluación,positivo,"All of the exams are based on the Powerpoint slides from lectures, and he provides study guides and practice exams.",v2b-roberta-base
+457,13979,Calidad de clase,positivo,"Just attending the lectures will probably earn you a high grade and the lectures are, for the most part, interesting.",v2b-roberta-base
+458,13979,Clima de aula,positivo,"Dr. Barden is one of the nicest people you will ever meet, and his sense of humor is hilarious!",v2b-roberta-base
+459,14503,Calidad de clase,positivo,This teacher was excellent!,v2b-roberta-base
+460,14503,Accesibilidad y trato,positivo,"He helped to the best of his ability, and truly cared for the knowledge that he gave his students.",v2b-roberta-base
+461,14508,Calidad de clase,positivo,Makes a difficult subject into something understandable.,v2b-roberta-base
+462,14508,Accesibilidad y trato,positivo,Always willing to spend time to help those confused.,v2b-roberta-base
+463,14661,Accesibilidad y trato,negativo,She seemed a little unorganized - slow at returning emails and rarely answered the questions I had.,v2b-roberta-base
+464,14826,Accesibilidad y trato,negativo,Not at all helpful.,v2b-roberta-base
+465,14919,Calidad de clase,negativo,Of course you still wont have a clue as to what the material means and you may need to repeat the class at a later time,v2b-roberta-base
+466,14919,Rigor de calificación,mixto_neutro,We very seldom heard a word out of this guy but if you want an easy A then go for it.,v2b-roberta-base
+467,14919,Asistencia / formato,mixto_neutro,Does not communicate well with students in his online classes.,v2b-roberta-base
+468,15004,Calidad de clase,negativo,Awful,v2b-roberta-base
+469,15026,Organización / proyectos,negativo,he is all over the place and disorganized but very fun to be in classs with.,v2b-roberta-base
+470,15038,Calidad de clase,negativo,"Bad class, worse teacher",v2b-roberta-base
+471,15042,Clima de aula,positivo,Energetic and fast-paced.,v2b-roberta-base
+472,15058,Calidad de clase,negativo,The chorus was kind of a let down only because of previously amazing experiences.,v2b-roberta-base
+473,15058,Accesibilidad y trato,positivo,It's very relaxed and friendly.,v2b-roberta-base
+474,15058,Rigor de calificación,mixto_neutro,The class was fun and challenging.,v2b-roberta-base
+475,15060,Calidad de clase,negativo,But I hated this class because we sang the same 4 songs all semester.,v2b-roberta-base
+476,15060,Accesibilidad y trato,positivo,Nina is a wonderful person and has a deep passion for music.,v2b-roberta-base
+477,15061,Calidad de clase,positivo,It is inspiring for future music educators to observe choral teaching and conducting at it's best.,v2b-roberta-base
+478,15065,Accesibilidad y trato,positivo,Very nice proff.,v2b-roberta-base
+479,15118,Calidad de clase,mixto_neutro,A very intelligent man within his field of study.,v2b-roberta-base
+480,15118,Clima de aula,positivo,He has an amusing tendency to glorify himself within his lectures.,v2b-roberta-base
+481,15301,Calidad de clase,positivo,Julie is an amazing professor.,v2b-roberta-base
+482,15301,Accesibilidad y trato,positivo,"Students know that if they need help in any area of thier class/life, Julie is there to help.",v2b-roberta-base
+483,15301,Clima de aula,positivo,She makes learning fun and her nerdy jokes always keep the class laughing or at least a smile with an eye roll ;) She is passionate about what she teaches and relates with her students.,v2b-roberta-base
+484,15305,Calidad de clase,positivo,Julia is BY FAR the best teacher I've ever had.,v2b-roberta-base
+485,15305,Clima de aula,positivo,"I hope she continues touching lives with her wit, intelligence, humour...",v2b-roberta-base
+486,15661,Calidad de clase,positivo,The lectures & videos were great.,v2b-roberta-base
+487,15661,Accesibilidad y trato,positivo,"for being so organized, contacting us 2 see how we are doing, caring about us & motivating & pushing us.",v2b-roberta-base
+488,15661,Asistencia / formato,mixto_neutro,I have taken several online classes-1 of the most fantastic classes I have taken!,v2b-roberta-base
+489,15790,Calidad de clase,mixto_neutro,Felt stupid because of the teacher!!,v2b-roberta-base
+490,15792,Calidad de clase,negativo,"I didnt learn anything about math, other then how to get frustrated, unmotivated,and just sad!!",v2b-roberta-base
+491,15793,Calidad de clase,positivo,Bob has a fantastic understanding of calculus.,v2b-roberta-base
+492,15793,Accesibilidad y trato,positivo,Be assertive and he'll help.,v2b-roberta-base
+493,15800,Calidad de clase,negativo,"He was very boring,I would go home and have my dad teach me.",v2b-roberta-base
+494,15801,Calidad de clase,negativo,I think is was very boring.,v2b-roberta-base
+495,15874,Rigor de calificación,mixto_neutro,Such a tough prof!,v2b-roberta-base
+496,15880,Calidad de clase,positivo,"He is a very good teacher, good speaker and funny too.",v2b-roberta-base
+497,15880,Rigor de calificación,mixto_neutro,He co-wrote the exam but it was way too hard in my opinion.,v2b-roberta-base
+498,15880,Clima de aula,positivo,"He is a very good teacher, good speaker and funny too.",v2b-roberta-base
+499,15880,Asistencia / formato,mixto_neutro,Most of his quizzes you just need the calculator which he teaches how to use.,v2b-roberta-base
+500,15955,Rigor de calificación,mixto_neutro,Professor Richard is seen as one of the most difficult teachers.,v2b-roberta-base
+501,15962,Claridad de evaluación,negativo,She gave the whole class a makeup quiz because we didnt follow her instructions on the midterm.,v2b-roberta-base
+502,15962,Calidad de clase,positivo,I loved the class and learned alot.,v2b-roberta-base
+503,15962,Rigor de calificación,positivo,"Do believe the hype, Dr. Richards is funny, honest and fair.",v2b-roberta-base
+504,15972,Calidad de clase,positivo,if you wanna learn she will teach you,v2b-roberta-base
+505,16074,Calidad de clase,negativo,"her lecture is really boring, she use a lot of boring video, long long time ago information.",v2b-roberta-base
+506,16074,Asistencia / formato,positivo,"she offer a lot extra credit, if you did them you will get a good grade.",v2b-roberta-base
+507,16179,Calidad de clase,positivo,Best prof I have ever had.,v2b-roberta-base
+508,16236,Claridad de evaluación,mixto_neutro,All tests or exams are based on the lectures' PowerPoint.,v2b-roberta-base
+509,16236,Calidad de clase,positivo,Dr.McCauley is one of my favorite Professor at York.,v2b-roberta-base
+510,16300,Rigor de calificación,mixto_neutro,"If you payed attention during lecture and read the chapters, the class was easy.",v2b-roberta-base
+511,16300,Clima de aula,positivo,Fisher was the funniest biology professor I've had.,v2b-roberta-base
+512,16302,Claridad de evaluación,negativo,The exams are also random and unrelated to in-class information.,v2b-roberta-base
+513,16302,Calidad de clase,negativo,He speaks very monotone and does not keep students engaged by any means.,v2b-roberta-base
+514,16302,Rigor de calificación,mixto_neutro,This makes the exams incredibly difficult.,v2b-roberta-base
+515,16485,Accesibilidad y trato,positivo,"Even though I was a esl student in learning suport but it did not bother her, she always worked with me.",v2b-roberta-base
+516,16485,Rigor de calificación,mixto_neutro,"Mrs Bruce was a GOOD teacher ever, she is easy.",v2b-roberta-base
+517,16718,Calidad de clase,positivo,Best english teacher I've ever had.,v2b-roberta-base
+518,16718,Carga de trabajo,mixto_neutro,All you have to do is keep up with the short story assignments and you will get an A.,v2b-roberta-base
+519,16718,Asistencia / formato,mixto_neutro,"You have a quiz about once a week on the stories you read--nothing tricky, just the basics.",v2b-roberta-base
+520,16778,Accesibilidad y trato,positivo,She was approachable and great!,v2b-roberta-base
+521,16778,Clima de aula,positivo,I loved her energy!,v2b-roberta-base
+522,16897,Calidad de clase,positivo,Awesome class.,v2b-roberta-base
+523,16897,Rigor de calificación,mixto_neutro,The content is hard but doable if you read the book/get help from friends.,v2b-roberta-base
+524,17023,Calidad de clase,positivo,"It's actually necessary for him to teach in such a way, it helps you understand the language at the most vital stage.",v2b-roberta-base
+525,17023,Rigor de calificación,mixto_neutro,"you'll be thankful for his ""strict"" teaching method!",v2b-roberta-base
+526,17034,Calidad de clase,positivo,Very smart guy..,v2b-roberta-base
+527,17034,Accesibilidad y trato,negativo,He can be rude and expects too much in my opinion.,v2b-roberta-base
+528,17041,Calidad de clase,positivo,His command of Russian is excellent for a non-native speaker and he is a very effective recitation instructor.,v2b-roberta-base
+529,17172,Calidad de clase,positivo,"VERY VERY VERY smart teacher, but I think it's time for him to retire.",v2b-roberta-base
+530,17172,Accesibilidad y trato,positivo,But he is really helpful and wants to make sure you do well.,v2b-roberta-base
+531,17700,Calidad de clase,positivo,"Awesome teacher, she's very knowledgeable, very experienced.",v2b-roberta-base
+532,17700,Rigor de calificación,mixto_neutro,"just show up to class and you'll get an easy A, she gives you take home exams basically open book, the final was open notes so, tremendously easy!",v2b-roberta-base
+533,17700,Asistencia / formato,mixto_neutro,"just show up to class and you'll get an easy A, she gives you take home exams basically open book, the final was open notes so, tremendously easy!",v2b-roberta-base
+534,17709,Accesibilidad y trato,negativo,So damn picky and mean to his class.,v2b-roberta-base
+535,18211,Calidad de clase,positivo,Hyde is by far the best professor I've had at SPSCC.,v2b-roberta-base
+536,18211,Carga de trabajo,positivo,The homework load was minimal and we hardly ever used the book in class.,v2b-roberta-base
+537,18451,Calidad de clase,negativo,"She chooses monotonous books to read about court session, criminals and jury.",v2b-roberta-base
+538,18451,Carga de trabajo,negativo,"On top of that, she gives a little time to read, 100-120 pages for example, 2-3 days, and students must analyze and bring citations with typed responds.",v2b-roberta-base
+539,18559,Carga de trabajo,negativo,); The Freqency of The Quizzes or How Much We Had To Read For Them Couldve Been Reduced But Other Than That Its Not a Hard Class; If You Cant Keep Up w/The Readings(About 5-6 Books) This Is NOT The Class For You!,v2b-roberta-base
+540,18559,Asistencia / formato,positivo,"Shes Nice, Kind of Chatty & Attempted To Make The Class Fun; Attendance Is a MUST as Well as Passing The Majority of The Quizzes(1-2 a Wk.",v2b-roberta-base
+541,18570,Calidad de clase,positivo,it makes the book much clearer,v2b-roberta-base
+542,18570,Carga de trabajo,mixto_neutro,"we read on an average 100 pages worth of work, quizes are hard but ask fairly general things...",v2b-roberta-base
+543,18570,Rigor de calificación,mixto_neutro,Difficult class...,v2b-roberta-base
+544,18572,Calidad de clase,negativo,"classes on tuesdays and thursdays, juss be aware thursdays class is just re-reading what you already read and discussing it for 75 minutes, absolute boredom if u dont like the book, like beloved.",v2b-roberta-base
+545,18572,Accesibilidad y trato,positivo,really cool lady.,v2b-roberta-base
+546,18677,Calidad de clase,negativo,She's nice but her way of teaching is blah.,v2b-roberta-base
+547,18683,Calidad de clase,negativo,Professor Green is one of the worst mathematics professors I have ever had.,v2b-roberta-base
+548,18683,Accesibilidad y trato,negativo,Ask her for help or clarification and she will laugh at you.,v2b-roberta-base
+549,18884,Calidad de clase,positivo,Very knowledgeable of the subject.,v2b-roberta-base
+550,18884,Carga de trabajo,negativo,"A TON of homework, takes a lot of time.",v2b-roberta-base
+551,18887,Rigor de calificación,mixto_neutro,"YES, she is tough and requires way more work than any other teacher I have ever known but I understand why she is doing it.",v2b-roberta-base
+552,18887,Organización / proyectos,negativo,She is disorganized and cluttered which adds to the confusion but if you learn how she is you will depend on yourself more!,v2b-roberta-base
+553,18956,Accesibilidad y trato,positivo,she loves helping her students.,v2b-roberta-base
+554,18956,Asistencia / formato,mixto_neutro,if you pay attention in class and do the online homework you will definitely pass the class.,v2b-roberta-base
+555,18961,Calidad de clase,positivo,"Take her, it will be the best thing you've ever done.",v2b-roberta-base
+556,18961,Accesibilidad y trato,positivo,"Professor espana honestly tries to help everyone, she gives a lot of opportunities of extra credit and she cares about her students!",v2b-roberta-base
+557,19027,Claridad de evaluación,positivo,"The readings aren't too tough or very long, that coupled with the fact that she reviews the readings in class, makes it easy to be prepared for her tests.",v2b-roberta-base
+558,19027,Calidad de clase,positivo,The class was interesting content-wise and she just made it that much better.,v2b-roberta-base
+559,19027,Rigor de calificación,mixto_neutro,"The readings aren't too tough or very long, that coupled with the fact that she reviews the readings in class, makes it easy to be prepared for her tests.",v2b-roberta-base
+560,19027,Clima de aula,positivo,She's goofy and her dream journal assignment was fun.,v2b-roberta-base
+561,19028,Claridad de evaluación,negativo,"She expects most students to be able to integrate material, unfortunately most other psych courses dont train you for this with multiple choice tests.",v2b-roberta-base
+562,19028,Calidad de clase,positivo,"Dr. Kahan is different from most professors in the psych department, she makes you think.",v2b-roberta-base
+563,19143,Claridad de evaluación,negativo,She lectures but then tells your her tests are not based on her lectures.,v2b-roberta-base
+564,19143,Calidad de clase,negativo,she is so hard and very boring to listen too.,v2b-roberta-base
+565,19152,Accesibilidad y trato,positivo,She's very kind and always willing to help.,v2b-roberta-base
+566,19152,Clima de aula,positivo,She has a very strange sense of humor but I found her very funny.,v2b-roberta-base
+567,19422,Calidad de clase,positivo,My favorite prof!,v2b-roberta-base
+568,19422,Accesibilidad y trato,positivo,"When the student puts forth effort, she will go out of her way to help- even outside of class.",v2b-roberta-base
+569,19422,Rigor de calificación,positivo,"Dr. W has HIGH expectations, but that will make us successful when we get out of PSBvr.",v2b-roberta-base
+570,19457,Calidad de clase,positivo,GREAT!!!.,v2b-roberta-base
+571,19457,Accesibilidad y trato,positivo,"Excellent pictures, Good use of pointers(lazers), Always willing to answer questions,He says no to copy his note off the board, **whisper** ""Copy everything, is helpful with assignments and keep you paying attention"".",v2b-roberta-base
+572,19457,Rigor de calificación,positivo,The midterm and finals were fair..,v2b-roberta-base
+573,19597,Calidad de clase,negativo,Wow he sucks in many ways.....,v2b-roberta-base
+574,19837,Calidad de clase,positivo,Cool prof.,v2b-roberta-base
+575,19837,Rigor de calificación,mixto_neutro,"Interesting, real layed back, and a fairly easy grader.",v2b-roberta-base
+576,19837,Clima de aula,positivo,She has a lot of energy and is very enthusiastic.,v2b-roberta-base
+577,19847,Calidad de clase,positivo,She is the best teacher for this class.,v2b-roberta-base
+578,19847,Accesibilidad y trato,positivo,Always willing to help and is very laid back.,v2b-roberta-base
+579,19847,Clima de aula,positivo,Always willing to help and is very laid back.,v2b-roberta-base
+580,19882,Calidad de clase,negativo,He constantly goes off on tangents that don't connect with the lesson.,v2b-roberta-base
+581,19882,Asistencia / formato,mixto_neutro,If you miss one class might as well not show up for the rest of the semester.,v2b-roberta-base
+582,19883,Calidad de clase,negativo,He rambles on things that do not have anything to do with the work.,v2b-roberta-base

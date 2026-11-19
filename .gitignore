@@ -1,0 +1,40 @@
+# Pesos del modelo: van a Hugging Face Hub (GitHub rechaza archivos de más de 100 MB).
+# Ver pesos_hf.py y el README.
+*.pt
+*.pth
+data/modelos/.cache/
+
+# Repo aparte: ya tiene su propio .git y su remoto (SamuelSanchez03/docentia-frontend)
+docentia_frontend/
+
+# Maqueta de la interfaz y guía de diseño: se quedan en el disco, no en el repo
+/index.html
+/Vista*.html
+/bear.design.md
+
+# docs/: solo resultados de pruebas (con su pre-registro) y guía de ejecución. Todo lo demás
+# (PRD, plan, estado, hoja de ruta, EDA, entregable, catálogo) se queda en el disco, no en el repo.
+docs/*
+!docs/README_ejecucion.md
+!docs/MEDICION_*.md
+!docs/RESULTADO_TEST.md
+!docs/PILOTO_SILVER.md
+!docs/DOBLE_ANOTACION*.md
+!docs/PRE_REGISTRO_TEST.md
+
+# Configuración local del editor / herramientas
+.claude/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secretos (por si alguna vez aparecen)
+.env
+.env.*
+*.pem
+*.key

@@ -1,0 +1,1139 @@
+departamento_id,escuela_id,nombre
+1,1,Accounting & Finance department
+2,2,Education department
+3,2,Theater department
+4,3,Literature department
+5,3,Psychology department
+6,4,Science department
+7,5,Education department
+8,6,English department
+9,7,International Studies department
+10,8,Languages department
+11,9,Business department
+12,9,Communication department
+13,9,English department
+14,9,Languages department
+15,9,Literature department
+16,9,Psychology department
+17,9,Social Science department
+18,9,Sociology department
+19,9,Theology department
+20,10,English department
+21,10,Fine Arts department
+22,11,Theater department
+23,12,Computer Science department
+24,12,English department
+25,12,Mathematics department
+26,13,Biology department
+27,14,Engineering department
+28,15,Journalism department
+29,15,Sociology department
+30,16,Graphic Arts department
+31,16,Sociology department
+32,17,Education department
+33,17,Music department
+34,18,Business department
+35,19,Economics department
+36,19,History department
+37,19,Social Science department
+38,20,Computer Science department
+39,20,History department
+40,21,Biology department
+41,21,Education department
+42,22,Education department
+43,23,Business department
+44,23,History department
+45,24,Statistics department
+46,25,Computer Science department
+47,25,History department
+48,26,Anthropology department
+49,26,English department
+50,26,Nursing department
+51,27,English department
+52,28,Psychology department
+53,28,Theater department
+54,29,Business department
+55,30,English department
+56,31,Philosophy department
+57,32,Accounting department
+58,32,Engineering department
+59,32,English department
+60,33,History department
+61,34,Communication department
+62,34,Science department
+63,35,Chemistry department
+64,35,English department
+65,35,Fine Arts department
+66,35,Geography department
+67,35,Psychology department
+68,35,Science department
+69,35,Social Science department
+70,36,Biology department
+71,36,Psychology department
+72,37,English department
+73,37,Law department
+74,37,Philosophy department
+75,37,Physics department
+76,38,Biology department
+77,39,English department
+78,39,Geology department
+79,39,Science department
+80,40,English department
+81,41,English department
+82,41,History department
+83,41,Languages department
+84,41,Philosophy department
+85,41,Psychology department
+86,42,Education department
+87,42,Fine Arts department
+88,43,English department
+89,43,History department
+90,43,Psychology department
+91,44,Biology department
+92,45,Geography department
+93,46,Languages department
+94,46,Physical Ed department
+95,47,Marketing department
+96,48,History department
+97,49,Biology department
+98,49,Chemistry department
+99,49,English department
+100,49,Mathematics department
+101,50,Graphic Arts department
+102,51,Languages department
+103,52,Asian American Studies department
+104,52,Chemistry department
+105,52,Mathematics department
+106,53,English department
+107,53,Geography department
+108,53,Physical Ed department
+109,54,Biology department
+110,54,English department
+111,55,Business department
+112,55,Ethnic Studies department
+113,55,Mathematics department
+114,56,Chicano Studies department
+115,57,Education department
+116,57,Ethnic Studies department
+117,57,Geology department
+118,58,Economics department
+119,59,Education department
+120,59,Elementary Education department
+121,59,English department
+122,59,Psychology department
+123,60,Engineering department
+124,61,Biology department
+125,61,Chemistry department
+126,61,Health Science department
+127,61,Nursing department
+128,62,Psychology department
+129,63,Health Science department
+130,64,Chemistry department
+131,65,Engineering department
+132,65,Film department
+133,66,Chemistry department
+134,66,Mathematics department
+135,66,Women's Studies department
+136,67,Economics department
+137,67,History department
+138,68,Accounting department
+139,68,Economics department
+140,68,Electrical Engineering department
+141,68,MacRomolecular Science & Eng department
+142,68,Materials Science department
+143,68,Mechanical Engineering department
+144,69,English department
+145,69,Science department
+146,70,Biology department
+147,70,Mathematics department
+148,70,Psychology department
+149,71,English department
+150,71,Fine Arts department
+151,71,History department
+152,71,Music department
+153,71,Philosophy department
+154,71,Physics department
+155,72,Mathematics department
+156,73,Computer Science department
+157,74,Psychology department
+158,75,Astronomy department
+159,75,Automotive Technology department
+160,75,Chemistry department
+161,75,Fine Arts department
+162,75,German department
+163,75,Nursing department
+164,75,Psychology department
+165,75,Spanish department
+166,75,Writing department
+167,76,Education department
+168,76,Psychology department
+169,77,Mathematics department
+170,78,Economics department
+171,79,Political Science department
+172,80,Education department
+173,80,History department
+174,81,English department
+175,82,History department
+176,83,Biology department
+177,84,English department
+178,85,Computer Science department
+179,86,History department
+180,86,Theater department
+181,87,Business department
+182,87,Philosophy department
+183,88,English department
+184,88,Mathematics department
+185,89,Economics department
+186,90,Biology department
+187,90,English department
+188,91,Mathematics department
+189,92,Biology department
+190,93,Computer Science department
+191,93,Fine Arts department
+192,94,English department
+193,95,English department
+194,96,Biology department
+195,96,Chemistry department
+196,96,English department
+197,96,History department
+198,96,Natural Sciences department
+199,96,Speech department
+200,97,Computer Science department
+201,98,Mathematics department
+202,99,Business department
+203,99,Education department
+204,99,Mathematics department
+205,99,Women's Studies department
+206,100,Anthropology department
+207,100,Economics department
+208,100,Psychology department
+209,100,Social Science department
+210,101,Computer Science department
+211,101,Economics department
+212,101,International Studies department
+213,101,Social Science department
+214,102,Economics department
+215,103,Communication department
+216,104,History department
+217,104,Mathematics department
+218,104,Sociology department
+219,105,Biology department
+220,106,Nursing department
+221,107,English department
+222,107,Physics department
+223,107,Political Science department
+224,108,English department
+225,109,Mathematics department
+226,109,Theology department
+227,110,Theater department
+228,111,Communication department
+229,111,Computer Science department
+230,111,Education department
+231,111,Engineering department
+232,111,Humanities department
+233,111,Mathematics department
+234,111,Psychology department
+235,112,Business department
+236,113,Biology department
+237,113,Chemistry department
+238,113,Communication department
+239,113,Computer Science department
+240,113,Economics department
+241,113,English department
+242,113,Health Science department
+243,113,History department
+244,113,Languages department
+245,113,Mathematics department
+246,113,Music department
+247,113,Political Science department
+248,113,Theater department
+249,113,Women's Studies department
+250,114,Computer Science department
+251,115,Computer Science department
+252,116,History department
+253,117,Physical Ed department
+254,118,Mathematics department
+255,119,Film department
+256,120,Communication department
+257,120,Psychology department
+258,121,Communication department
+259,122,Computer Science department
+260,122,Family & Consumer Science department
+261,122,Finance department
+262,122,Fine Arts department
+263,122,Science department
+264,123,Mathematics department
+265,124,Accounting department
+266,124,Anthropology department
+267,124,Art History department
+268,124,Business department
+269,124,Criminal Justice department
+270,124,Education department
+271,124,English department
+272,124,Fine Arts department
+273,124,Geography department
+274,124,Health Science department
+275,124,History department
+276,124,Mathematics department
+277,124,Nursing department
+278,124,Philosophy department
+279,124,Physical Ed department
+280,124,Psychology department
+281,124,Social Science department
+282,124,Sociology department
+283,125,Childrens Literature department
+284,125,Communication department
+285,125,Education department
+286,125,Literature department
+287,125,Mathematics department
+288,126,Music department
+289,127,Computer Engineering department
+290,127,Mathematics department
+291,128,Fine Arts department
+292,129,Philosophy department
+293,130,Biology department
+294,130,Culinary Arts department
+295,130,English department
+296,130,Hospitality department
+297,130,Music department
+298,130,Psychology department
+299,131,Science department
+300,132,Science department
+301,133,Mathematics department
+302,134,Aviation department
+303,134,Physics department
+304,135,Chemistry department
+305,135,Fine Arts department
+306,136,Fine Arts department
+307,136,Humanities department
+308,137,Business department
+309,138,Criminal Justice department
+310,138,English department
+311,138,Ethnic Studies department
+312,138,Geography department
+313,138,Writing department
+314,139,Business department
+315,139,Culinary Arts department
+316,139,Education department
+317,139,Sociology department
+318,140,Mathematics department
+319,140,Science department
+320,141,Engineering department
+321,142,Biology department
+322,142,English department
+323,143,English department
+324,144,Education department
+325,144,Honors department
+326,145,Biology department
+327,146,Business department
+328,146,Mathematics department
+329,147,Mathematics department
+330,148,Communication department
+331,149,Journalism department
+332,150,Geography department
+333,151,Nursing department
+334,152,Business department
+335,152,Graphic Arts department
+336,152,Health Science department
+337,153,Art History department
+338,153,Writing department
+339,154,Physics department
+340,155,Italian department
+341,156,Mathematics department
+342,157,English department
+343,157,Mathematics department
+344,158,Biology department
+345,158,Communication department
+346,158,Economics department
+347,158,English department
+348,158,History department
+349,158,Law department
+350,158,Mathematics department
+351,158,Philosophy department
+352,158,Science department
+353,158,Sociology department
+354,159,Political Science department
+355,160,Economics department
+356,160,History department
+357,160,Languages department
+358,161,Accounting department
+359,161,Fine Arts department
+360,162,Mathematics department
+361,163,Business department
+362,163,Computer Science department
+363,163,Mathematics department
+364,163,Science department
+365,164,Education department
+366,165,Mathematics department
+367,165,Science department
+368,166,Music department
+369,167,Biology department
+370,168,English department
+371,169,English department
+372,169,History department
+373,170,Sociology department
+374,171,Biology department
+375,171,Communication department
+376,171,Theater department
+377,172,English department
+378,173,Law department
+379,174,Biology department
+380,174,History department
+381,174,Psychology department
+382,175,Psychology department
+383,176,Science department
+384,177,Management department
+385,178,Theology department
+386,179,English department
+387,180,Public Health department
+388,180,Sociology department
+389,181,English department
+390,182,Management department
+391,183,Music department
+392,183,Theology department
+393,184,Biology department
+394,184,Education department
+395,184,English department
+396,184,Mathematics department
+397,184,Music department
+398,185,Criminal Justice department
+399,185,Education department
+400,186,Economics department
+401,186,Geography department
+402,186,Journalism department
+403,186,Law department
+404,187,Communication department
+405,188,Biology department
+406,188,Health Science department
+407,189,Economics department
+408,190,History department
+409,190,Philosophy department
+410,190,Theater department
+411,191,Nursing department
+412,192,Computer Science department
+413,193,Biology department
+414,194,Anthropology department
+415,194,Communication department
+416,194,Criminal Justice department
+417,194,English department
+418,194,Languages department
+419,194,Law department
+420,194,Mathematics department
+421,194,Physical Ed department
+422,194,Psychology department
+423,194,Sociology department
+424,195,Fine Arts department
+425,196,Computer Science department
+426,197,Biology department
+427,198,Philosophy department
+428,199,Mathematics department
+429,200,Finance department
+430,200,Psychology department
+431,201,Chemistry department
+432,202,Mathematics department
+433,203,Chemistry department
+434,203,Communication department
+435,203,Languages department
+436,204,Mathematics department
+437,205,Biology department
+438,205,History department
+439,205,Psychology department
+440,206,Not Specified department
+441,207,Chemistry department
+442,207,Communication department
+443,207,Psychology department
+444,208,Not Specified department
+445,209,Mathematics department
+446,210,Law department
+447,211,Nursing department
+448,212,Biology department
+449,213,Mathematics department
+450,214,Education department
+451,215,Psychology department
+452,216,Mathematics department
+453,217,Biology department
+454,217,English department
+455,218,Biology department
+456,219,Physics department
+457,220,Languages department
+458,220,Theater department
+459,221,Nursing department
+460,222,Engineering department
+461,223,Law department
+462,223,Marketing department
+463,224,English department
+464,224,Religion department
+465,225,Education department
+466,226,Biology department
+467,226,Languages department
+468,227,Music department
+469,228,Electrical Technology department
+470,229,Interaction Design & Art department
+471,230,Accounting department
+472,230,Business department
+473,231,Mathematics department
+474,232,English department
+475,232,Languages department
+476,232,Social Science department
+477,233,English department
+478,234,Biology department
+479,234,Chemistry department
+480,234,Pharmacy department
+481,234,Physics department
+482,235,Architecture department
+483,235,Finance department
+484,236,English department
+485,236,History department
+486,236,Physical Ed department
+487,236,Physics department
+488,236,Theater department
+489,237,Accounting department
+490,237,Computer Science department
+491,237,Engineering department
+492,237,English department
+493,237,Management department
+494,238,History department
+495,239,Graphic Arts department
+496,240,Political Science department
+497,241,Computer Science department
+498,242,Education department
+499,242,English department
+500,242,Humanities department
+501,242,Mathematics department
+502,242,Science department
+503,242,Sociology department
+504,243,Psychology department
+505,244,Design department
+506,244,English department
+507,244,Mathematics department
+508,244,Not Specified department
+509,244,Social Science department
+510,245,Biology department
+511,246,Psychology department
+512,247,Chemistry department
+513,247,Languages department
+514,248,Business department
+515,249,Physics department
+516,250,Political Science department
+517,251,Psychology department
+518,252,Accounting department
+519,252,Business department
+520,252,Computer Information Systems department
+521,252,Economics department
+522,252,Mathematics department
+523,252,Religious Studies department
+524,253,Economics department
+525,253,Education department
+526,253,English department
+527,254,Psychology department
+528,255,Fine Arts department
+529,255,Geology department
+530,256,Family & Child Studies department
+531,256,Physical Ed department
+532,256,Psychology department
+533,257,Physical Ed department
+534,258,Computer Science department
+535,258,English department
+536,259,Psychology department
+537,260,Music department
+538,261,Economics department
+539,262,English department
+540,262,Languages department
+541,262,Physics department
+542,262,Political Science department
+543,263,Political Science department
+544,264,English department
+545,264,Political Science department
+546,265,English department
+547,266,Astronomy department
+548,266,Biology department
+549,266,Education department
+550,266,Humanities department
+551,266,Languages department
+552,267,Biology department
+553,267,Chemistry department
+554,267,Physical Ed department
+555,267,Psychology department
+556,268,Education department
+557,268,History department
+558,269,Philosophy department
+559,270,English department
+560,271,Computer Science department
+561,272,Architecture department
+562,272,Computer Science department
+563,273,Biology department
+564,274,Business department
+565,275,Communication department
+566,275,Economics department
+567,275,Journalism department
+568,276,Agriculture department
+569,277,English department
+570,277,History department
+571,278,History department
+572,279,Law department
+573,280,Mathematics department
+574,281,Languages department
+575,281,Physical Ed department
+576,281,Political Science department
+577,282,English department
+578,283,English department
+579,284,Business department
+580,285,Computer Science department
+581,286,Business department
+582,286,Economics department
+583,286,Geology department
+584,286,Mathematics department
+585,287,Business department
+586,288,English department
+587,289,Accounting department
+588,290,Psychology department
+589,291,Humanities department
+590,292,Education department
+591,293,Chemistry department
+592,293,English department
+593,294,Accounting department
+594,295,Physical Ed department
+595,295,Physical Education department
+596,296,English department
+597,296,Health Science department
+598,297,English department
+599,298,English department
+600,299,Fine Arts department
+601,300,Economics department
+602,301,English department
+603,301,Fine Arts department
+604,301,Graphic Arts department
+605,302,Computer Science department
+606,303,Psychology department
+607,304,Chemistry department
+608,305,Economics department
+609,306,Communication department
+610,307,Biology department
+611,307,Speech department
+612,308,Sociology department
+613,309,Communication department
+614,310,English department
+615,310,Mathematics department
+616,310,Psychology department
+617,310,Theater department
+618,311,Business department
+619,311,Economics department
+620,311,English department
+621,311,Film department
+622,311,Humanities department
+623,311,Mathematics department
+624,311,Music department
+625,311,Philosophy department
+626,311,Sociology department
+627,312,Computer Science department
+628,312,Engineering department
+629,313,Chemistry department
+630,313,Earth Science department
+631,313,English department
+632,313,Languages department
+633,314,Business department
+634,315,English department
+635,315,Psychology department
+636,315,Sociology department
+637,316,Social Science department
+638,317,Communication department
+639,318,English department
+640,319,Languages department
+641,320,Education department
+642,321,Architecture department
+643,321,Business department
+644,321,Design department
+645,321,English department
+646,321,Ethnic Studies department
+647,321,Geography department
+648,321,History department
+649,321,Mathematics department
+650,321,Not Specified department
+651,321,Physics department
+652,321,Psychology department
+653,321,Social Science department
+654,321,Writing department
+655,322,Economics department
+656,323,English department
+657,323,Mathematics department
+658,324,History department
+659,325,History department
+660,326,Biology department
+661,326,English department
+662,327,Anatomy department
+663,327,Biochemistry department
+664,327,Law department
+665,327,Medicine department
+666,327,Pharmacology department
+667,328,English department
+668,329,Mathematics department
+669,330,Biology department
+670,331,English department
+671,331,Mathematics department
+672,332,Biology department
+673,332,Psychology department
+674,333,Criminal Justice department
+675,334,Mathematics department
+676,335,Fine Arts department
+677,335,History department
+678,335,Writing department
+679,336,English department
+680,336,Fine Arts department
+681,337,Biology department
+682,337,Classics department
+683,337,English department
+684,337,Languages department
+685,337,Physics department
+686,338,Education department
+687,339,Computer Science department
+688,340,Education department
+689,340,Humanities department
+690,341,History department
+691,342,Biology department
+692,342,History department
+693,343,Accounting department
+694,343,Criminal Justice department
+695,343,Marketing department
+696,343,Psychology department
+697,344,Finance department
+698,344,History department
+699,344,Marketing department
+700,344,Philosophy department
+701,345,Architecture department
+702,345,Science department
+703,345,Social Science department
+704,346,Philosophy department
+705,347,Criminal Justice department
+706,348,English department
+707,348,Sociology department
+708,349,English department
+709,350,Biology department
+710,350,History department
+711,350,Mathematics department
+712,350,Philosophy department
+713,350,Theology department
+714,351,Biology department
+715,351,Chemistry department
+716,351,History department
+717,352,Languages department
+718,352,Science department
+719,353,Journalism department
+720,354,Philosophy department
+721,355,Finance department
+722,356,Education department
+723,357,Communication department
+724,358,Biology department
+725,358,Psychology department
+726,359,Physics department
+727,360,Criminal Justice department
+728,361,Communication department
+729,361,Health Science department
+730,361,Languages department
+731,361,Mathematics department
+732,362,Biology department
+733,362,Ethnic Studies department
+734,362,Journalism department
+735,362,Philosophy department
+736,363,History department
+737,364,Art department
+738,364,Business department
+739,364,Civil Engineering department
+740,364,Humanities department
+741,365,History department
+742,366,English department
+743,366,Philosophy department
+744,366,Psychology department
+745,367,Philosophy department
+746,368,English department
+747,368,Mathematics department
+748,369,Languages department
+749,369,Literature department
+750,370,Film department
+751,371,Graphic Arts department
+752,372,Biology department
+753,373,Accounting department
+754,373,Business department
+755,373,English department
+756,374,Political Science department
+757,375,Communication department
+758,376,Biology department
+759,376,Nutrition department
+760,377,Humanities department
+761,378,Mathematics department
+762,378,Sociology department
+763,379,Biology department
+764,380,Fine Arts department
+765,380,Philosophy department
+766,381,Science department
+767,382,Music department
+768,382,Psychology department
+769,383,Art History department
+770,383,Computer Science department
+771,383,Education department
+772,383,English department
+773,383,Fine Arts department
+774,383,Languages department
+775,383,Mathematics department
+776,383,Philosophy department
+777,383,Psychology department
+778,384,Sociology department
+779,385,Education department
+780,385,Psychology department
+781,386,Accounting department
+782,386,Theater department
+783,387,History department
+784,387,Mathematics department
+785,387,Music department
+786,387,Psychology department
+787,388,Writing department
+788,389,Business department
+789,390,Computer Science department
+790,390,Mathematics department
+791,390,Nursing department
+792,390,Psychology department
+793,391,Communication department
+794,392,Business department
+795,393,Mathematics department
+796,394,Health Science department
+797,395,Philosophy department
+798,396,Communication department
+799,396,Economics department
+800,396,Education department
+801,396,Fine Arts department
+802,397,Mathematics department
+803,398,Music department
+804,399,Sociology department
+805,399,Theology department
+806,400,History department
+807,400,Medicine department
+808,401,Fine Arts department
+809,401,Psychology department
+810,402,Business department
+811,403,Economics department
+812,403,Science department
+813,404,Music department
+814,405,Mathematics department
+815,405,Sociology department
+816,406,Biology department
+817,406,History department
+818,406,Mathematics department
+819,406,Theology department
+820,407,Criminal Justice department
+821,408,History department
+822,408,Mathematics department
+823,408,Theology department
+824,409,Accounting department
+825,410,Anthropology department
+826,410,Engineering department
+827,410,English department
+828,410,Film department
+829,411,Journalism department
+830,411,Psychology department
+831,412,Business department
+832,413,Chemistry & Biochemistry department
+833,413,English department
+834,413,Mathematics department
+835,414,Architecture department
+836,415,Communication department
+837,415,Education department
+838,415,Music department
+839,416,Fine Arts department
+840,416,Science department
+841,417,Art History department
+842,418,Social Science department
+843,419,Psychology department
+844,419,Sociology department
+845,420,Philosophy department
+846,421,Biology department
+847,421,Psychology department
+848,422,Computer Science department
+849,423,Biology department
+850,423,English department
+851,423,Mathematics department
+852,423,Political Science department
+853,424,Philosophy department
+854,425,Computer Science department
+855,425,English department
+856,426,Nursing department
+857,426,Philosophy department
+858,427,Astronomy department
+859,428,Communication department
+860,428,Psychology department
+861,428,Sociology department
+862,429,Law department
+863,429,Library Science department
+864,429,Theater department
+865,430,Communication department
+866,430,Theater department
+867,431,Accounting department
+868,431,Business department
+869,431,Chemistry department
+870,431,Communication department
+871,431,Economics department
+872,431,Education department
+873,431,Engineering department
+874,431,English department
+875,431,Finance department
+876,431,Fine Arts department
+877,431,Geography department
+878,431,Geology department
+879,431,History department
+880,431,Humanities department
+881,431,Journalism department
+882,431,Law department
+883,431,Mathematics department
+884,431,Not Specified department
+885,431,Science department
+886,432,English department
+887,433,Business department
+888,433,English department
+889,434,Humanities department
+890,435,Finance department
+891,436,History department
+892,437,Philosophy department
+893,437,Physics department
+894,437,Political Science department
+895,438,Geology department
+896,438,Kinesiology department
+897,439,Engineering department
+898,440,English department
+899,440,Sociology department
+900,440,Women's Studies department
+901,441,Biology department
+902,441,Engineering department
+903,441,Writing department
+904,442,Mathematics department
+905,443,Management department
+906,444,Literature department
+907,445,Geology department
+908,446,Computer Science department
+909,447,History department
+910,448,Psychology department
+911,449,Education department
+912,449,English department
+913,449,History department
+914,449,Mathematics department
+915,449,Psychology department
+916,450,Sociology department
+917,451,Geography department
+918,452,Geography department
+919,453,Psychology department
+920,454,Business department
+921,454,Education department
+922,454,Engineering department
+923,455,Chemistry department
+924,455,Communication department
+925,455,Computer Science department
+926,456,Political Science department
+927,457,Computer Science department
+928,458,Mathematics department
+929,459,Chemistry department
+930,460,Computer Science department
+931,461,Communication department
+932,461,Political Science department
+933,461,Sociology department
+934,462,Education department
+935,462,Languages department
+936,463,Music department
+937,464,Law department
+938,465,Environment department
+939,466,Business department
+940,466,Languages department
+941,466,Medicine department
+942,467,Comparative Literature department
+943,468,Psychology department
+944,469,Law department
+945,470,English department
+946,470,German department
+947,470,History department
+948,471,Business department
+949,471,Geography department
+950,471,Linguistics department
+951,471,Mathematics department
+952,472,Education department
+953,472,English department
+954,472,Humanities department
+955,472,Journalism department
+956,473,Journalism department
+957,474,Accounting department
+958,474,Mathematics department
+959,475,Health Science department
+960,475,Languages department
+961,476,Philosophy department
+962,477,Physics department
+963,478,Biology department
+964,478,Criminal Justice department
+965,478,Health Science department
+966,479,Business department
+967,479,Marketing department
+968,479,Physics department
+969,480,History department
+970,480,Mathematics department
+971,480,Sociology department
+972,481,Humanities department
+973,481,Political Science department
+974,482,Not Specified department
+975,483,Finance department
+976,484,Business department
+977,484,Fine Arts department
+978,484,Journalism department
+979,484,Sociology department
+980,484,Theology department
+981,485,History department
+982,485,Law department
+983,485,Physics department
+984,486,Chemistry department
+985,486,Mathematics department
+986,487,Mathematics department
+987,488,African Studies department
+988,488,Economics department
+989,488,International Studies department
+990,488,Mathematics department
+991,488,Russian department
+992,489,Humanities department
+993,489,Psychology department
+994,490,Psychology department
+995,491,Geography department
+996,491,Languages department
+997,491,Psychology department
+998,491,Sociology department
+999,492,Biology department
+1000,492,Fine Arts department
+1001,492,Mathematics department
+1002,493,Fine Arts department
+1003,494,Computer Science department
+1004,494,Management department
+1005,494,Political Science department
+1006,495,Education department
+1007,496,English department
+1008,497,Theology department
+1009,498,Communication department
+1010,499,Chemistry department
+1011,499,English department
+1012,500,Anthropology department
+1013,500,Business department
+1014,501,Humanities department
+1015,502,Biology department
+1016,502,Education department
+1017,502,Languages department
+1018,503,Psychology department
+1019,504,Computer Science department
+1020,504,Economics department
+1021,504,English department
+1022,504,Film department
+1023,504,Geography department
+1024,504,Philosophy department
+1025,504,Science department
+1026,505,Law department
+1027,506,Anthropology department
+1028,506,Communication department
+1029,506,Film department
+1030,506,History department
+1031,506,Political Science department
+1032,507,English department
+1033,508,Chemistry department
+1034,508,Fine Arts department
+1035,508,History department
+1036,508,Linguistics department
+1037,508,Music department
+1038,508,Political Science department
+1039,508,Visual Arts department
+1040,509,Mathematics department
+1041,509,Philosophy department
+1042,510,Biology department
+1043,510,History department
+1044,510,Sociology department
+1045,511,Law department
+1046,511,Sociology department
+1047,512,Women's Studies department
+1048,513,Chemistry department
+1049,514,Sociology department
+1050,515,Chemistry department
+1051,515,Mathematics department
+1052,516,Communication department
+1053,516,Geography department
+1054,517,Theater department
+1055,518,Communication department
+1056,519,History department
+1057,520,ASL & Deaf Studies department
+1058,520,Chemistry department
+1059,520,English department
+1060,520,Physics department
+1061,521,Graphic Arts department
+1062,521,Mathematics department
+1063,522,Classics department
+1064,523,English department
+1065,524,Political Science department
+1066,525,Biology department
+1067,525,Geography department
+1068,526,Accounting department
+1069,526,Biology department
+1070,526,Business department
+1071,526,Chemistry department
+1072,526,Communication department
+1073,526,Education department
+1074,526,Engineering department
+1075,526,English department
+1076,526,Fine Arts department
+1077,526,Health Science department
+1078,526,Humanities department
+1079,526,Languages department
+1080,526,Marketing department
+1081,526,Mathematics department
+1082,526,Not Specified department
+1083,526,Psychology department
+1084,526,Science department
+1085,526,Theater department
+1086,527,Business department
+1087,528,English department
+1088,529,History department
+1089,530,English department
+1090,530,Mathematics department
+1091,530,Philosophy department
+1092,530,Psychology department
+1093,531,History department
+1094,531,Theology department
+1095,532,Literature department
+1096,532,Science department
+1097,533,Business department
+1098,534,Electrical Engineering department
+1099,534,Music department
+1100,535,Graphic Arts department
+1101,536,Mathematics department
+1102,537,Philosophy department
+1103,538,Accounting department
+1104,538,Biology department
+1105,538,English department
+1106,539,Anatomy department
+1107,539,Economics department
+1108,539,Health Science department
+1109,539,Mathematics department
+1110,540,Mathematics department
+1111,540,Religion department
+1112,541,Accounting department
+1113,542,Fine Arts department
+1114,543,Philosophy department
+1115,544,Social Science department
+1116,545,Mathematics department
+1117,545,Physics department
+1118,546,Fine Arts department
+1119,547,Music department
+1120,547,Theology department
+1121,548,Communication department
+1122,548,Women's Studies department
+1123,549,Music department
+1124,550,Education department
+1125,550,Political Science department
+1126,551,Humanities department
+1127,552,Business department
+1128,553,Anthropology department
+1129,553,Geography department
+1130,553,History department
+1131,553,Languages department
+1132,553,Management department
+1133,553,Mathematics department
+1134,553,Physics department
+1135,553,Political Science department
+1136,553,Psychology department
+1137,553,Sociology department
+1138,554,Hispanic Studies department

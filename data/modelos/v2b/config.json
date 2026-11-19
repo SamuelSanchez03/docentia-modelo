@@ -1,0 +1,21 @@
+{
+  "version": "v2b-distilroberta",
+  "base": "distilroberta-base",
+  "maxlen": 96,
+  "lote": 32,
+  "lr": 2e-05,
+  "epocas": 3,
+  "semilla": 42,
+  "t": 0.75,
+  "mejor_epoca": 3,
+  "val_f1_pol": 0.7047,
+  "val_f1_det": 0.8513,
+  "n_oraciones_train": 13642,
+  "n_oraciones_val": 1617,
+  "silver_prompt": [
+    "prompt_v1-373bda23"
+  ],
+  "torch": "2.12.0+cu130",
+  "fecha": "2026-10-30T21:24:30",
+  "t_dev": 0.75
+}

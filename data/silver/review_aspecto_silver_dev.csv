@@ -1,0 +1,277 @@
+review_aspecto_id,review_id,aspecto,polaridad,evidencia,version_modelo
+1,8682,Accesibilidad y trato,positivo,This man will reply to your e-mail in less than 5 mins.,silver-sonnet-prompt_v1-373bda23
+2,8682,Rigor de calificación,mixto_neutro,Very hard for intro to media industries much easier for internship seminar.,silver-sonnet-prompt_v1-373bda23
+3,8682,Calidad de clase,positivo,"in all, fantastic professor, super passionate about what he teaches.",silver-sonnet-prompt_v1-373bda23
+4,8682,Clima de aula,positivo,"in all, fantastic professor, super passionate about what he teaches.",silver-sonnet-prompt_v1-373bda23
+5,18196,Calidad de clase,positivo,"Best lecturer I have ever had, very interesting and you don't have to show up everyday if you don't want to.",silver-sonnet-prompt_v1-373bda23
+6,18196,Asistencia / formato,positivo,"Best lecturer I have ever had, very interesting and you don't have to show up everyday if you don't want to.",silver-sonnet-prompt_v1-373bda23
+7,5462,Calidad de clase,negativo,He just doesn't know how to teach to a room of 100 kids.,silver-sonnet-prompt_v1-373bda23
+8,5462,Rigor de calificación,mixto_neutro,It's very boring and misleadingly difficult.,silver-sonnet-prompt_v1-373bda23
+9,5462,Claridad de evaluación,mixto_neutro,"Also, the tests are built around memorization.",silver-sonnet-prompt_v1-373bda23
+10,12583,Calidad de clase,negativo,go to his clsss equal to learn by yourself....,silver-sonnet-prompt_v1-373bda23
+11,5804,Calidad de clase,negativo,I honestly feel like any of the girls in our class could do a better job of TEACHING this course than her.,silver-sonnet-prompt_v1-373bda23
+12,5804,Clima de aula,negativo,Regurgitates the readings during class without interpreting them or trying to engage the students in discussions.,silver-sonnet-prompt_v1-373bda23
+13,8509,Calidad de clase,negativo,Worst professor I've ever had.,silver-sonnet-prompt_v1-373bda23
+14,8509,Rigor de calificación,mixto_neutro,"Taking him, I thought that maybe college physics was just more difficult.",silver-sonnet-prompt_v1-373bda23
+15,5889,Rigor de calificación,negativo,She is way too harsh when grading her essays.,silver-sonnet-prompt_v1-373bda23
+16,5889,Retroalimentación,positivo,"She did, however, let me re-write my essay, so she isn't heartless.",silver-sonnet-prompt_v1-373bda23
+17,5889,Accesibilidad y trato,positivo,"She did, however, let me re-write my essay, so she isn't heartless.",silver-sonnet-prompt_v1-373bda23
+18,15805,Accesibilidad y trato,positivo,this guy will bend over backwords to make sure you understand the material and that you pass the class.,silver-sonnet-prompt_v1-373bda23
+19,15805,Calidad de clase,positivo,this guy will bend over backwords to make sure you understand the material and that you pass the class.,silver-sonnet-prompt_v1-373bda23
+20,5027,Calidad de clase,positivo,Can't say anything negative about this guy.,silver-sonnet-prompt_v1-373bda23
+21,5027,Accesibilidad y trato,positivo,"He cares about helping students learn and it shows, just look at all his teaching awards.",silver-sonnet-prompt_v1-373bda23
+22,17282,Rigor de calificación,mixto_neutro,very hard teacher doesnt explain well and tests you get slammed you study so much but never know whats on the test.,silver-sonnet-prompt_v1-373bda23
+23,17282,Calidad de clase,negativo,very hard teacher doesnt explain well and tests you get slammed you study so much but never know whats on the test.,silver-sonnet-prompt_v1-373bda23
+24,17282,Claridad de evaluación,negativo,very hard teacher doesnt explain well and tests you get slammed you study so much but never know whats on the test.,silver-sonnet-prompt_v1-373bda23
+25,13760,Clima de aula,positivo,"Energetic, Wonderful, Passionate, good projects, straight forward on test requirements",silver-sonnet-prompt_v1-373bda23
+26,13760,Calidad de clase,positivo,"Energetic, Wonderful, Passionate, good projects, straight forward on test requirements",silver-sonnet-prompt_v1-373bda23
+27,13760,Organización / proyectos,positivo,"Energetic, Wonderful, Passionate, good projects, straight forward on test requirements",silver-sonnet-prompt_v1-373bda23
+28,13760,Claridad de evaluación,positivo,"Energetic, Wonderful, Passionate, good projects, straight forward on test requirements",silver-sonnet-prompt_v1-373bda23
+29,5451,Asistencia / formato,mixto_neutro,& Society w/ Prof. Milburn (online).,silver-sonnet-prompt_v1-373bda23
+30,5451,Calidad de clase,positivo,The material he provides is very interesting and I really enjoyed the class.,silver-sonnet-prompt_v1-373bda23
+31,5451,Accesibilidad y trato,positivo,He is extremely responsive if you ask him anything which is great.,silver-sonnet-prompt_v1-373bda23
+32,5451,Claridad de evaluación,positivo,The class is very straight-forward and what is expected of you is laid out clearly.,silver-sonnet-prompt_v1-373bda23
+33,5451,Carga de trabajo,positivo,"The work load is fair, & if you do the work you will do well.",silver-sonnet-prompt_v1-373bda23
+34,8517,Rigor de calificación,mixto_neutro,"The class seems like it will be easy on the first day because you get take home exams, open note quizzes and most of the homework problems done for you in class.",silver-sonnet-prompt_v1-373bda23
+35,8517,Asistencia / formato,positivo,"The class seems like it will be easy on the first day because you get take home exams, open note quizzes and most of the homework problems done for you in class.",silver-sonnet-prompt_v1-373bda23
+36,8517,Calidad de clase,negativo,"However, since Phelps does everything different than the book and doesn't explain things you will not learn anything.",silver-sonnet-prompt_v1-373bda23
+37,8517,Claridad de evaluación,negativo,Which means the exams suck.,silver-sonnet-prompt_v1-373bda23
+38,3998,Accesibilidad y trato,positivo,She is very helpful and willing to help if you are behind and very interesting class,silver-sonnet-prompt_v1-373bda23
+39,3998,Calidad de clase,positivo,She is very helpful and willing to help if you are behind and very interesting class,silver-sonnet-prompt_v1-373bda23
+40,11345,Calidad de clase,negativo,"frustrating, hard to listen to-explanations are not clear and strait fwd like they should be making it hard to pay attention.",silver-sonnet-prompt_v1-373bda23
+41,19605,Calidad de clase,negativo,This man is out of his mind.,silver-sonnet-prompt_v1-373bda23
+42,19605,Claridad de evaluación,negativo,Have the stuff that is on the quizes he never talks about.,silver-sonnet-prompt_v1-373bda23
+43,19605,Asistencia / formato,positivo,If you take this class just dont go and you will still do fine.,silver-sonnet-prompt_v1-373bda23
+44,7003,Calidad de clase,negativo,Horrible teacher,silver-sonnet-prompt_v1-373bda23
+45,19146,Calidad de clase,positivo,Dr. Toth is awesome.,silver-sonnet-prompt_v1-373bda23
+46,19146,Accesibilidad y trato,positivo,"She always makes sure you get missed assignments/quizzes done and turned in, and is always there to help.",silver-sonnet-prompt_v1-373bda23
+47,19146,Carga de trabajo,mixto_neutro,There is quite a bit of material and you should always go to class...,silver-sonnet-prompt_v1-373bda23
+48,19146,Asistencia / formato,mixto_neutro,There is quite a bit of material and you should always go to class...,silver-sonnet-prompt_v1-373bda23
+49,19146,Clima de aula,positivo,"but she is fun to be around, especially once you get to know her.",silver-sonnet-prompt_v1-373bda23
+50,1784,Rigor de calificación,mixto_neutro,THIS TEACHER IS SO HARD JUST BECAUSE YOU CAN'T UNDERSTAND WHAT HE'S SAYING AND HE MAKES UP DUMB ACCOUNTING JOKES,silver-sonnet-prompt_v1-373bda23
+51,1784,Calidad de clase,negativo,THIS TEACHER IS SO HARD JUST BECAUSE YOU CAN'T UNDERSTAND WHAT HE'S SAYING AND HE MAKES UP DUMB ACCOUNTING JOKES,silver-sonnet-prompt_v1-373bda23
+52,1784,Clima de aula,negativo,THIS TEACHER IS SO HARD JUST BECAUSE YOU CAN'T UNDERSTAND WHAT HE'S SAYING AND HE MAKES UP DUMB ACCOUNTING JOKES,silver-sonnet-prompt_v1-373bda23
+53,7889,Calidad de clase,mixto_neutro,"interesting class, but uses a powerpoint.",silver-sonnet-prompt_v1-373bda23
+54,7889,Accesibilidad y trato,positivo,"very nice teacher, easy grader, very easy tests.",silver-sonnet-prompt_v1-373bda23
+55,7889,Rigor de calificación,mixto_neutro,"very nice teacher, easy grader, very easy tests.",silver-sonnet-prompt_v1-373bda23
+56,17287,Rigor de calificación,mixto_neutro,her labs are relatively easy she does help you with them but you better get extra credit because when time comes for a test you get slammed.,silver-sonnet-prompt_v1-373bda23
+57,17287,Accesibilidad y trato,positivo,her labs are relatively easy she does help you with them but you better get extra credit because when time comes for a test you get slammed.,silver-sonnet-prompt_v1-373bda23
+58,17287,Asistencia / formato,positivo,her labs are relatively easy she does help you with them but you better get extra credit because when time comes for a test you get slammed.,silver-sonnet-prompt_v1-373bda23
+59,1447,Accesibilidad y trato,negativo,Professor griffin is very rude .,silver-sonnet-prompt_v1-373bda23
+60,1447,Asistencia / formato,negativo,But lets hope it doesnt happen to you because she will give you an F for missed assignments !,silver-sonnet-prompt_v1-373bda23
+61,1447,Organización / proyectos,negativo,No late turn ins.,silver-sonnet-prompt_v1-373bda23
+62,1447,Clima de aula,negativo,And unhappy .,silver-sonnet-prompt_v1-373bda23
+63,1447,Rigor de calificación,negativo,Her grading is bias.,silver-sonnet-prompt_v1-373bda23
+64,3459,Calidad de clase,negativo,Unfortunately she is just not qualified to teach about the Middle East.,silver-sonnet-prompt_v1-373bda23
+65,5137,Calidad de clase,mixto_neutro,Some of this stuff can be confusing or not interesting for most people.,silver-sonnet-prompt_v1-373bda23
+66,5137,Carga de trabajo,negativo,There are a lot of readings so be prepared.,silver-sonnet-prompt_v1-373bda23
+67,5137,Asistencia / formato,mixto_neutro,The number one mistake is not showing up to class.,silver-sonnet-prompt_v1-373bda23
+68,5137,Rigor de calificación,mixto_neutro,"Not bad, but kind of a demanding prof.",silver-sonnet-prompt_v1-373bda23
+69,4801,Calidad de clase,negativo,another bad prof.,silver-sonnet-prompt_v1-373bda23
+70,18248,Calidad de clase,positivo,Professor Potter is a really good and caring professor.,silver-sonnet-prompt_v1-373bda23
+71,18248,Accesibilidad y trato,positivo,Professor Potter is a really good and caring professor.,silver-sonnet-prompt_v1-373bda23
+72,18248,Claridad de evaluación,negativo,"The only downside is that your graded on few things, but as long as you study hard its a great class to take.",silver-sonnet-prompt_v1-373bda23
+73,14511,Calidad de clase,positivo,cool guy good teacher,silver-sonnet-prompt_v1-373bda23
+74,14511,Accesibilidad y trato,positivo,cool guy good teacher,silver-sonnet-prompt_v1-373bda23
+75,1460,Calidad de clase,positivo,Ms. Lashun Griffin is a really great teacher .,silver-sonnet-prompt_v1-373bda23
+76,1460,Accesibilidad y trato,positivo,If you need help?,silver-sonnet-prompt_v1-373bda23
+77,1460,Rigor de calificación,mixto_neutro,"She does grade her papers tough, but her comments and feedback would help you do better.",silver-sonnet-prompt_v1-373bda23
+78,1460,Retroalimentación,positivo,"She does grade her papers tough, but her comments and feedback would help you do better.",silver-sonnet-prompt_v1-373bda23
+79,1460,Organización / proyectos,mixto_neutro,"If you want to pass this course, You cannot procrastinate on her class.",silver-sonnet-prompt_v1-373bda23
+80,9401,Calidad de clase,negativo,Horrible prof.,silver-sonnet-prompt_v1-373bda23
+81,9401,Asistencia / formato,mixto_neutro,I don't agree with earlier comments that if you attend you will do well.,silver-sonnet-prompt_v1-373bda23
+82,9401,Claridad de evaluación,negativo,The tests are ridiculous.,silver-sonnet-prompt_v1-373bda23
+83,3481,Calidad de clase,negativo,"Thick accent, hard to understand but straight forward, follows the book.",silver-sonnet-prompt_v1-373bda23
+84,3481,Claridad de evaluación,positivo,"Thick accent, hard to understand but straight forward, follows the book.",silver-sonnet-prompt_v1-373bda23
+85,3481,Rigor de calificación,mixto_neutro,His tests are not very hard and he is very liberal with his grading.,silver-sonnet-prompt_v1-373bda23
+86,9056,Calidad de clase,negativo,AWFUL DO NOT TAKE HER CLASS!,silver-sonnet-prompt_v1-373bda23
+87,9056,Organización / proyectos,negativo,So hard to understand and never stays on track with anything!,silver-sonnet-prompt_v1-373bda23
+88,11571,Accesibilidad y trato,negativo,I had to drop this evil woman's class.,silver-sonnet-prompt_v1-373bda23
+89,11571,Calidad de clase,negativo,"She is apparently getting everyone ready for the nursing boards,,,,,even those of us who don't have to take it!",silver-sonnet-prompt_v1-373bda23
+90,11571,Rigor de calificación,mixto_neutro,"I never had trouble with advanced Physics, and have a 3.",silver-sonnet-prompt_v1-373bda23
+91,19151,Calidad de clase,positivo,One of the best on campus!,silver-sonnet-prompt_v1-373bda23
+92,3856,Rigor de calificación,mixto_neutro,Hard!!,silver-sonnet-prompt_v1-373bda23
+93,2612,Calidad de clase,positivo,Great teacher.,silver-sonnet-prompt_v1-373bda23
+94,2612,Rigor de calificación,mixto_neutro,Very easy and helpful.,silver-sonnet-prompt_v1-373bda23
+95,2612,Accesibilidad y trato,positivo,Very easy and helpful.,silver-sonnet-prompt_v1-373bda23
+96,1782,Calidad de clase,negativo,He is hard to hear so sit in front.,silver-sonnet-prompt_v1-373bda23
+97,1782,Accesibilidad y trato,positivo,Willing to help you outside of class if you don't understand.,silver-sonnet-prompt_v1-373bda23
+98,1782,Claridad de evaluación,positivo,"Fair, multiple choice tests, grades on a curve.",silver-sonnet-prompt_v1-373bda23
+99,1782,Rigor de calificación,positivo,"Fair, multiple choice tests, grades on a curve.",silver-sonnet-prompt_v1-373bda23
+100,3445,Calidad de clase,negativo,"He really does know what he's talking about, and he's a really nice guy, but he doesn't really know how to teach.",silver-sonnet-prompt_v1-373bda23
+101,3445,Accesibilidad y trato,positivo,"He really does know what he's talking about, and he's a really nice guy, but he doesn't really know how to teach.",silver-sonnet-prompt_v1-373bda23
+102,3445,Rigor de calificación,mixto_neutro,"You must work hard in this class because you don't get too much from the lectures, it's just too boring.",silver-sonnet-prompt_v1-373bda23
+103,7181,Accesibilidad y trato,positivo,Nancy is a nice person and really wants you to understand the material.,silver-sonnet-prompt_v1-373bda23
+104,7181,Calidad de clase,positivo,Nancy is a nice person and really wants you to understand the material.,silver-sonnet-prompt_v1-373bda23
+105,19616,Clima de aula,positivo,Josh really loves talkig about weather and gets excited but he isn't great at communicating that info to his students.,silver-sonnet-prompt_v1-373bda23
+106,19616,Calidad de clase,negativo,Josh really loves talkig about weather and gets excited but he isn't great at communicating that info to his students.,silver-sonnet-prompt_v1-373bda23
+107,19616,Organización / proyectos,positivo,Really lenient with accepting late assignments.,silver-sonnet-prompt_v1-373bda23
+108,19135,Claridad de evaluación,negativo,Some test questions are confusing.,silver-sonnet-prompt_v1-373bda23
+109,19135,Asistencia / formato,positivo,Gives a maximum of 3 percentage points for extra credit.,silver-sonnet-prompt_v1-373bda23
+110,19135,Calidad de clase,positivo,"Overall, a pretty good teacher.",silver-sonnet-prompt_v1-373bda23
+111,5811,Calidad de clase,positivo,This class was great.,silver-sonnet-prompt_v1-373bda23
+112,5811,Asistencia / formato,positivo,"The readings were interesting, she encouraged class discussion.",silver-sonnet-prompt_v1-373bda23
+113,5811,Clima de aula,positivo,"She did not seem closed to activism, and encouraged people to speak their minds on a variety of issues from many perspectives.",silver-sonnet-prompt_v1-373bda23
+114,7006,Calidad de clase,positivo,"Very knowledgeable, very professional, but killed us with the amount of homework",silver-sonnet-prompt_v1-373bda23
+115,7006,Carga de trabajo,negativo,"Very knowledgeable, very professional, but killed us with the amount of homework",silver-sonnet-prompt_v1-373bda23
+116,6420,Clima de aula,positivo,Elizabeth takes every person as a serious actor who wishes to pursue this as a life goal.,silver-sonnet-prompt_v1-373bda23
+117,6420,Organización / proyectos,negativo,Also is very unorganized with homework.,silver-sonnet-prompt_v1-373bda23
+118,19613,Organización / proyectos,mixto_neutro,All of his class in on blackboard and he shows an inappropriate amount of movies for a college course.,silver-sonnet-prompt_v1-373bda23
+119,19613,Calidad de clase,negativo,All of his class in on blackboard and he shows an inappropriate amount of movies for a college course.,silver-sonnet-prompt_v1-373bda23
+120,14841,Calidad de clase,negativo,HE IS TERRIBLE AT DOING THE JOB HE IS PAID TO DO.,silver-sonnet-prompt_v1-373bda23
+121,14841,Accesibilidad y trato,negativo,AND ON TOP OF THAT HE IS A MEAN SPIRITED PERSON WHO DOESNT CARE FOR STUDENTS,silver-sonnet-prompt_v1-373bda23
+122,7891,Calidad de clase,negativo,lectures were fairly boring with a few corny jokes thrown in.,silver-sonnet-prompt_v1-373bda23
+123,7891,Clima de aula,negativo,lectures were fairly boring with a few corny jokes thrown in.,silver-sonnet-prompt_v1-373bda23
+124,7891,Asistencia / formato,mixto_neutro,takes attendence every day which is the only reason i went to class.,silver-sonnet-prompt_v1-373bda23
+125,7891,Accesibilidad y trato,negativo,"he was actually rude to me when i would say hello to him outside of class, he didn't have a clue who i was so he would just ignore me!",silver-sonnet-prompt_v1-373bda23
+126,7891,Claridad de evaluación,positivo,"great study directions, easy tests",silver-sonnet-prompt_v1-373bda23
+127,7891,Rigor de calificación,mixto_neutro,"great study directions, easy tests",silver-sonnet-prompt_v1-373bda23
+128,5815,Calidad de clase,negativo,All she did in the lectures was summarize the week's readings.,silver-sonnet-prompt_v1-373bda23
+129,5815,Asistencia / formato,negativo,Chantal does not encourage class discussions or participation.,silver-sonnet-prompt_v1-373bda23
+130,5815,Accesibilidad y trato,positivo,She's a nice person but a lazy professor.,silver-sonnet-prompt_v1-373bda23
+131,16173,Asistencia / formato,mixto_neutro,8:30AM 3 hour seminar.,silver-sonnet-prompt_v1-373bda23
+132,16173,Carga de trabajo,mixto_neutro,100+ pages of reading/week.,silver-sonnet-prompt_v1-373bda23
+133,16173,Rigor de calificación,mixto_neutro,Tough marker.,silver-sonnet-prompt_v1-373bda23
+134,16173,Calidad de clase,positivo,"That all being said, it was genuinely a privilege to be in Ian Spears 4th year class.",silver-sonnet-prompt_v1-373bda23
+135,16173,Clima de aula,positivo,"It is the most eye opening, provocative and inspirational course at Guelph.",silver-sonnet-prompt_v1-373bda23
+136,16173,Accesibilidad y trato,positivo,He cares about his students and wants them to think critically about every reading.,silver-sonnet-prompt_v1-373bda23
+137,12712,Calidad de clase,positivo,He knows the material very well and adds many interesting details.,silver-sonnet-prompt_v1-373bda23
+138,7257,Retroalimentación,negativo,"I was a TA for her class and she not only sloughed everything off on us (including the grading), but she posted the grades we gave her late - wreaking havoc on my financial aid.",silver-sonnet-prompt_v1-373bda23
+139,7257,Calidad de clase,negativo,"I was a TA for her class and she not only sloughed everything off on us (including the grading), but she posted the grades we gave her late - wreaking havoc on my financial aid.",silver-sonnet-prompt_v1-373bda23
+140,6067,Accesibilidad y trato,mixto_neutro,She is very sweet but she is very confusing when she tries to teach.,silver-sonnet-prompt_v1-373bda23
+141,6067,Calidad de clase,negativo,She is very sweet but she is very confusing when she tries to teach.,silver-sonnet-prompt_v1-373bda23
+142,13282,Calidad de clase,negativo,worst teacher at sjsu...,silver-sonnet-prompt_v1-373bda23
+143,3456,Calidad de clase,negativo,he didnt even know what he was doing.,silver-sonnet-prompt_v1-373bda23
+144,3456,Asistencia / formato,positivo,"He didnt even take attendance, and i didnt even go to lab.",silver-sonnet-prompt_v1-373bda23
+145,9219,Calidad de clase,positivo,"WOW, Ms. Sailors is so hot and smart too!",silver-sonnet-prompt_v1-373bda23
+146,15879,Accesibilidad y trato,positivo,"I had him again for 202, still the same nice prof.",silver-sonnet-prompt_v1-373bda23
+147,15879,Rigor de calificación,positivo,But he was fair on marking the SPSS project and Quiz 2.,silver-sonnet-prompt_v1-373bda23
+148,15879,Clima de aula,positivo,He ensures ppl understands and sometimes adds some humor.,silver-sonnet-prompt_v1-373bda23
+149,15879,Asistencia / formato,mixto_neutro,"Quizzes were easy, but his midterm was tough- most of the class suffered.",silver-sonnet-prompt_v1-373bda23
+150,15879,Organización / proyectos,mixto_neutro,But he was fair on marking the SPSS project and Quiz 2.,silver-sonnet-prompt_v1-373bda23
+151,2056,Calidad de clase,positivo,she is a very good teacher,silver-sonnet-prompt_v1-373bda23
+152,8614,Accesibilidad y trato,negativo,She is not to be trusted.,silver-sonnet-prompt_v1-373bda23
+153,10463,Calidad de clase,mixto_neutro,"psy majors beware, this teacher thinks psychology is a waste of time.",silver-sonnet-prompt_v1-373bda23
+154,10463,Clima de aula,positivo,"he's narrow minded, but you shouldn't be afraid to get into debates w/him.",silver-sonnet-prompt_v1-373bda23
+155,10463,Accesibilidad y trato,positivo,"i still enjoyed the class because it's an interesting topic, and he is a likeable guy, and he kind of grows on you.",silver-sonnet-prompt_v1-373bda23
+156,10463,Rigor de calificación,mixto_neutro,it was a fairly easy A.,silver-sonnet-prompt_v1-373bda23
+157,3997,Calidad de clase,positivo,She is a wonderful professor.,silver-sonnet-prompt_v1-373bda23
+158,15969,Calidad de clase,positivo,You will learn a lot in this class.,silver-sonnet-prompt_v1-373bda23
+159,15969,Rigor de calificación,mixto_neutro,DONT TAKE THIS CLASS IF YOU WANT AN EASY A BECAUSE YOU WILL NOT GET ONE!!,silver-sonnet-prompt_v1-373bda23
+160,6817,Carga de trabajo,negativo,Assignments are heavy and instructions are walls of text.,silver-sonnet-prompt_v1-373bda23
+161,6817,Claridad de evaluación,negativo,Assignments are heavy and instructions are walls of text.,silver-sonnet-prompt_v1-373bda23
+162,6817,Rigor de calificación,mixto_neutro,Exams online are difficult with fill in the blank answers that must be exact.,silver-sonnet-prompt_v1-373bda23
+163,6817,Asistencia / formato,mixto_neutro,Exams online are difficult with fill in the blank answers that must be exact.,silver-sonnet-prompt_v1-373bda23
+164,6817,Calidad de clase,negativo,This class should focus on typing only.,silver-sonnet-prompt_v1-373bda23
+165,6817,Accesibilidad y trato,negativo,She makes assumptions about disabilities (arthritis).,silver-sonnet-prompt_v1-373bda23
+166,19604,Rigor de calificación,mixto_neutro,"ok, the only negative in his class is the hard quizes on blackboard.",silver-sonnet-prompt_v1-373bda23
+167,19604,Asistencia / formato,positivo,"he is really into theatre and wants people to appreciate it, we watch alot of movies and there is no attendance policy, just dont sleep or walk out while he lectures",silver-sonnet-prompt_v1-373bda23
+168,19604,Clima de aula,positivo,"he is really into theatre and wants people to appreciate it, we watch alot of movies and there is no attendance policy, just dont sleep or walk out while he lectures",silver-sonnet-prompt_v1-373bda23
+169,5807,Calidad de clase,positivo,Great prof.,silver-sonnet-prompt_v1-373bda23
+170,5807,Clima de aula,positivo,Very dry sense of humour.,silver-sonnet-prompt_v1-373bda23
+171,13966,Rigor de calificación,mixto_neutro,Ned is an easy professor.,silver-sonnet-prompt_v1-373bda23
+172,13966,Asistencia / formato,positivo,He gives numerous amounts of extra credit.,silver-sonnet-prompt_v1-373bda23
+173,13966,Carga de trabajo,positivo,If you pay attention in lecture then reviewing won't be much at all.,silver-sonnet-prompt_v1-373bda23
+174,13966,Claridad de evaluación,positivo,There are old exams and study guides to prepare you.,silver-sonnet-prompt_v1-373bda23
+175,16716,Calidad de clase,positivo,Vancleave is the man.,silver-sonnet-prompt_v1-373bda23
+176,16716,Clima de aula,positivo,I took him for a summer class and he is very fun.,silver-sonnet-prompt_v1-373bda23
+177,16716,Accesibilidad y trato,positivo,He knows what's going on in the world and you have a chance for just random talks.,silver-sonnet-prompt_v1-373bda23
+178,16716,Carga de trabajo,mixto_neutro,Take him if you can but be sure to read the stories.,silver-sonnet-prompt_v1-373bda23
+179,16716,Asistencia / formato,mixto_neutro,You will discuss them each day in class and he will give you a grade on participation.,silver-sonnet-prompt_v1-373bda23
+180,12661,Calidad de clase,mixto_neutro,"He kind of trails off when he talks, not that a lot of what he says is important to take down.",silver-sonnet-prompt_v1-373bda23
+181,12661,Asistencia / formato,mixto_neutro,"Gave us his powerpoints and the tests were open book/note, but you had to voice your opinion on those as well.",silver-sonnet-prompt_v1-373bda23
+182,17027,Rigor de calificación,mixto_neutro,Intermediate Russian (0030 & 0040) is definitely challenging.,silver-sonnet-prompt_v1-373bda23
+183,17027,Organización / proyectos,mixto_neutro,He expects a LOT from his students and the pace is pretty quick.,silver-sonnet-prompt_v1-373bda23
+184,17027,Calidad de clase,mixto_neutro,You do most of the learning from the textbook & go over assigned work in class to clarify.,silver-sonnet-prompt_v1-373bda23
+185,17027,Asistencia / formato,mixto_neutro,Class is almost all in Russian.,silver-sonnet-prompt_v1-373bda23
+186,17027,Carga de trabajo,negativo,"Requires a lot of studying, effort, homework every night, class participation.",silver-sonnet-prompt_v1-373bda23
+187,3843,Calidad de clase,negativo,3 Thumbs down.,silver-sonnet-prompt_v1-373bda23
+188,10020,Rigor de calificación,mixto_neutro,"Meany is a tough, opinionated teacher.",silver-sonnet-prompt_v1-373bda23
+189,10020,Calidad de clase,mixto_neutro,"Meany is a tough, opinionated teacher.",silver-sonnet-prompt_v1-373bda23
+190,10020,Accesibilidad y trato,negativo,If you don't have the same mind set or agree with his answers he will argue with you until you force to give in.,silver-sonnet-prompt_v1-373bda23
+191,4267,Calidad de clase,positivo,Dr.Wiggity is an awesome small ensable director.,silver-sonnet-prompt_v1-373bda23
+192,4267,Accesibilidad y trato,positivo,"Great ideas and very helpful, those of you that think he is hot need help",silver-sonnet-prompt_v1-373bda23
+193,9060,Calidad de clase,negativo,if you can help it DO NOT take her english class.,silver-sonnet-prompt_v1-373bda23
+194,9060,Rigor de calificación,mixto_neutro,she treats it like it's more that just a core class.,silver-sonnet-prompt_v1-373bda23
+195,9060,Carga de trabajo,negativo,way too much work for a gen.,silver-sonnet-prompt_v1-373bda23
+196,9060,Accesibilidad y trato,negativo,ed and she's rude.,silver-sonnet-prompt_v1-373bda23
+197,3547,Rigor de calificación,mixto_neutro,"The class isn't really difficult, but she assigns a lot of homework and two group presentations throughout the semester which require a lot of work.",silver-sonnet-prompt_v1-373bda23
+198,3547,Carga de trabajo,negativo,"The class isn't really difficult, but she assigns a lot of homework and two group presentations throughout the semester which require a lot of work.",silver-sonnet-prompt_v1-373bda23
+199,3547,Organización / proyectos,mixto_neutro,"The class isn't really difficult, but she assigns a lot of homework and two group presentations throughout the semester which require a lot of work.",silver-sonnet-prompt_v1-373bda23
+200,3547,Claridad de evaluación,negativo,"You can use your notes on tests (all essay), but she doesn't really tell you what she's looking for so grades can be hit and miss.",silver-sonnet-prompt_v1-373bda23
+201,3547,Asistencia / formato,mixto_neutro,"You can use your notes on tests (all essay), but she doesn't really tell you what she's looking for so grades can be hit and miss.",silver-sonnet-prompt_v1-373bda23
+202,9985,Accesibilidad y trato,negativo,She is full of herself rude and refuses to answer questions when directly asked instead she says put it on the discussion board so your class mates can answer it I pay to have an instructor if I wanted to teach myself I would by a book do the work and ask friends if they,silver-sonnet-prompt_v1-373bda23
+203,9985,Calidad de clase,negativo,She is full of herself rude and refuses to answer questions when directly asked instead she says put it on the discussion board so your class mates can answer it I pay to have an instructor if I wanted to teach myself I would by a book do the work and ask friends if they,silver-sonnet-prompt_v1-373bda23
+204,18881,Accesibilidad y trato,positivo,Teacher has a great attitude and is very helpful but many times is disorganized and assigns reading that you simply will not have time to do.,silver-sonnet-prompt_v1-373bda23
+205,18881,Organización / proyectos,negativo,Teacher has a great attitude and is very helpful but many times is disorganized and assigns reading that you simply will not have time to do.,silver-sonnet-prompt_v1-373bda23
+206,18881,Carga de trabajo,negativo,Teacher has a great attitude and is very helpful but many times is disorganized and assigns reading that you simply will not have time to do.,silver-sonnet-prompt_v1-373bda23
+207,18881,Claridad de evaluación,negativo,"You must go to her and ask specifically what will be on the test because if you do ALL the readings she assigns, you will literally have no other time for any other classes.",silver-sonnet-prompt_v1-373bda23
+208,818,Accesibilidad y trato,positivo,Kerstein is a nice old man with impeccable hebrew pronunciation.,silver-sonnet-prompt_v1-373bda23
+209,818,Calidad de clase,mixto_neutro,worth taking if you're interested in hebrew - he's not the best but he ain't too bad either.,silver-sonnet-prompt_v1-373bda23
+210,818,Clima de aula,positivo,He's old-fashioned but (usually) in a charming way and will not teach you 'current' hebrew.,silver-sonnet-prompt_v1-373bda23
+211,818,Organización / proyectos,negativo,The textbook is fantastic (ha'yesod) even though he jumps around in it.,silver-sonnet-prompt_v1-373bda23
+212,16490,Calidad de clase,positivo,Mrs. Bruce is a thorough and helpful teacher.,silver-sonnet-prompt_v1-373bda23
+213,16490,Accesibilidad y trato,positivo,Mrs. Bruce is a thorough and helpful teacher.,silver-sonnet-prompt_v1-373bda23
+214,16490,Clima de aula,positivo,She is quick witted and can be difficult but will go out of her way to help any student pass or make an A.,silver-sonnet-prompt_v1-373bda23
+215,16490,Rigor de calificación,mixto_neutro,She is quick witted and can be difficult but will go out of her way to help any student pass or make an A.,silver-sonnet-prompt_v1-373bda23
+216,10457,Calidad de clase,positivo,Prof Colasurdo is an awesome professor.,silver-sonnet-prompt_v1-373bda23
+217,10457,Clima de aula,positivo,"He is a great teacher and he is definitely not boring, has a great sense of humor.",silver-sonnet-prompt_v1-373bda23
+218,17938,Carga de trabajo,negativo,"This course is time consuming and difficult, but that's the nature of the course content.",silver-sonnet-prompt_v1-373bda23
+219,17938,Rigor de calificación,mixto_neutro,"This course is time consuming and difficult, but that's the nature of the course content.",silver-sonnet-prompt_v1-373bda23
+220,17938,Organización / proyectos,mixto_neutro,After you're done all the projects you feel a sense of real accomplishment.,silver-sonnet-prompt_v1-373bda23
+221,17938,Calidad de clase,positivo,Arvo delivers the subj.,silver-sonnet-prompt_v1-373bda23
+222,17938,Accesibilidad y trato,positivo,He understands the inadequacy of some student's background and accomodates.,silver-sonnet-prompt_v1-373bda23
+223,10712,Calidad de clase,mixto_neutro,Craig is hard to understand.,silver-sonnet-prompt_v1-373bda23
+224,10712,Accesibilidad y trato,mixto_neutro,At times he will go out of his way to help you.,silver-sonnet-prompt_v1-373bda23
+225,10712,Clima de aula,negativo,His temper gets in the way of his teaching.,silver-sonnet-prompt_v1-373bda23
+226,19612,Calidad de clase,positivo,I like him.,silver-sonnet-prompt_v1-373bda23
+227,19612,Accesibilidad y trato,positivo,I think he is really nice and very passionate about theatre.,silver-sonnet-prompt_v1-373bda23
+228,19612,Clima de aula,positivo,I think he is really nice and very passionate about theatre.,silver-sonnet-prompt_v1-373bda23
+229,8566,Rigor de calificación,mixto_neutro,Easy A.,silver-sonnet-prompt_v1-373bda23
+230,8566,Calidad de clase,mixto_neutro,"Talks alot, but has interesting things to say.",silver-sonnet-prompt_v1-373bda23
+231,8875,Accesibilidad y trato,positivo,Cumpton is the like the cool neighborhood grandma that gives advice and always has cookies.,silver-sonnet-prompt_v1-373bda23
+232,8875,Calidad de clase,positivo,"If you take a night class with her, you can always expect cookies and she tries to fill the class time with fun and interesting things to do.",silver-sonnet-prompt_v1-373bda23
+233,8875,Clima de aula,positivo,"If you take a night class with her, you can always expect cookies and she tries to fill the class time with fun and interesting things to do.",silver-sonnet-prompt_v1-373bda23
+234,8522,Calidad de clase,negativo,Awful teacher.,silver-sonnet-prompt_v1-373bda23
+235,8522,Accesibilidad y trato,negativo,When you go to his office hours for help he'll make you sit and wait while he takes personal calls then he talks down to you.,silver-sonnet-prompt_v1-373bda23
+236,8522,Rigor de calificación,negativo,He will mark correct answers wrong if he doesnt think in his opinion you knew how to do it.,silver-sonnet-prompt_v1-373bda23
+237,9989,Asistencia / formato,mixto_neutro,Most of this class is online.,silver-sonnet-prompt_v1-373bda23
+238,9989,Rigor de calificación,mixto_neutro,"Work is hard, but she is enthusiastic about it and doesn't understand that we don't share her passion.",silver-sonnet-prompt_v1-373bda23
+239,9989,Clima de aula,mixto_neutro,"Work is hard, but she is enthusiastic about it and doesn't understand that we don't share her passion.",silver-sonnet-prompt_v1-373bda23
+240,19023,Accesibilidad y trato,positivo,"Dr. Kahan is a very nice, caring professor.",silver-sonnet-prompt_v1-373bda23
+241,19023,Rigor de calificación,mixto_neutro,"She expects a lot, but there are no surprises.",silver-sonnet-prompt_v1-373bda23
+242,19023,Claridad de evaluación,positivo,"She expects a lot, but there are no surprises.",silver-sonnet-prompt_v1-373bda23
+243,19023,Asistencia / formato,mixto_neutro,"Go to class, pay attention, participate, read the assigned readings, and you'll do well.",silver-sonnet-prompt_v1-373bda23
+244,19023,Carga de trabajo,mixto_neutro,"Go to class, pay attention, participate, read the assigned readings, and you'll do well.",silver-sonnet-prompt_v1-373bda23
+245,18882,Organización / proyectos,negativo,Most unorganized teacher I have ever had.,silver-sonnet-prompt_v1-373bda23
+246,18882,Accesibilidad y trato,positivo,"She is a very sweet woman who will work with you depending on what you have going on in your life, but she assigns more homework than she can even grade.",silver-sonnet-prompt_v1-373bda23
+247,18882,Carga de trabajo,negativo,"She is a very sweet woman who will work with you depending on what you have going on in your life, but she assigns more homework than she can even grade.",silver-sonnet-prompt_v1-373bda23
+248,18882,Retroalimentación,negativo,Thanksgiving break is next week and I have not gotten one grade back all year.,silver-sonnet-prompt_v1-373bda23
+249,18882,Calidad de clase,negativo,"All of the homework is tedious, and you basically teach yourself.",silver-sonnet-prompt_v1-373bda23
+250,19137,Calidad de clase,positivo,Super awesome teacher.,silver-sonnet-prompt_v1-373bda23
+251,19137,Asistencia / formato,mixto_neutro,You need to take notes and come to class.,silver-sonnet-prompt_v1-373bda23
+252,3848,Calidad de clase,negativo,The guy doesn't know anything unless the text is right in front of him.,silver-sonnet-prompt_v1-373bda23
+253,3848,Rigor de calificación,mixto_neutro,Hardest class I've ever taken.,silver-sonnet-prompt_v1-373bda23
+254,3453,Calidad de clase,negativo,If you are looking for a class where you learn nothing and everybody fails then this class is for you.,silver-sonnet-prompt_v1-373bda23
+255,13047,Calidad de clase,negativo,he is the worse professor i have ever had.,silver-sonnet-prompt_v1-373bda23
+256,15041,Accesibilidad y trato,negativo,Belittles his students.,silver-sonnet-prompt_v1-373bda23
+257,6846,Clima de aula,positivo,"He is enthusiastic, but he's a ****.",silver-sonnet-prompt_v1-373bda23
+258,6846,Accesibilidad y trato,negativo,"He is enthusiastic, but he's a ****.",silver-sonnet-prompt_v1-373bda23
+259,19620,Accesibilidad y trato,positivo,"Nice guy, loves weather...",silver-sonnet-prompt_v1-373bda23
+260,19620,Clima de aula,positivo,"Nice guy, loves weather...",silver-sonnet-prompt_v1-373bda23
+261,19620,Calidad de clase,positivo,not a bad teacher at all.,silver-sonnet-prompt_v1-373bda23
+262,18942,Calidad de clase,positivo,"She teaches really good, her exams were based off everything she teaches.",silver-sonnet-prompt_v1-373bda23
+263,18942,Claridad de evaluación,positivo,"She teaches really good, her exams were based off everything she teaches.",silver-sonnet-prompt_v1-373bda23
+264,18942,Asistencia / formato,negativo,My only issue is class attendance.,silver-sonnet-prompt_v1-373bda23
+265,18942,Organización / proyectos,negativo,Also beware of group work.,silver-sonnet-prompt_v1-373bda23
+266,6730,Clima de aula,positivo,Dr. Frank loves to teach and it shows!,silver-sonnet-prompt_v1-373bda23
+267,6730,Calidad de clase,positivo,Dr. Frank loves to teach and it shows!,silver-sonnet-prompt_v1-373bda23
+268,6730,Accesibilidad y trato,positivo,If anyone has a problem he will take the time to help.,silver-sonnet-prompt_v1-373bda23
+269,15029,Calidad de clase,positivo,Favorite Class and Favorite Prof. Most useful class I've EVER taken.,silver-sonnet-prompt_v1-373bda23
+270,15029,Clima de aula,positivo,FUNNY,silver-sonnet-prompt_v1-373bda23
+271,6364,Rigor de calificación,mixto_neutro,Not hard.,silver-sonnet-prompt_v1-373bda23
+272,6364,Claridad de evaluación,positivo,"What you are supposed to do for projects may seem difficult, but as long as you just cover exactly what it says in the directions, you'll get 100% on them.",silver-sonnet-prompt_v1-373bda23
+273,6364,Asistencia / formato,mixto_neutro,"Tests are online, recommend reading the chapter only before test, do not need to otherwise.",silver-sonnet-prompt_v1-373bda23
+274,6364,Accesibilidad y trato,positivo,Super approachable and very understanding!,silver-sonnet-prompt_v1-373bda23
+275,6364,Calidad de clase,mixto_neutro,"Class can be boring, but worth going!",silver-sonnet-prompt_v1-373bda23
+276,16487,Calidad de clase,positivo,She is very good,silver-sonnet-prompt_v1-373bda23

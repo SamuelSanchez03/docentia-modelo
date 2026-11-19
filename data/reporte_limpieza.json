@@ -1,0 +1,61 @@
+{
+  "archivo": "RateMyProfessor_Sample.csv",
+  "avisos": [],
+  "filas_entrada": 20000,
+  "columnas_entrada": 51,
+  "comentarios_no_vacios_entrada": 19993,
+  "duplicados_exactos_eliminados": 19,
+  "fechas_no_interpretables": 0,
+  "fecha_min": "2000-09-30",
+  "fecha_max": "2018-05-08",
+  "duplicados_por_clave_eliminados": 10,
+  "profesores_con_atributos_inconsistentes": {},
+  "filas_escuela": 554,
+  "filas_departamento": 1138,
+  "filas_profesor": 1415,
+  "filas_materia": 9941,
+  "filas_review": 19971,
+  "filas_lote_importacion": 1,
+  "filas_review_aspecto": 0,
+  "review_con_student_star_nulo": 1,
+  "review_sin_comentario": 3,
+  "review_sin_materia": 8,
+  "profesores_con_1_review": 13,
+  "comparacion_prd": {
+    "filas_entrada": {
+      "obtenido": 20000,
+      "prd": 20000,
+      "coincide": true
+    },
+    "columnas_entrada": {
+      "obtenido": 51,
+      "prd": 51,
+      "coincide": true
+    },
+    "filas_escuela": {
+      "obtenido": 554,
+      "prd": 554,
+      "coincide": true
+    },
+    "filas_profesor": {
+      "obtenido": 1415,
+      "prd": 1415,
+      "coincide": true
+    },
+    "profesores_con_1_review": {
+      "obtenido": 13,
+      "prd": 13,
+      "coincide": true
+    },
+    "comentarios_no_vacios_entrada": {
+      "obtenido": 19993,
+      "prd": 19993,
+      "coincide": true
+    },
+    "review_con_student_star_nulo": {
+      "obtenido": 1,
+      "prd": 5,
+      "coincide": false
+    }
+  }
+}

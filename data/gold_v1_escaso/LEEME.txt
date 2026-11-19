@@ -1,0 +1,3 @@
+GOLD v1 (criterio ESCASO) - archivado el 2026-10-25. NO ABRIR mientras re-anotas el gold v2 (criterio denso).
+Contiene tus etiquetas (399), las 50 de la doble anotadas por Claude y las metricas de v0 medidas contra ese gold.
+Sirve solo como registro historico; las cifras de v0 contra este gold son una cota inferior (ver docs/DOBLE_ANOTACION.md).

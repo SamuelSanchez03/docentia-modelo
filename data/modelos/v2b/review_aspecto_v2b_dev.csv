@@ -1,0 +1,245 @@
+review_aspecto_id,review_id,aspecto,polaridad,evidencia,version_modelo
+1,818,Calidad de clase,mixto_neutro,worth taking if you're interested in hebrew - he's not the best but he ain't too bad either.,v2b-distilroberta
+2,818,Accesibilidad y trato,positivo,Kerstein is a nice old man with impeccable hebrew pronunciation.,v2b-distilroberta
+3,818,Clima de aula,mixto_neutro,He's old-fashioned but (usually) in a charming way and will not teach you 'current' hebrew.,v2b-distilroberta
+4,1447,Accesibilidad y trato,negativo,Professor griffin is very rude .,v2b-distilroberta
+5,1447,Rigor de calificación,negativo,Her grading is bias.,v2b-distilroberta
+6,1447,Organización / proyectos,positivo,No late turn ins.,v2b-distilroberta
+7,1447,Asistencia / formato,positivo,No late turn ins.,v2b-distilroberta
+8,1460,Retroalimentación,positivo,"She does grade her papers tough, but her comments and feedback would help you do better.",v2b-distilroberta
+9,1460,Calidad de clase,positivo,Ms. Lashun Griffin is a really great teacher .,v2b-distilroberta
+10,1460,Accesibilidad y trato,positivo,She's there to help you.,v2b-distilroberta
+11,1782,Claridad de evaluación,positivo,"Fair, multiple choice tests, grades on a curve.",v2b-distilroberta
+12,1782,Accesibilidad y trato,positivo,Willing to help you outside of class if you don't understand.,v2b-distilroberta
+13,1782,Rigor de calificación,positivo,"Fair, multiple choice tests, grades on a curve.",v2b-distilroberta
+14,1784,Calidad de clase,negativo,THIS TEACHER IS SO HARD JUST BECAUSE YOU CAN'T UNDERSTAND WHAT HE'S SAYING AND HE MAKES UP DUMB ACCOUNTING JOKES,v2b-distilroberta
+15,1784,Rigor de calificación,mixto_neutro,THIS TEACHER IS SO HARD JUST BECAUSE YOU CAN'T UNDERSTAND WHAT HE'S SAYING AND HE MAKES UP DUMB ACCOUNTING JOKES,v2b-distilroberta
+16,2056,Calidad de clase,positivo,she is a very good teacher,v2b-distilroberta
+17,2612,Calidad de clase,positivo,Great teacher.,v2b-distilroberta
+18,2612,Accesibilidad y trato,positivo,Great guy.,v2b-distilroberta
+19,2612,Rigor de calificación,mixto_neutro,Very easy and helpful.,v2b-distilroberta
+20,3445,Calidad de clase,negativo,"You must work hard in this class because you don't get too much from the lectures, it's just too boring.",v2b-distilroberta
+21,3445,Accesibilidad y trato,positivo,"He really does know what he's talking about, and he's a really nice guy, but he doesn't really know how to teach.",v2b-distilroberta
+22,3453,Calidad de clase,mixto_neutro,But it'sa good class for insomniacs..,v2b-distilroberta
+23,3453,Carga de trabajo,negativo,"The longest I've managed to stay awake was to count how many times he said ""um"" He avereage 30 ums per 5 mins.",v2b-distilroberta
+24,3453,Clima de aula,positivo,Smells funny like a old shoe.,v2b-distilroberta
+25,3456,Calidad de clase,negativo,he didnt even know what he was doing.,v2b-distilroberta
+26,3456,Asistencia / formato,negativo,"He didnt even take attendance, and i didnt even go to lab.",v2b-distilroberta
+27,3459,Calidad de clase,negativo,Unfortunately she is just not qualified to teach about the Middle East.,v2b-distilroberta
+28,3481,Claridad de evaluación,positivo,His tests are not very hard and he is very liberal with his grading.,v2b-distilroberta
+29,3481,Calidad de clase,mixto_neutro,"Thick accent, hard to understand but straight forward, follows the book.",v2b-distilroberta
+30,3481,Rigor de calificación,positivo,His tests are not very hard and he is very liberal with his grading.,v2b-distilroberta
+31,3547,Claridad de evaluación,negativo,"You can use your notes on tests (all essay), but she doesn't really tell you what she's looking for so grades can be hit and miss.",v2b-distilroberta
+32,3547,Carga de trabajo,negativo,"The class isn't really difficult, but she assigns a lot of homework and two group presentations throughout the semester which require a lot of work.",v2b-distilroberta
+33,3547,Rigor de calificación,mixto_neutro,"Her grading scale is tougher than most, an ""A"" is 95 % and above.",v2b-distilroberta
+34,3843,Calidad de clase,negativo,Make sure you buy HIS textbook that he makes and sells himself or be prepared for a lousy mark.,v2b-distilroberta
+35,3848,Calidad de clase,negativo,The guy doesn't know anything unless the text is right in front of him.,v2b-distilroberta
+36,3848,Rigor de calificación,mixto_neutro,Hardest class I've ever taken.,v2b-distilroberta
+37,3856,Rigor de calificación,mixto_neutro,Hard!!,v2b-distilroberta
+38,3997,Calidad de clase,positivo,She is a wonderful professor.,v2b-distilroberta
+39,3998,Accesibilidad y trato,positivo,She is very helpful and willing to help if you are behind and very interesting class,v2b-distilroberta
+40,4267,Calidad de clase,positivo,Dr.Wiggity is an awesome small ensable director.,v2b-distilroberta
+41,4267,Accesibilidad y trato,positivo,"Great ideas and very helpful, those of you that think he is hot need help",v2b-distilroberta
+42,4801,Calidad de clase,negativo,another bad prof.,v2b-distilroberta
+43,5027,Accesibilidad y trato,positivo,"He cares about helping students learn and it shows, just look at all his teaching awards.",v2b-distilroberta
+44,5137,Calidad de clase,mixto_neutro,His lectures and class discussions give a lot more clarity to the content.,v2b-distilroberta
+45,5137,Carga de trabajo,negativo,There are a lot of readings so be prepared.,v2b-distilroberta
+46,5137,Rigor de calificación,mixto_neutro,"Not bad, but kind of a demanding prof.",v2b-distilroberta
+47,5137,Asistencia / formato,negativo,The number one mistake is not showing up to class.,v2b-distilroberta
+48,5451,Claridad de evaluación,positivo,The class is very straight-forward and what is expected of you is laid out clearly.,v2b-distilroberta
+49,5451,Calidad de clase,positivo,The material he provides is very interesting and I really enjoyed the class.,v2b-distilroberta
+50,5451,Accesibilidad y trato,positivo,He is extremely responsive if you ask him anything which is great.,v2b-distilroberta
+51,5451,Rigor de calificación,positivo,"The work load is fair, & if you do the work you will do well.",v2b-distilroberta
+52,5451,Asistencia / formato,mixto_neutro,& Society w/ Prof. Milburn (online).,v2b-distilroberta
+53,5462,Claridad de evaluación,mixto_neutro,"He relies completely on unclear, vague PowerPoints, and his lectures are totally centered around describing studies.",v2b-distilroberta
+54,5462,Calidad de clase,negativo,He just doesn't know how to teach to a room of 100 kids.,v2b-distilroberta
+55,5462,Rigor de calificación,mixto_neutro,It's very boring and misleadingly difficult.,v2b-distilroberta
+56,5804,Calidad de clase,negativo,Regurgitates the readings during class without interpreting them or trying to engage the students in discussions.,v2b-distilroberta
+57,5804,Accesibilidad y trato,negativo,"When she does ask us questions, she barely understands our responses most of the time.",v2b-distilroberta
+58,5807,Calidad de clase,positivo,Great prof.,v2b-distilroberta
+59,5807,Clima de aula,positivo,This class turned out to be a lot more interesting and fun than I originally anticipated.,v2b-distilroberta
+60,5811,Calidad de clase,positivo,This class was great.,v2b-distilroberta
+61,5811,Clima de aula,positivo,"She did not seem closed to activism, and encouraged people to speak their minds on a variety of issues from many perspectives.",v2b-distilroberta
+62,5815,Calidad de clase,negativo,"If you did the readings, the lectures are extremely boring and useless.",v2b-distilroberta
+63,5815,Accesibilidad y trato,positivo,She's a nice person but a lazy professor.,v2b-distilroberta
+64,5815,Asistencia / formato,negativo,Chantal does not encourage class discussions or participation.,v2b-distilroberta
+65,5889,Calidad de clase,negativo,She thinks she's an English teacher apparently.,v2b-distilroberta
+66,5889,Accesibilidad y trato,positivo,"She did, however, let me re-write my essay, so she isn't heartless.",v2b-distilroberta
+67,5889,Rigor de calificación,negativo,She is way too harsh when grading her essays.,v2b-distilroberta
+68,6067,Calidad de clase,negativo,I did not enjoy her class and wouldn't recommend her.,v2b-distilroberta
+69,6067,Accesibilidad y trato,negativo,She got upset when we asked questions and when I asked for help she made me feel stupid.,v2b-distilroberta
+70,6364,Claridad de evaluación,positivo,"What you are supposed to do for projects may seem difficult, but as long as you just cover exactly what it says in the directions, you'll get 100% on them.",v2b-distilroberta
+71,6364,Calidad de clase,mixto_neutro,"Class can be boring, but worth going!",v2b-distilroberta
+72,6364,Accesibilidad y trato,positivo,Super approachable and very understanding!,v2b-distilroberta
+73,6364,Rigor de calificación,mixto_neutro,Not hard.,v2b-distilroberta
+74,6364,Asistencia / formato,mixto_neutro,"Tests are online, recommend reading the chapter only before test, do not need to otherwise.",v2b-distilroberta
+75,6420,Calidad de clase,negativo,Only a class/teacher to take if you are in love with acting and plan on being an acting based theater major.,v2b-distilroberta
+76,6420,Organización / proyectos,negativo,Also is very unorganized with homework.,v2b-distilroberta
+77,6420,Clima de aula,positivo,Elizabeth takes every person as a serious actor who wishes to pursue this as a life goal.,v2b-distilroberta
+78,6730,Calidad de clase,positivo,Dr. Frank loves to teach and it shows!,v2b-distilroberta
+79,6730,Accesibilidad y trato,positivo,If anyone has a problem he will take the time to help.,v2b-distilroberta
+80,6817,Claridad de evaluación,positivo,Exams online are difficult with fill in the blank answers that must be exact.,v2b-distilroberta
+81,6817,Calidad de clase,negativo,"This is a good class if you want to be a secretary, and redundant in Word if you take INFS1010, another required class.",v2b-distilroberta
+82,6817,Rigor de calificación,mixto_neutro,Exams online are difficult with fill in the blank answers that must be exact.,v2b-distilroberta
+83,6817,Asistencia / formato,mixto_neutro,Exams online are difficult with fill in the blank answers that must be exact.,v2b-distilroberta
+84,6846,Clima de aula,positivo,"He is enthusiastic, but he's a ****.",v2b-distilroberta
+85,7003,Calidad de clase,negativo,Horrible teacher,v2b-distilroberta
+86,7006,Calidad de clase,mixto_neutro,"Very knowledgeable, very professional, but killed us with the amount of homework",v2b-distilroberta
+87,7006,Carga de trabajo,negativo,"Very knowledgeable, very professional, but killed us with the amount of homework",v2b-distilroberta
+88,7181,Accesibilidad y trato,mixto_neutro,Nancy is a nice person and really wants you to understand the material.,v2b-distilroberta
+89,7257,Retroalimentación,negativo,"I was a TA for her class and she not only sloughed everything off on us (including the grading), but she posted the grades we gave her late - wreaking havoc on my financial aid.",v2b-distilroberta
+90,7257,Rigor de calificación,negativo,"I was a TA for her class and she not only sloughed everything off on us (including the grading), but she posted the grades we gave her late - wreaking havoc on my financial aid.",v2b-distilroberta
+91,7257,Organización / proyectos,negativo,"I was a TA for her class and she not only sloughed everything off on us (including the grading), but she posted the grades we gave her late - wreaking havoc on my financial aid.",v2b-distilroberta
+92,7889,Calidad de clase,positivo,"interesting class, but uses a powerpoint.",v2b-distilroberta
+93,7889,Accesibilidad y trato,positivo,"very nice teacher, easy grader, very easy tests.",v2b-distilroberta
+94,7889,Carga de trabajo,mixto_neutro,and two also easy papers to write.,v2b-distilroberta
+95,7889,Rigor de calificación,mixto_neutro,and two also easy papers to write.,v2b-distilroberta
+96,7891,Claridad de evaluación,positivo,"great study directions, easy tests",v2b-distilroberta
+97,7891,Calidad de clase,negativo,lectures were fairly boring with a few corny jokes thrown in.,v2b-distilroberta
+98,7891,Accesibilidad y trato,negativo,"he was actually rude to me when i would say hello to him outside of class, he didn't have a clue who i was so he would just ignore me!",v2b-distilroberta
+99,7891,Rigor de calificación,mixto_neutro,"great study directions, easy tests",v2b-distilroberta
+100,7891,Clima de aula,negativo,lectures were fairly boring with a few corny jokes thrown in.,v2b-distilroberta
+101,7891,Asistencia / formato,mixto_neutro,takes attendence every day which is the only reason i went to class.,v2b-distilroberta
+102,8509,Calidad de clase,negativo,Worst professor I've ever had.,v2b-distilroberta
+103,8509,Rigor de calificación,mixto_neutro,"Taking him, I thought that maybe college physics was just more difficult.",v2b-distilroberta
+104,8517,Calidad de clase,negativo,"However, since Phelps does everything different than the book and doesn't explain things you will not learn anything.",v2b-distilroberta
+105,8517,Rigor de calificación,mixto_neutro,"The class seems like it will be easy on the first day because you get take home exams, open note quizzes and most of the homework problems done for you in class.",v2b-distilroberta
+106,8517,Asistencia / formato,mixto_neutro,"The class seems like it will be easy on the first day because you get take home exams, open note quizzes and most of the homework problems done for you in class.",v2b-distilroberta
+107,8522,Claridad de evaluación,negativo,He will mark correct answers wrong if he doesnt think in his opinion you knew how to do it.,v2b-distilroberta
+108,8522,Calidad de clase,negativo,He doesn't teach the concepts associated with physics.,v2b-distilroberta
+109,8522,Accesibilidad y trato,negativo,When you go to his office hours for help he'll make you sit and wait while he takes personal calls then he talks down to you.,v2b-distilroberta
+110,8522,Rigor de calificación,negativo,He will mark correct answers wrong if he doesnt think in his opinion you knew how to do it.,v2b-distilroberta
+111,8566,Calidad de clase,positivo,"Talks alot, but has interesting things to say.",v2b-distilroberta
+112,8566,Rigor de calificación,mixto_neutro,Easy A.,v2b-distilroberta
+113,8614,Accesibilidad y trato,negativo,She is not to be trusted.,v2b-distilroberta
+114,8682,Calidad de clase,positivo,"by far, the most useful class i have taken at fordham",v2b-distilroberta
+115,8682,Accesibilidad y trato,negativo,This man will reply to your e-mail in less than 5 mins.,v2b-distilroberta
+116,8682,Rigor de calificación,mixto_neutro,Very hard for intro to media industries much easier for internship seminar.,v2b-distilroberta
+117,8682,Clima de aula,positivo,"in all, fantastic professor, super passionate about what he teaches.",v2b-distilroberta
+118,8875,Accesibilidad y trato,positivo,Cumpton is the like the cool neighborhood grandma that gives advice and always has cookies.,v2b-distilroberta
+119,8875,Clima de aula,positivo,"If you take a night class with her, you can always expect cookies and she tries to fill the class time with fun and interesting things to do.",v2b-distilroberta
+120,8875,Asistencia / formato,positivo,"If you take a night class with her, you can always expect cookies and she tries to fill the class time with fun and interesting things to do.",v2b-distilroberta
+121,9056,Calidad de clase,negativo,So hard to understand and never stays on track with anything!,v2b-distilroberta
+122,9060,Accesibilidad y trato,negativo,ed and she's rude.,v2b-distilroberta
+123,9060,Carga de trabajo,negativo,way too much work for a gen.,v2b-distilroberta
+124,9219,Calidad de clase,positivo,"WOW, Ms. Sailors is so hot and smart too!",v2b-distilroberta
+125,9219,Clima de aula,positivo,It was SO COOL--she's into the stuff I'm into!,v2b-distilroberta
+126,9401,Claridad de evaluación,negativo,The tests are ridiculous.,v2b-distilroberta
+127,9401,Calidad de clase,negativo,Horrible prof.,v2b-distilroberta
+128,9401,Asistencia / formato,mixto_neutro,I don't agree with earlier comments that if you attend you will do well.,v2b-distilroberta
+129,9985,Accesibilidad y trato,negativo,She is full of herself rude and refuses to answer questions when directly asked instead she says put it on the discussion board so your class mates can answer it I pay to have an instructor if I wanted to teach myself I would by a book do the work and ask friends if they,v2b-distilroberta
+130,9989,Rigor de calificación,mixto_neutro,"Work is hard, but she is enthusiastic about it and doesn't understand that we don't share her passion.",v2b-distilroberta
+131,9989,Clima de aula,positivo,"Work is hard, but she is enthusiastic about it and doesn't understand that we don't share her passion.",v2b-distilroberta
+132,9989,Asistencia / formato,mixto_neutro,Most of this class is online.,v2b-distilroberta
+133,10020,Calidad de clase,negativo,"He converses with you based on his knowledge, therefore he's often difficult to understand.",v2b-distilroberta
+134,10020,Accesibilidad y trato,negativo,If you don't have the same mind set or agree with his answers he will argue with you until you force to give in.,v2b-distilroberta
+135,10020,Rigor de calificación,mixto_neutro,"Meany is a tough, opinionated teacher.",v2b-distilroberta
+136,10457,Calidad de clase,positivo,Prof Colasurdo is an awesome professor.,v2b-distilroberta
+137,10457,Clima de aula,positivo,"He is a great teacher and he is definitely not boring, has a great sense of humor.",v2b-distilroberta
+138,10463,Calidad de clase,mixto_neutro,"psy majors beware, this teacher thinks psychology is a waste of time.",v2b-distilroberta
+139,10463,Accesibilidad y trato,positivo,"i still enjoyed the class because it's an interesting topic, and he is a likeable guy, and he kind of grows on you.",v2b-distilroberta
+140,10463,Rigor de calificación,mixto_neutro,it was a fairly easy A.,v2b-distilroberta
+141,10463,Clima de aula,positivo,"i still enjoyed the class because it's an interesting topic, and he is a likeable guy, and he kind of grows on you.",v2b-distilroberta
+142,10712,Calidad de clase,mixto_neutro,Craig is hard to understand.,v2b-distilroberta
+143,10712,Accesibilidad y trato,mixto_neutro,At times he will go out of his way to help you.,v2b-distilroberta
+144,11345,Claridad de evaluación,negativo,"frustrating, hard to listen to-explanations are not clear and strait fwd like they should be making it hard to pay attention.",v2b-distilroberta
+145,11345,Calidad de clase,negativo,"frustrating, hard to listen to-explanations are not clear and strait fwd like they should be making it hard to pay attention.",v2b-distilroberta
+146,12583,Calidad de clase,positivo,go to his clsss equal to learn by yourself....,v2b-distilroberta
+147,12661,Claridad de evaluación,positivo,"Gave us his powerpoints and the tests were open book/note, but you had to voice your opinion on those as well.",v2b-distilroberta
+148,12661,Calidad de clase,negativo,"He kind of trails off when he talks, not that a lot of what he says is important to take down.",v2b-distilroberta
+149,12712,Calidad de clase,positivo,He knows the material very well and adds many interesting details.,v2b-distilroberta
+150,13047,Calidad de clase,negativo,he is the worse professor i have ever had.,v2b-distilroberta
+151,13282,Calidad de clase,negativo,because the interim dean for MIS is the worst teacher in MIS!!!!,v2b-distilroberta
+152,13760,Claridad de evaluación,positivo,"Energetic, Wonderful, Passionate, good projects, straight forward on test requirements",v2b-distilroberta
+153,13760,Calidad de clase,positivo,"Energetic, Wonderful, Passionate, good projects, straight forward on test requirements",v2b-distilroberta
+154,13760,Organización / proyectos,positivo,"Energetic, Wonderful, Passionate, good projects, straight forward on test requirements",v2b-distilroberta
+155,13966,Claridad de evaluación,positivo,Just review the slides before the exam and you will get an A.,v2b-distilroberta
+156,13966,Carga de trabajo,positivo,If you pay attention in lecture then reviewing won't be much at all.,v2b-distilroberta
+157,13966,Rigor de calificación,mixto_neutro,Ned is an easy professor.,v2b-distilroberta
+158,13966,Asistencia / formato,positivo,He gives numerous amounts of extra credit.,v2b-distilroberta
+159,14511,Calidad de clase,positivo,cool guy good teacher,v2b-distilroberta
+160,14511,Accesibilidad y trato,positivo,cool guy good teacher,v2b-distilroberta
+161,14841,Calidad de clase,negativo,HE IS TERRIBLE AT DOING THE JOB HE IS PAID TO DO.,v2b-distilroberta
+162,14841,Accesibilidad y trato,positivo,AND ON TOP OF THAT HE IS A MEAN SPIRITED PERSON WHO DOESNT CARE FOR STUDENTS,v2b-distilroberta
+163,15029,Calidad de clase,positivo,Favorite Class and Favorite Prof. Most useful class I've EVER taken.,v2b-distilroberta
+164,15041,Accesibilidad y trato,mixto_neutro,"Appears nice, but he doesn't care about his students.",v2b-distilroberta
+165,15805,Accesibilidad y trato,positivo,this guy will bend over backwords to make sure you understand the material and that you pass the class.,v2b-distilroberta
+166,15879,Claridad de evaluación,mixto_neutro,But he was fair on marking the SPSS project and Quiz 2.,v2b-distilroberta
+167,15879,Accesibilidad y trato,positivo,"I had him again for 202, still the same nice prof.",v2b-distilroberta
+168,15879,Rigor de calificación,positivo,But he was fair on marking the SPSS project and Quiz 2.,v2b-distilroberta
+169,15879,Clima de aula,positivo,He ensures ppl understands and sometimes adds some humor.,v2b-distilroberta
+170,15969,Calidad de clase,positivo,I enjoyed reading the material and her lectures were very informative.,v2b-distilroberta
+171,15969,Rigor de calificación,mixto_neutro,DONT TAKE THIS CLASS IF YOU WANT AN EASY A BECAUSE YOU WILL NOT GET ONE!!,v2b-distilroberta
+172,16173,Calidad de clase,positivo,"It is the most eye opening, provocative and inspirational course at Guelph.",v2b-distilroberta
+173,16173,Accesibilidad y trato,positivo,He cares about his students and wants them to think critically about every reading.,v2b-distilroberta
+174,16173,Carga de trabajo,negativo,100+ pages of reading/week.,v2b-distilroberta
+175,16173,Rigor de calificación,mixto_neutro,Tough marker.,v2b-distilroberta
+176,16173,Clima de aula,positivo,"It is the most eye opening, provocative and inspirational course at Guelph.",v2b-distilroberta
+177,16173,Asistencia / formato,mixto_neutro,Quiz every class.,v2b-distilroberta
+178,16487,Calidad de clase,positivo,She is very good,v2b-distilroberta
+179,16490,Calidad de clase,positivo,Mrs. Bruce is a thorough and helpful teacher.,v2b-distilroberta
+180,16490,Accesibilidad y trato,positivo,Mrs. Bruce is a thorough and helpful teacher.,v2b-distilroberta
+181,16490,Rigor de calificación,mixto_neutro,She is quick witted and can be difficult but will go out of her way to help any student pass or make an A.,v2b-distilroberta
+182,16716,Calidad de clase,positivo,Vancleave is the man.,v2b-distilroberta
+183,16716,Clima de aula,positivo,I took him for a summer class and he is very fun.,v2b-distilroberta
+184,16716,Asistencia / formato,mixto_neutro,You will discuss them each day in class and he will give you a grade on participation.,v2b-distilroberta
+185,17027,Carga de trabajo,negativo,"Requires a lot of studying, effort, homework every night, class participation.",v2b-distilroberta
+186,17027,Rigor de calificación,mixto_neutro,Intermediate Russian (0030 & 0040) is definitely challenging.,v2b-distilroberta
+187,17282,Claridad de evaluación,negativo,very hard teacher doesnt explain well and tests you get slammed you study so much but never know whats on the test.,v2b-distilroberta
+188,17282,Calidad de clase,negativo,very hard teacher doesnt explain well and tests you get slammed you study so much but never know whats on the test.,v2b-distilroberta
+189,17282,Rigor de calificación,mixto_neutro,very hard class dont know if ill survive this semester,v2b-distilroberta
+190,17287,Carga de trabajo,mixto_neutro,Even if you study you can have 4 chapters from the book and 3 chapters from the lab you have to know/ alot of the,v2b-distilroberta
+191,17287,Rigor de calificación,mixto_neutro,her labs are relatively easy she does help you with them but you better get extra credit because when time comes for a test you get slammed.,v2b-distilroberta
+192,17287,Asistencia / formato,positivo,her labs are relatively easy she does help you with them but you better get extra credit because when time comes for a test you get slammed.,v2b-distilroberta
+193,17938,Calidad de clase,mixto_neutro,Best professor period; rewarding course.,v2b-distilroberta
+194,17938,Carga de trabajo,negativo,"This course is time consuming and difficult, but that's the nature of the course content.",v2b-distilroberta
+195,17938,Rigor de calificación,mixto_neutro,"This course is time consuming and difficult, but that's the nature of the course content.",v2b-distilroberta
+196,17938,Organización / proyectos,mixto_neutro,After you're done all the projects you feel a sense of real accomplishment.,v2b-distilroberta
+197,18196,Calidad de clase,positivo,"Best lecturer I have ever had, very interesting and you don't have to show up everyday if you don't want to.",v2b-distilroberta
+198,18248,Calidad de clase,positivo,He goes through his lectures at a good pace to make sure you get what you need.,v2b-distilroberta
+199,18248,Accesibilidad y trato,positivo,Professor Potter is a really good and caring professor.,v2b-distilroberta
+200,18248,Rigor de calificación,mixto_neutro,"The only downside is that your graded on few things, but as long as you study hard its a great class to take.",v2b-distilroberta
+201,18881,Claridad de evaluación,negativo,"You must go to her and ask specifically what will be on the test because if you do ALL the readings she assigns, you will literally have no other time for any other classes.",v2b-distilroberta
+202,18881,Calidad de clase,negativo,Syllabus is sometimes a mess.,v2b-distilroberta
+203,18881,Accesibilidad y trato,positivo,Teacher has a great attitude and is very helpful but many times is disorganized and assigns reading that you simply will not have time to do.,v2b-distilroberta
+204,18881,Organización / proyectos,negativo,Teacher has a great attitude and is very helpful but many times is disorganized and assigns reading that you simply will not have time to do.,v2b-distilroberta
+205,18881,Asistencia / formato,positivo,"You must go to her and ask specifically what will be on the test because if you do ALL the readings she assigns, you will literally have no other time for any other classes.",v2b-distilroberta
+206,18882,Calidad de clase,negativo,"All of the homework is tedious, and you basically teach yourself.",v2b-distilroberta
+207,18882,Accesibilidad y trato,positivo,"She is a very sweet woman who will work with you depending on what you have going on in your life, but she assigns more homework than she can even grade.",v2b-distilroberta
+208,18882,Carga de trabajo,negativo,"All of the homework is tedious, and you basically teach yourself.",v2b-distilroberta
+209,18882,Rigor de calificación,positivo,"She is a very sweet woman who will work with you depending on what you have going on in your life, but she assigns more homework than she can even grade.",v2b-distilroberta
+210,18882,Organización / proyectos,negativo,Most unorganized teacher I have ever had.,v2b-distilroberta
+211,18942,Claridad de evaluación,positivo,"She teaches really good, her exams were based off everything she teaches.",v2b-distilroberta
+212,18942,Calidad de clase,mixto_neutro,"She teaches really good, her exams were based off everything she teaches.",v2b-distilroberta
+213,18942,Rigor de calificación,mixto_neutro,SKIP CLASS YOU WON'T PASS.,v2b-distilroberta
+214,18942,Organización / proyectos,mixto_neutro,Also beware of group work.,v2b-distilroberta
+215,18942,Asistencia / formato,negativo,I missed class once and was not able to make up her work even though I had an injury.,v2b-distilroberta
+216,19023,Claridad de evaluación,positivo,"She expects a lot, but there are no surprises.",v2b-distilroberta
+217,19023,Accesibilidad y trato,positivo,"Dr. Kahan is a very nice, caring professor.",v2b-distilroberta
+218,19023,Carga de trabajo,mixto_neutro,"Go to class, pay attention, participate, read the assigned readings, and you'll do well.",v2b-distilroberta
+219,19023,Rigor de calificación,positivo,"She expects a lot, but there are no surprises.",v2b-distilroberta
+220,19023,Asistencia / formato,mixto_neutro,"Go to class, pay attention, participate, read the assigned readings, and you'll do well.",v2b-distilroberta
+221,19135,Claridad de evaluación,mixto_neutro,Some test questions are confusing.,v2b-distilroberta
+222,19135,Calidad de clase,positivo,"Overall, a pretty good teacher.",v2b-distilroberta
+223,19135,Asistencia / formato,positivo,Gives a maximum of 3 percentage points for extra credit.,v2b-distilroberta
+224,19137,Calidad de clase,positivo,Super awesome teacher.,v2b-distilroberta
+225,19137,Asistencia / formato,mixto_neutro,You need to take notes and come to class.,v2b-distilroberta
+226,19146,Calidad de clase,positivo,Dr. Toth is awesome.,v2b-distilroberta
+227,19146,Accesibilidad y trato,positivo,"but she is fun to be around, especially once you get to know her.",v2b-distilroberta
+228,19146,Carga de trabajo,negativo,There is quite a bit of material and you should always go to class...,v2b-distilroberta
+229,19146,Clima de aula,positivo,"but she is fun to be around, especially once you get to know her.",v2b-distilroberta
+230,19151,Calidad de clase,positivo,One of the best on campus!,v2b-distilroberta
+231,19604,Rigor de calificación,mixto_neutro,"ok, the only negative in his class is the hard quizes on blackboard.",v2b-distilroberta
+232,19604,Clima de aula,positivo,"he is really into theatre and wants people to appreciate it, we watch alot of movies and there is no attendance policy, just dont sleep or walk out while he lectures",v2b-distilroberta
+233,19604,Asistencia / formato,mixto_neutro,"he is really into theatre and wants people to appreciate it, we watch alot of movies and there is no attendance policy, just dont sleep or walk out while he lectures",v2b-distilroberta
+234,19605,Calidad de clase,negativo,Have the stuff that is on the quizes he never talks about.,v2b-distilroberta
+235,19605,Asistencia / formato,mixto_neutro,If you take this class just dont go and you will still do fine.,v2b-distilroberta
+236,19612,Accesibilidad y trato,positivo,I think he is really nice and very passionate about theatre.,v2b-distilroberta
+237,19612,Clima de aula,positivo,I think he is really nice and very passionate about theatre.,v2b-distilroberta
+238,19613,Calidad de clase,negativo,All of his class in on blackboard and he shows an inappropriate amount of movies for a college course.,v2b-distilroberta
+239,19616,Calidad de clase,negativo,Josh really loves talkig about weather and gets excited but he isn't great at communicating that info to his students.,v2b-distilroberta
+240,19616,Rigor de calificación,positivo,Really lenient with accepting late assignments.,v2b-distilroberta
+241,19616,Clima de aula,positivo,Josh really loves talkig about weather and gets excited but he isn't great at communicating that info to his students.,v2b-distilroberta
+242,19620,Calidad de clase,positivo,not a bad teacher at all.,v2b-distilroberta
+243,19620,Accesibilidad y trato,positivo,"Nice guy, loves weather...",v2b-distilroberta
+244,19620,Clima de aula,positivo,gets very excited about it.,v2b-distilroberta

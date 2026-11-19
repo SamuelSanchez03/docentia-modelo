@@ -1,0 +1,2 @@
+lote_id,archivo,fecha_importacion,filas_leidas,filas_insertadas,filas_duplicadas,filas_rechazadas
+1,RateMyProfessor_Sample.csv,2026-10-15T14:46:11,20000,19971,29,0
