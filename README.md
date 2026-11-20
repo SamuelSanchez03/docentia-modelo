@@ -111,10 +111,7 @@ python pesos_hf.py subir SamSanchez03/docentia-absa                # repo privad
 python pesos_hf.py subir SamSanchez03/docentia-absa --publico
 ```
 
-El repo de pesos en Hugging Face es [`SamSanchez03/docentia-absa`](https://huggingface.co/SamSanchez03/docentia-absa). Su tarjeta, [`MODEL_CARD.md`](MODEL_CARD.md), se sube como el README de ese repo:
-
-```bash
-hf upload SamSanchez03/docentia-absa MODEL_CARD.md README.md
+El repo de pesos en Hugging Face es [`SamSanchez03/docentia-absa`](https://huggingface.co/SamSanchez03/docentia-absa).
 ```
 
 ## Predecir
